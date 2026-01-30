@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Five-College Footlights</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=link"
+    />
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div id="top"></div>
+    <div class="grid-container">
+      <div class="header" id="home-about-portfolio">
+        <a href="#top">
+          <img
+            src="images/5MasksLogo.png"
+            alt="5 College Footlights Logo"
+            class="header-logo"
+          />
+        </a>
+        <h1><a href="#top">Five-College Footlights</a></h1>
+        <ul id="month-nav">
+          <li><a href="#month-2026-0">January</a></li>
+          <li><a href="#month-2026-1">February</a></li>
+          <li><a href="#month-2026-2">March</a></li>
+          <li><a href="#month-2026-3">April</a></li>
+          <li><a href="#month-2026-4">May</a></li>
+        </ul>
+        <ul id="mobile-about-nav">
+          <li><a href="#welcome">About</a></li>
+        </ul>
+      </div>
+      <div class="sidebar">
+        <img src="images/5MasksLogo.png" alt="5 College Footlights LogoJPG" />
+        <h2 id="welcome">Welcome</h2>
+        <p class="sidebar-text">
+          This website grew out of a simple idea: bringing live performances and
+          public lectures from across the Five Colleges into one easy-to-use
+          calendar. Amherst, Hampshire, Mount Holyoke, Smith, and UMass offer a
+          wealth of cultural events, many of them free or inexpensive. Browse
+          around, see what appeals to you, and check back — we’ll keep updating
+          the calendar throughout the year.
+        </p>
+        <p class="sidebar-text-name">-- Bernie Davidow</p>
+        <h2>Note on Listings</h2>
+        <p class="sidebar-text">
+          We note which events are free and include ticket prices whenever
+          possible. If you click “Details,” you’ll be taken directly to the
+          college’s event page for the latest info — including last-minute
+          changes, cancellations, and anything new that’s been added.
+        </p>
+        <p class="sidebar-text">
+          This site is not affiliated with any of the colleges or event
+          organizers.
+        </p>
+        <h2>Have a Question or Suggestion?</h2>
+        <p class="sidebar-text">
+          If you spot an event we missed, notice an error, or just want to share
+          feedback, I’d love to hear from you.
+          <span id="email"></span>.
+        </p>
+      </div>
+      <div class="main-content" id="main-content">
+        <!-- <h1>Five-College Footlights</h1> -->
+        <h4 class="intro-line">
+          <!-- <p class="intro-line"> -->
+          Concerts, lectures, theater, and more — all happening across the Five
+          Colleges
+          <!-- </p> -->
+        </h4>
+        <div id="carousel">
+          <button id="left-button">&lt;</button
+          ><!-- THIS WORKS WITH THE ERROR BUT NOT WITHOUT. HOW TO FIXZ? -->
+          <div id="image-holder">
+            <div class="pkg">
+              <img
+                src="images/AmherstCropped.jpg"
+                alt="Johnson Chapel at Amherst College"
+              />
+              <div class="college-and-menu">
+                <!-- added -->
+                <div class="carousel-hint">← Browse campuses →</div>
+                <p>Amherst College<br />220 S. Pleasant St., Amherst</p>
+                <div class="dropdown">
+                  <button class="dropbtn">Getting There</button>
+                  <div class="dropdown-content">
+                    <a
+                      href="https://map.concept3d.com/?id=750#!ce/15072?ct/15072?s/"
+                      target="_blank"
+                      >Campus Map</a
+                    >
+                    <a
+                      href="https://www.amherst.edu/visiting/parking"
+                      target="_blank"
+                      >Parking Rules</a
+                    >
+                    <a
+                      href="https://maps.app.goo.gl/NpNhzZpHe7DH3rca7"
+                      target="_blank"
+                      >Google Map</a
+                    >
+                  </div>
+                  <!-- DD content-->
+                </div>
+                <!-- drodown pdg -->
+              </div>
+            </div>
+            <!-- carousel -->
+            <div class="pkg invisible">
+              <img
+                src="images/HampshireCropped.jpg"
+                alt="Hampshire College campus"
+              />
+              <div class="college-and-menu">
+                <div class="carousel-hint">← Browse campuses →</div>
+                <p>Hampshire College<br />893 West St., Amherst</p>
+                <div class="dropdown">
+                  <!--               <div class="ham-line"></div>
+                <div class="ham-line"></div>
+                <div class="ham-line"></div>
+              </div>
+            -->
+                  <button class="dropbtn">Getting There</button>
+                  <div class="dropdown-content">
+                    <a
+                      href="https://www.hampshire.edu/sites/default/files/Hampshireparkingmap16.pdf"
+                      target="_blank"
+                      >Campus Map</a
+                    >
+                    <a
+                      href="https://handbook.hampshire.edu/node/59"
+                      target="_blank"
+                      >Parking Rules</a
+                    >
+                    <a
+                      href="https://maps.app.goo.gl/CtN6GAFPLxaNfVF96"
+                      target="_blank"
+                      >Google Map</a
+                    >
+                  </div>
+                  <!-- DD content-->
+                </div>
+                <!-- drodown pdg -->
+              </div>
+            </div>
+            <div class="pkg invisible">
+              <img
+                src="images/MountHolyokeCropped.jpeg"
+                alt="Mount Holyoke campus"
+              />
+              <div class="college-and-menu">
+                <div class="carousel-hint">← Browse campuses →</div>
+                <p>Mount Holyoke College<br />50 College St., South Hadley</p>
+                <div class="dropdown">
+                  <button class="dropbtn">Getting There</button>
+                  <div class="dropdown-content">
+                    <a
+                      href="https://map.mtholyoke.edu/?id=2239#!ct/89176,89177,89188,89189,89197,89198,89192,89193,89194,89195,89196"
+                      target="_blank"
+                      >Campus Map</a
+                    >
+                    <a
+                      href="https://offices.mtholyoke.edu/parking/visitors"
+                      target="_blank"
+                      >Parking Rules</a
+                    >
+                    <a
+                      href="https://maps.app.goo.gl/p6yvmCkwNAqoBM628"
+                      target="_blank"
+                      >Google Map</a
+                    >
+                  </div>
+                  <!-- DD content-->
+                </div>
+                <!-- drodown pdg -->
+              </div>
+            </div>
+            <div class="pkg invisible">
+              <img
+                src="images/SmithCropped.jpg"
+                alt="Smith College main gate"
+              />
+              <div class="college-and-menu">
+                <div class="carousel-hint">← Browse campuses →</div>
+                <p>Smith College<br />10 Elm St., Northampton</p>
+                <div class="dropdown">
+                  <button class="dropbtn">Getting There</button>
+                  <div class="dropdown-content">
+                    <a
+                      href="https://map.concept3d.com/?id=774#!ce/10457?ct/77334,94217,94221,94218,94219,94220,94222?s/"
+                      target="_blank"
+                      >Campus Map</a
+                    >
+                    <a
+                      href="https://www.smith.edu/your-campus/offices-services/campus-safety/parking-smith/visitor-parking"
+                      target="_blank"
+                      >Parking Rules</a
+                    >
+                    <a
+                      href="https://maps.app.goo.gl/ofog2Lemx78zPEX88"
+                      target="_blank"
+                      >Google Map</a
+                    >
+                  </div>
+                  <!-- DD content-->
+                </div>
+                <!-- drodown pdg -->
+              </div>
+            </div>
+            <div class="pkg invisible">
+              <img
+                src="images/UMassCropped.jpg"
+                alt="University of Massachusetts campus"
+              />
+              <div class="college-and-menu">
+                <div class="carousel-hint">← Browse campuses →</div>
+                <p>
+                  University of Massachusetts<br />
+                  300 Massachusetts Ave., Amherst
+                </p>
+                <div class="dropdown">
+                  <button class="dropbtn">Getting There</button>
+                  <div class="dropdown-content">
+                    <a
+                      href="https://maps.umass.edu/parking/#?latitude=42.39030&longitude=-72.52930&zoom=16.0&rotation=0&basemap=topo-vector"
+                      target="_blank"
+                      >Campus Map</a
+                    >
+                    <a
+                      href="https://www.umass.edu/transportation/parking"
+                      target="_blank"
+                      >Parking Services</a
+                    >
+                    <a
+                      href="https://maps.app.goo.gl/7cET8BtSgHx26iRr6"
+                      target="_blank"
+                      >Google Map</a
+                    >
+                  </div>
+                  <!-- DD content-->
+                </div>
+                <!-- drodown pdg -->
+              </div>
+            </div>
+          </div>
+          <button id="right-button">></button>
+        </div>
+        <!-- carousel-->
+        <section class="lists">
+          <div id="events-grid" class="events-grid"></div>
+        </section>
+      </div>
+      <!-- END .main-content -->
+      <div class="footer" id="footer">
+        <h3>Credits</h3>
+        <p>
+          Campus photos by Bernard T. Davidow. Other images are courtesy of the
+          respective colleges.
+        </p>
+      </div>
+    </div>
+    <!-- end .grid-container -->
+  </body>
+</html>

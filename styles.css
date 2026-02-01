@@ -888,6 +888,11 @@ html {
     width: 100%;
   }
 
+  .event-link::after {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
   /* ---------------------------------
      Sidebar (now at bottom)
   --------------------------------- */

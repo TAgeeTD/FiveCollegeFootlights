@@ -1,30 +1,18 @@
 {
   "events": [
     {
-      "title": "A Conversation with Judy Richardson, activist and filmmaker",
-      "titleExplain": "MLK Commemorative Keynote",
-      "date": "2026-01-29",
-      "startTime": "4:45 p.m.",
-      "endTime": "6 p.m.",
-      "location": "Community Center, Great Room",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "imageURL": "https://localist-images.azureedge.net/photos/51585396314612/card@2x/f24cb201ffd1b1e5f771bfc86fa61271028d8060.jpg",
-      "url": "https://events.mtholyoke.edu/event/mlk-commemorative-keynote"
-    },
-    {
-      "title": "A Latine Outdoor Experience: Remembering, Resisting, and Reimagining",
-      "titleExplain": null,
-      "date": "2026-01-29",
-      "startTime": "7 p.m.",
-      "endTime": null,
-      "location": "Odyssey Bookshop",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "imageURL": "https://localist-images.azureedge.net/photos/51762929469591/card/3f4d6cdf737edef937728f175f844d4e62433626.jpg",
-      "imageAlt": "Outdoor Latine Experience event banner",
-      "url": "https://events.mtholyoke.edu/event/odyssey-bookshop-olivia-aguilar-in-person"
-    },
+      {
+        "title": "Opening Reception for Dæmonomania Art Exhibit",
+        "titleExplain": "Artwork by Anthony Discensa (American, b. 1967)",
+        "date": "2026-02-06",
+        "startTime": "5 p.m.",
+        "endTime": "7 p.m.",
+        "location": "Hampshire College Art Gallery",
+        "college": "Hampshire",
+        "tickets": null,
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/66521f78090c7701ae8fae29/fcf2e211-5870-42b8-afe6-70bb0ce15e69/sobeit-opening-2.jpg?format=2500w",
+        "url": "https://www.hampshirecollege.gallery/anthony-discenza?ss_source=sscampaigns&ss_campaign_id=69809e421cde254211755a06&ss_email_id=6980a2ea21fc8544d73424b6&ss_campaign_name=D%C3%A6monomania%3A+Opening+Reception+Friday%2C+Feb+6%2C+5%E2%80%947+PM&ss_campaign_sent_date=2026-02-02T13%3A14%3A08Z"
+      },
     {
       "title": "Faculty Concert of Chamber Music",
       "titleExplain": "Elizabeth Chang, violin with Steven Beck, piano",

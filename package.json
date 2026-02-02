@@ -8,7 +8,7 @@
       "endTime": "6 p.m.",
       "location": "Community Center, Great Room",
       "college": "Mount Holyoke",
-      "tickets": "",
+      "tickets": null,
       "url": "https://events.mtholyoke.edu/event/mlk-commemorative-keynote"
     },
     {
@@ -19,7 +19,7 @@
       "endTime": "6:30 p.m.",
       "location": "Aliki Perroti & Seth Frank Lyceum",
       "college": "Amherst",
-      "tickets": "",
+      "tickets": null,
       "url": "https://www.amherst.edu/news/events/calendar/node/935608"
     },
     {

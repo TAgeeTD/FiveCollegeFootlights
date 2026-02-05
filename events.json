@@ -1,40 +1,71 @@
 {
   "events": [
     {
-      "title": "A Conversation with Judy Richardson, activist and filmmaker",
-      "titleExplain": "MLK Commemorative Keynote",
-      "date": "2026-01-29",
-      "startTime": "4:45 p.m.",
-      "endTime": "6 p.m.",
-      "location": "Community Center, Great Room",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "imageURL": "https://localist-images.azureedge.net/photos/51585396314612/card@2x/f24cb201ffd1b1e5f771bfc86fa61271028d8060.jpg",
-      "url": "https://events.mtholyoke.edu/event/mlk-commemorative-keynote"
-    },
-    {
-      "title": "A Latine Outdoor Experience: Remembering, Resisting, and Reimagining",
-      "titleExplain": null,
-      "date": "2026-01-29",
-      "startTime": "7 p.m.",
-      "endTime": null,
-      "location": "Odyssey Bookshop",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "imageURL": "https://localist-images.azureedge.net/photos/51762929469591/card/3f4d6cdf737edef937728f175f844d4e62433626.jpg",
-      "imageAlt": "Outdoor Latine Experience event banner",
-      "url": "https://events.mtholyoke.edu/event/odyssey-bookshop-olivia-aguilar-in-person"
-    },
-    {
-      "title": "Faculty Concert of Chamber Music",
-      "titleExplain": "Elizabeth Chang, violin with Steven Beck, piano",
-      "date": "2026-02-03",
+      "title": "Sage Chamber Music Society Concert",
+      "titleExplain": "Featuring violinist Fabiola Kim of the University of Michigan School of Music, Theatre & Dance, and Smith faculty pianist Jiayan Sun playing Schubert",
+      "date": "2026-02-106",
       "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/scms-fabiola-kim-violin-jiayan-sun-piano"
+    },
+    {
+      "title": "Opening Reception for Dæmonomania Art Exhibit (NEW DATE)",
+      "titleExplain": "Artwork by Anthony Discensa (American, b. 1967)",
+      "date": "2026-02-13",
+      "startTime": "5 p.m.",
+      "endTime": "7 p.m.",
+      "location": "Hampshire College Art Gallery",
+      "college": "Hampshire",
+      "tickets": null,
+      "imageURL": "https://images.squarespace-cdn.com/content/v1/66521f78090c7701ae8fae29/fcf2e211-5870-42b8-afe6-70bb0ce15e69/sobeit-opening-2.jpg?format=2500w",
+      "url": "https://www.hampshirecollege.gallery/anthony-discenza?ss_source=sscampaigns&ss_campaign_id=69809e421cde254211755a06&ss_email_id=6980a2ea21fc8544d73424b6&ss_campaign_name=D%C3%A6monomania%3A+Opening+Reception+Friday%2C+Feb+6%2C+5%E2%80%947+PM&ss_campaign_sent_date=2026-02-02T13%3A14%3A08Z"
+    },
+    {
+      "title": "What if Everyone Voted? Power, Freedom, and the Future of American Democracy",
+      "titleExplain": "Panel discussion, part of the Freedman Lecture Series, with Georgetown University professor Jason Brennan, former Connecticut legislator Evelyn Mantilla, and 100% Democracy Executive Director Miles Rapoport",
+      "date": "2026-02-10",
+      "startTime": "4 p.m.",
       "endTime": null,
-      "location": "Bezanson Recital Hall",
+      "location": "Old Chapel",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/faculty-concert-elizabeth-chang-violin-steven-beck-piano-0"
+      "url": "https://www.umass.edu/social-sciences/research/freedman-lecture-series"
+    },
+    {
+      "title": "MFA Dance Concert",
+      "titleExplain": "Featuring choreography by second-year M.F.A. candidates Chavi Bansal, Dimitri Kalaitzidis and Hannah Littman",
+      "date": "2026-02-05",
+      "startTime": "8 p.m.",
+      "endTime": null,
+      "location": "Mendenhall Center for the Performing Arts",
+      "college": "Smith",
+      "tickets": "Reservations are required for both shows. Tickets range from $0 to $10.",
+      "url": "https://www.smith.edu/news-events/news/2026-mfa-dance-concert"
+    },
+    {
+      "title": "MFA Dance Concert",
+      "titleExplain": "Featuring choreography by second-year M.F.A. candidates Chavi Bansal, Dimitri Kalaitzidis and Hannah Littman",
+      "date": "2026-02-06",
+      "startTime": "8 p.m.",
+      "endTime": null,
+      "location": "Mendenhall Center for the Performing Arts",
+      "college": "Smith",
+      "tickets": "Reservations are required for both shows. Tickets range from $0 to $10.",
+      "url": "https://www.smith.edu/news-events/news/2026-mfa-dance-concert"
+    },
+    {
+      "title": "MFA Dance Concert",
+      "titleExplain": "Featuring choreography by second-year M.F.A. candidates Chavi Bansal, Dimitri Kalaitzidis and Hannah Littman",
+      "date": "2026-02-07",
+      "startTime": "8 p.m.",
+      "endTime": null,
+      "location": "Mendenhall Center for the Performing Arts",
+      "college": "Smith",
+      "tickets": "Reservations are required for both shows. Tickets range from $0 to $10.",
+      "url": "https://www.smith.edu/news-events/news/2026-mfa-dance-concert"
     },
     {
       "title": "Venice Baroque Orchestra",
@@ -125,6 +156,17 @@
       "url": "https://arts.umass.edu/cirque-flip-fabrique-blizzard-2526"
     },
     {
+      "title": "Experiments in Improvisation",
+      "titleExplain": "Sarah Young presents her MFA thesis performance. The piece for 6 performers includes a tap dancer and a live musician and uses improvised scores with inspiration from James Joyce's \"Finnegans Wake\".",
+      "date": "2026-02-14",
+      "startTime": "3 p.m.",
+      "endTime": "4:30 p.m.",
+      "location": "Crew House Dance Studio",
+      "college": "Smith",
+      "tickets": "Reservations required",
+      "url": "https://new.smith.edu/news-events/events/experiments-improvisation-sarah-young-mfa-thesis-performance"
+    },
+    {
       "title": "Opus One Chamber Orchestra",
       "titleExplain": null,
       "date": "2026-02-17",
@@ -180,6 +222,17 @@
       "url": "https://www.umass.edu/music-dance/events/graduate-conducting-recital-chamber-choir"
     },
     {
+      "title": "Songs of Love and Death by Olivier Messiaen",
+      "titleExplain": "Presented by the Sage Chamber Music Society",
+      "date": "2026-02-20",
+      "startTime": "7:39 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/sage-chamber-music-society-presents-harawi-songs-love-and-death-olivier-messiaen"
+    },
+    {
       "title": "40th Annual High School Honor Band Concert",
       "titleExplain": null,
       "date": "2026-02-21",
@@ -200,6 +253,17 @@
       "college": "Amherst",
       "tickets": "Tickets go on sale Feb. 7, general public $28; Senior Citizens (65+): $22; Students with valid ID and children: $12 Free with valid Amherst College ID",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/929157"
+    },
+    {
+      "title": "Music Monday 4: Chamber Singers",
+      "titleExplain": "Featuring selections from their concert tour of Spain",
+      "date": "2026-02-23",
+      "startTime": "1 p.m.",
+      "endTime": "1:30 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/music-monday-4-chamber-singers"
     },
     {
       "title": "The Listening Room: New Music Spotlight",
@@ -266,6 +330,39 @@
       "college": "UMass",
       "tickets": "Ticket prices start at $40, less for Five College students and youths",
       "url": "https://arts.umass.edu/performing-arts/events/paul-taylor-dance-company-2526"
+    },
+    {
+      "title": "Orchestra Spring Concert",
+      "titleExplain": "Featuring works by Schumann, Brahms, Valerie Coleman and Gabriela Ortiz",
+      "date": "2026-02-27",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/orchestra-spring-concert"
+    },
+    {
+      "title": "Laurie Ellington and Suspension Bridge",
+      "titleExplain": "Pop, R&B, jazz",
+      "date": "2026-02-28",
+      "startTime": "4 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Earle Recital Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/laurie-ellington-and-suspension-bridge"
+    },
+    {
+      "title": "\"Merry Me\" by Hansol Jung",
+      "titleExplain": "Theater",
+      "date": "2026-02-28",
+      "startTime": "7:30 p.m.",
+      "endTime": "9:30 p.m.",
+      "location": "Hallie Flanagan Studio Theatre",
+      "college": "Smith",
+      "tickets": "Tickets $5 to $15, free for Smith Students",
+      "url": "https://new.smith.edu/news-events/events/merry-me-hansol-jung"
     },
     {
       "title": "Policy Playhouse Festival",
@@ -376,6 +473,17 @@
       "college": "Mount Holyoke",
       "tickets": "Tickets $10 general admission, $5 students and senior citizens",
       "url": "https://events.mtholyoke.edu/event/melancholy-play"
+    },
+    {
+      "title": "New Play Reading Series: Spork Play by Sadie Shapiro '29",
+      "titleExplain": "Theater",
+      "date": "2026-03-05",
+      "startTime": "7:30 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Theatr Acting Studio 1",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/new-play-reading-series-spork-play-sadie-shapiro-29"
     },
     {
       "title": "2026 Spring Bulb Show Opening Lecture by Peter Grima",
@@ -532,6 +640,17 @@
       "url": "https://purchase.arts.umass.edu/EventAvailability?EventId=12001&_gl=1*1xod35a*_gcl_au*NDA3NzE4NzAyLjE3Njc5OTIzMzg.*_ga*MTMwNjQ2NDM4LjE3NTg4OTE5NTI.*_ga_21RLS0L7EB*czE3NjkyMDE4MDUkbzI2JGcxJHQxNzY5MjAyNTA0JGoyNyRsMCRoMA.."
     },
     {
+      "title": "50+ Years of Women Directing",
+      "titleExplain": "Talk by Smith alum Mary B. Robinson, a theater director, educator and author",
+      "date": "2026-03-10",
+      "startTime": "4 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Theater Green Room",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/50-years-women-directing-mary-b-robinson-75"
+    },
+    {
       "title": "Hiroaki Umeda",
       "titleExplain": "Avant garde dance artist",
       "date": "2026-03-11",
@@ -541,6 +660,17 @@
       "college": "UMass",
       "tickets": "Ticket prices start at $40, less for Five College students and youths",
       "url": "https://events.umass.edu/event/hiroaki-umeda"
+    },
+    {
+      "title": "Spring Cabaret",
+      "titleExplain": "Songs from the golden age of Broadway performed by Vocal Performance students",
+      "date": "2026-03-12",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Earle Recital Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/spring-cabaret"
     },
     {
       "title": "\"The Interrobangers\"",
@@ -607,6 +737,17 @@
       "college": null,
       "tickets": null,
       "url": "https://www.smith.edu/academics/provostdean-faculty/events#chaired-professor-lectures-3"
+    },
+    {
+      "title": "Celebrating Pianos, PianoDuo Festival",
+      "titleExplain": "Long Duo joins Smith faculty pianists Albert Cano Smit and Yang Liu",
+      "date": "2026-03-26",
+      "startTime": "6 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/scms-presents-celebrating-pianos-pianoduo-festival"
     },
     {
       "title": "When Norm Violations Come Out of the Shadows",
@@ -763,6 +904,28 @@
       "url": "https://www.umass.edu/music-dance/events/faculty-concert-kaitlyn-burns-flute-spring-26"
     },
     {
+      "title": "New Play Reading Series: Aria Ramanthan",
+      "titleExplain": "Theater",
+      "date": "2026-04-03",
+      "startTime": "7:30 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Theatr Acting Studio 1",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/new-play-reading-series-aria-ramanthan"
+    },
+    {
+      "title": "Quartett Mosso: Beethoven and T.S. Eliot",
+      "titleExplain": "Concert with chamber ensemble Quartett Mosso",
+      "date": "2026-04-05",
+      "startTime": "3 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/quartett-mosso-beethoven-and-ts-eliot"
+    },
+    {
       "title": "Wind Ensemble & Symphony Band",
       "titleExplain": null,
       "date": "2026-04-08",
@@ -805,6 +968,28 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-spring-2026"
+    },
+    {
+      "title": "Robyn Quinnett, violin; Jiayan Sun, piano",
+      "titleExplain": "Concert with Smith performance faculty members",
+      "date": "2026-04-10",
+      "startTime": "7:30 p.m,.",
+      "endTime": "9 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/scms-presents-robyn-quinnett-violin-jiayan-sun-piano"
+    },
+    {
+      "title": "Senior Dance Concert",
+      "titleExplain": null,
+      "date": "2026-04-11",
+      "startTime": "7:30 p.m,.",
+      "endTime": "9 p.m.",
+      "location": "Hallie Flanagan Studio Theatre",
+      "college": "Smith",
+      "tickets": "Tickets $5 to $10",
+      "url": "https://new.smith.edu/news-events/events/senior-dance-concert-6"
     },
     {
       "title": "Jazz Lab Ensemble",
@@ -882,6 +1067,28 @@
       "college": "Mount Holyoke",
       "tickets": "Tickets $10 general admission, $5 students & seniors",
       "url": "https://events.mtholyoke.edu/event/potus-seven-women-trying-to-keep-him-alive"
+    },
+    {
+      "title": "Smith Arts Day 2026",
+      "titleExplain": "Performances, exhibitions, workshops, art-making activities",
+      "date": "2026-04-18",
+      "startTime": "10 a.m.",
+      "endTime": "8 p.m.",
+      "location": "Various locations",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/your-campus/smitharts/smith-office-arts-sofa/smith-arts-day"
+    },
+    {
+      "title": "Gamelan 30th Anniversary Concert",
+      "titleExplain": "Traditional Javanese gamelan",
+      "date": "2026-04-18",
+      "startTime": "4 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Conference Center Paradise Room 102",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://new.smith.edu/news-events/events/gamelan-30th-anniversary-concert"
     },
     {
       "title": "\"POTUS, or Behind Every Great Dumbass are Seven Women Trying to Keep Him Alive\"",

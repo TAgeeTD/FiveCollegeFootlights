@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "title": "Sage Chamber Music Society Concert",
-      "titleExplain": "Featuring violinist Fabiola Kim of the University of Michigan School of Music, Theatre & Dance, and Smith faculty pianist Jiayan Sun playing Schubert",
-      "date": "2026-02-106",
-      "startTime": "7:30 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/scms-fabiola-kim-violin-jiayan-sun-piano"
-    },
-    {
       "title": "Opening Reception for Dæmonomania Art Exhibit (NEW DATE)",
       "titleExplain": "Artwork by Anthony Discensa (American, b. 1967)",
       "date": "2026-02-13",
@@ -35,39 +24,6 @@
       "url": "https://www.umass.edu/social-sciences/research/freedman-lecture-series"
     },
     {
-      "title": "MFA Dance Concert",
-      "titleExplain": "Featuring choreography by second-year M.F.A. candidates Chavi Bansal, Dimitri Kalaitzidis and Hannah Littman",
-      "date": "2026-02-05",
-      "startTime": "8 p.m.",
-      "endTime": null,
-      "location": "Mendenhall Center for the Performing Arts",
-      "college": "Smith",
-      "tickets": "Reservations are required for both shows. Tickets range from $0 to $10.",
-      "url": "https://www.smith.edu/news-events/news/2026-mfa-dance-concert"
-    },
-    {
-      "title": "MFA Dance Concert",
-      "titleExplain": "Featuring choreography by second-year M.F.A. candidates Chavi Bansal, Dimitri Kalaitzidis and Hannah Littman",
-      "date": "2026-02-06",
-      "startTime": "8 p.m.",
-      "endTime": null,
-      "location": "Mendenhall Center for the Performing Arts",
-      "college": "Smith",
-      "tickets": "Reservations are required for both shows. Tickets range from $0 to $10.",
-      "url": "https://www.smith.edu/news-events/news/2026-mfa-dance-concert"
-    },
-    {
-      "title": "MFA Dance Concert",
-      "titleExplain": "Featuring choreography by second-year M.F.A. candidates Chavi Bansal, Dimitri Kalaitzidis and Hannah Littman",
-      "date": "2026-02-07",
-      "startTime": "8 p.m.",
-      "endTime": null,
-      "location": "Mendenhall Center for the Performing Arts",
-      "college": "Smith",
-      "tickets": "Reservations are required for both shows. Tickets range from $0 to $10.",
-      "url": "https://www.smith.edu/news-events/news/2026-mfa-dance-concert"
-    },
-    {
       "title": "Venice Baroque Orchestra",
       "titleExplain": null,
       "date": "2026-02-04",
@@ -79,26 +35,15 @@
       "url": "https://arts.umass.edu/performing-arts/events/venice-baroque-orchestra-2526"
     },
     {
-      "title": "Ilan Morgenstern Trio",
-      "titleExplain": "Guest Artist Concert of Chamber Music",
-      "date": "2026-02-05",
-      "startTime": "7:30 p.m.",
+      "title": "What if Everyone Voted? Power, Freedom, and the Future of American Democracy",
+      "titleExplain": "Panel discussion, part of the Freedman Lecture Series, with Georgetown University professor Jason Brennan, former Connecticut legislator Evelyn Mantilla, and 100% Democracy Executive Director Miles Rapoport",
+      "date": "2026-02-10",
+      "startTime": "4 p.m.",
       "endTime": null,
-      "location": "Bezanson Recital Hall",
+      "location": "Old Chapel",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-ilan-morgenstern-trio"
-    },
-    {
-      "title": "\"Le Nozze di Figaro (The Marriage of Figaro)\"",
-      "titleExplain": "Five College Opera",
-      "date": "2026-02-06",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Bowker Auditorium",
-      "college": "UMass",
-      "tickets": "Tickets $27 general; $22 seniors & Five College employees UMass students free with ID (ticket required)",
-      "url": "https://www.umass.edu/music-dance/events/five-college-opera-le-nozze-di-figaro-friday-evening"
+      "url": "https://www.umass.edu/social-sciences/research/freedman-lecture-series"
     },
     {
       "title": "\"Le Nozze di Figaro (The Marriage of Figaro)\"",
@@ -1058,6 +1003,17 @@
       "url": "https://events.mtholyoke.edu/event/potus-seven-women-trying-to-keep-him-alive"
     },
         {
+      "title": "Wild & Scenic Film Festival",
+      "titleExplain": "This tour stop for the festival is hosted by the Center for Environment, Ecological Design, and Sustainability (CEEDS) at Smith College and by the Kestrel Land Trust",
+      "date": "2026-04-17",
+      "startTime": "7 p.m.",
+      "endTime": "9:30 p.m.",
+      "location": "Weinstein Auditorium",
+      "college": "Smith",
+      "tickets": "Ticket information to come",
+      "url": "https://www.smith.edu/news-events/events/wild-scenic-film-festival"
+    },
+    {
       "title": "Wild & Scenic Film Festival",
       "titleExplain": "This tour stop for the festival is hosted by the Center for Environment, Ecological Design, and Sustainability (CEEDS) at Smith College and by the Kestrel Land Trust",
       "date": "2026-04-17",

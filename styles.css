@@ -61,6 +61,41 @@ html {
   display: block;
   border: 1px solid black;
 }
+.image-click-zone {
+  position: relative;
+}
+
+/* The clickable “center” */
+.image-center-link {
+  position: absolute;
+  top: 15%;
+  left: 20%;
+  width: 60%;
+  height: 70%;
+  z-index: 2;
+  cursor: pointer;
+}
+.image-center-link:hover {
+  box-shadow: inset 0 0 0 2px rgba(86, 57, 23, 0.4);
+}
+
+.image-click-zone {
+  position: relative;
+}
+
+/* The clickable “center” */
+.image-center-link {
+  position: absolute;
+  top: 15%;
+  left: 20%;
+  width: 60%;
+  height: 70%;
+  z-index: 2;
+  cursor: pointer;
+}
+.image-center-link:hover {
+  box-shadow: inset 0 0 0 2px rgba(86, 57, 23, 0.4);
+}
 
 .pkg {
   opacity: 0;
@@ -886,6 +921,11 @@ html {
 
   #mobile-about-nav li a:hover::after {
     width: 100%;
+  }
+
+  .event-link::after {
+    opacity: 1;
+    transform: translateX(0);
   }
 
   /* ---------------------------------

@@ -100,6 +100,17 @@
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/929157"
     },
     {
+      "title": "Artist Lecture: Shabez Jamal",
+      "titleExplain": "Followed by opening reception for the art installation \"Everything Falls to Time/Everything Falls in Place\" at 6:30 p.m. in Oresman Gallery of Hillyer Hall.",
+      "date": "2026-02-23",
+      "startTime": "5:30 p.m.",
+      "endTime": null,
+      "location": "Graham Hall, Hillyer Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://sites.smith.edu/art-oresman-gallery/portfolio/shabez-jamal/"
+    },
+    {
       "title": "Music Monday 4: Chamber Singers",
       "titleExplain": "Featuring selections from their concert tour of Spain",
       "date": "2026-02-23",
@@ -142,6 +153,17 @@
       "college": "Amherst",
       "tickets": null,
       "url": "https://www.amherst.edu/news/events/calendar/node/935249"
+    },
+    {
+      "title": "\"From Amazon to Gaza: Organizing, Solidarity, and Civic Courage\"",
+      "titleExplain": "Lecture by Chris Smalls, activist-in-residence at the Ellsberg Initiative for Peace and Democracy",
+      "date": "2026-02-25",
+      "startTime": "7 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Great Hall at the Old Chapel",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/history/events/amazon-gaza-organizing-solidarity-and-civic-courage"
     },
     {
       "title": "Graduate Composers' Ensemble & Jazz Ensemble I",
@@ -846,6 +868,17 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/jazz-lab-ensemble-spring-26"
+    },
+    {
+      "title": "\"Be Seriously Scared!\"",
+      "titleExplain": "Blend of performance art, lecture and film screening, part of the Ellsberg Initiative for Peace and Democracy",
+      "date": "2026-04-14",
+      "startTime": "7 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Multipurpose Room, Old Chapel",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/history/events/be-seriously-scared"
     },
     {
       "title": "All-University Orchestra",

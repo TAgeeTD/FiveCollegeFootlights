@@ -467,6 +467,19 @@
       "url": "https://www.umass.edu/music-dance/events/43rd-annual-new-england-saxophone-symposium-competition"
     },
     {
+      "title": "JAZZ: The Big Broadcast!",
+      "titleExplain": "Mount Holyoke jazz ensembles present music from the Great American Songbook.",
+      "date": "2026-03-07",
+      "startTime": "2 p.m.",
+      "endTime": "3:30 p.m.",
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": "Tickets are $25, $20 and $10",
+      "url": "https://events.mtholyoke.edu/event/jazz-the-big-broadcast",
+      "imageAlt": "Old-fashioned microphone",
+      "imageURL": "images/OldFashionedMike.jpg"
+    },
+    {
       "title": "Guest Artist Concert: Ryan Bisson Ryan Bisson, bass trombone, and Robert Stahley, tenor",
       "titleExplain": null,
       "date": "2026-03-08",

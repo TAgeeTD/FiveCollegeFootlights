@@ -1,15 +1,15 @@
 {
   "events": [
     {
-      "title": "Experiments in Improvisation",
-      "titleExplain": "Sarah Young presents her MFA thesis performance. The piece for 6 performers includes a tap dancer and a live musician and uses improvised scores with inspiration from James Joyce's \"Finnegans Wake\".",
-      "date": "2026-02-14",
-      "startTime": "3 p.m.",
-      "endTime": "4:30 p.m.",
-      "location": "Crew House Dance Studio",
-      "college": "Smith",
-      "tickets": "Reservations required",
-      "url": "https://new.smith.edu/news-events/events/experiments-improvisation-sarah-young-mfa-thesis-performance"
+      "title": "Free Screening: \"Black is Beautiful: The Kwame Brathwaite Story\"",
+      "titleExplain": "Post-film Q&A with executive producer Kwame S. Brathwaite. Presented in conjunction with the Mead Art Museum.",
+      "date": "2026-02-18",
+      "startTime": "7 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Amherst Cinema",
+      "college": "Amherst",
+      "tickets": "Tickets, free but required, are available at the Amherst Cinema box office, first-come, first-served, during regular box office hours or at the door",
+      "url": "https://www.amherst.edu/news/events/calendar/node/940219"
     },
     {
       "title": "Opus One Chamber Orchestra",
@@ -70,12 +70,23 @@
       "title": "Songs of Love and Death by Olivier Messiaen",
       "titleExplain": "Presented by the Sage Chamber Music Society",
       "date": "2026-02-20",
-      "startTime": "7:39 p.m.",
+      "startTime": "7:30 p.m.",
       "endTime": "9 p.m.",
       "location": "Sweeney Concert Hall",
       "college": "Smith",
       "tickets": null,
       "url": "https://new.smith.edu/news-events/events/sage-chamber-music-society-presents-harawi-songs-love-and-death-olivier-messiaen"
+    },
+    {
+      "title": "Artist Talk: JooYoung Choi",
+      "titleExplain": "In conjunction with Choi's new exhibition, \"Adventures of the Quantum Soup Surfer\". Followed by reception for this exhibition and a second exhibition, \"Kwame Brathwaite: Revolutionary Movements\", from 5 to 7 p.m.",
+      "date": "2026-02-20",
+      "startTime": "4 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Mead Art Museum",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/940223"
     },
     {
       "title": "40th Annual High School Honor Band Concert",

@@ -231,7 +231,7 @@
       "tickets": null,
       "url": "https://new.smith.edu/news-events/events/orchestra-spring-concert",
       "imageAlt": "Generic image of sheet music",
-      "image": "images/SheetMusicClassical.jpg"
+      "imageURL": "images/SheetMusicClassical.jpg"
     },
     {
       "title": "Laurie Ellington and Suspension Bridge",

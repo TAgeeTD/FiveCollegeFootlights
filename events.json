@@ -266,7 +266,9 @@
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
       "tickets": "Ticket prices $17 general; $7 students, seniors, UMass employees Free for UMass students with ID",
-      "url": "https://www.umass.edu/music-dance/events/umass-symphony-orchestra-concerto-winners-2026"
+      "url": "https://www.umass.edu/music-dance/events/umass-symphony-orchestra-concerto-winners-2026",
+      "imageURL": "images/violin-with-sheet-music-freepik.jpg",
+      "imageAlt": "Photo of violin section partially obscuring sheet music"
     },
     {
       "title": "The Shining Path (1980-2000) and the Long Shadow of Violence in Peru",

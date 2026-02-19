@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "title": "Free Screening: \"Black is Beautiful: The Kwame Brathwaite Story\"",
-      "titleExplain": "Post-film Q&A with executive producer Kwame S. Brathwaite. Presented in conjunction with the Mead Art Museum.",
-      "date": "2026-02-18",
-      "startTime": "7 p.m.",
-      "endTime": "10 p.m.",
-      "location": "Amherst Cinema",
-      "college": "Amherst",
-      "tickets": "Tickets, free but required, are available at the Amherst Cinema box office, first-come, first-served, during regular box office hours or at the door",
-      "url": "https://www.amherst.edu/news/events/calendar/node/940219"
-    },
-    {
-      "title": "Opus One Chamber Orchestra",
-      "titleExplain": null,
-      "date": "2026-02-17",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/opus-one-chamber-orchestra"
-    },
-    {
-      "title": "Faculty Concert: Rémy Taghavi, bassoon and Steven Beck, piano",
-      "titleExplain": null,
-      "date": "2026-02-18",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/faculty-concert-remy-taghavi-bassoon-steven-beck-piano"
-    },
-    {
       "title": "Rebecca Hart Olander Poetry Reading",
       "titleExplain": null,
       "date": "2026-02-19",

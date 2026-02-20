@@ -1,41 +1,6 @@
 {
   "events": [
     {
-      "title": "Rebecca Hart Olander Poetry Reading",
-      "titleExplain": null,
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "location": "Poetry Center (former Wright CRM)",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/rebecca-hart-olander-poetry-reading"
-    },
-    {
-      "title": "W. E. B. Du Bois and His Lessons for Our Time",
-      "titleExplain": "Talk by Whitney Battle-Baptiste, professor in the Department of Anthropology and director of the W. E. B. Du Bois Center at UMass",
-      "date": "2026-02-19",
-      "startTime": "12 p.m.",
-      "endTime": "1 p.m.",
-      "location": "Room 2220 (Floor 22), W. E. B. Du Bois Library",
-      "college": "UMass",
-      "tickets": null,
-      "url": "https://libcal.library.umass.edu/event/16289929?_gl=1*19ub44k*_gcl_au*MTc1MDcyMzE5Ny4xNzY2NDA1NDM2*_ga*MTY5MzQ5MDY4Mi4xN%20zU3Mjc5OTYz*_ga_21RLS0L7EB*czE3NzExOTMyMTckbzE1JGcxJHQxNzcxMTkzNDU1JGo0MiRsMCRoMA..",
-      "imageURL": "images/WEB-Du-BoisCropped.jpg",
-      "imageAlt": "Library of Congress image of W.E.B. Du Boise"
-    },
-    {
-      "title": "Sunny Jain's Wild Wild East",
-      "titleExplain": null,
-      "date": "2026-02-19",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "The Drake in Amherst center",
-      "college": "UMass",
-      "tickets": "Ticket prices start at $30, less for Five College students and youths",
-      "url": "https://arts.umass.edu/performing-arts/events/sunny-jains-wild-wild-east-2526"
-    },
-    {
       "title": "Graduate Conducting Recital with Chamber Choir",
       "titleExplain": null,
       "date": "2026-02-20",

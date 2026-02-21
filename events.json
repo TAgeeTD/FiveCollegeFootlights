@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "title": "Graduate Conducting Recital with Chamber Choir",
-      "titleExplain": null,
-      "date": "2026-02-20",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/graduate-conducting-recital-chamber-choir"
-    },
-    {
-      "title": "CANCELED (YouTube only): Songs of Love and Death by Olivier Messiaen",
-      "titleExplain": "Presented by the Sage Chamber Music Society",
-      "date": "2026-02-20",
-      "startTime": "7:30 p.m.",
-      "endTime": "9 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/sage-chamber-music-society-presents-harawi-songs-love-and-death-olivier-messiaen"
-    },
-    {
-      "title": "Artist Talk: JooYoung Choi",
-      "titleExplain": "In conjunction with Choi's new exhibition, \"Adventures of the Quantum Soup Surfer\". Followed by reception for this exhibition and a second exhibition, \"Kwame Brathwaite: Revolutionary Movements\", from 5 to 7 p.m.",
-      "date": "2026-02-20",
-      "startTime": "4 p.m.",
-      "endTime": "5 p.m.",
-      "location": "Mead Art Museum",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/940223"
-    },
-    {
       "title": "40th Annual High School Honor Band Concert",
       "titleExplain": null,
       "date": "2026-02-21",

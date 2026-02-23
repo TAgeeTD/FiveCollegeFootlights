@@ -648,8 +648,9 @@ html {
 -------------------------------------------------- */
 .event-card {
   color: #2a2a2a;
-  background: #f6efe7; /* changed form tan 2/23/26 */
-  border: 1px solid #563917; /* thin printed border */
+  background: #e6d8c6; /* changed form tan 2/23/26 */
+  border: 1px solid rgba(86, 57, 23, 0.45);
+  /* CHANGED 2/23/26border: 1px solid #563917; /* thin printed border */
   border-radius: 10px;
   padding: 1.4rem 1.6rem 1.5rem;
 
@@ -686,7 +687,7 @@ html {
   margin-top: 0.15rem;
   font-weight: 500;
   line-height: 1.35;
-/*  font-size: 0.9rem;
+  /*  font-size: 0.9rem;
   color: var(--text-muted);
   margin: 0 0 0.6rem; */
 }
@@ -696,12 +697,12 @@ html {
 -------------------------------------------------- */
 
 .event-meta-line {
-  font-size: 0.9rem;          /* slightly larger */
-  color: #4a4036;             /* darker for readability */
+  font-size: 0.9rem; /* slightly larger */
+  color: #4a4036; /* darker for readability */
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.4rem;                /* tiny bit more breathing room */
+  gap: 0.4rem; /* tiny bit more breathing room */
   font-weight: 500;
 }
 /* .event-meta-line REPLACED WITH ABOVE 2/23/26{

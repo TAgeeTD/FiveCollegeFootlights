@@ -1010,12 +1010,3 @@ html {
   top: 7rem; offset below sticky header 
 }
 */
-.date-header {
-  top: 0; /* sticks directly below mobile header / carousel */
-  margin-top: 0; /* remove any extra margin above */
-}
-
-/* Optional: reduce padding slightly for smaller screens */
-.date-header {
-  padding: 0.5rem 0.5rem;
-}

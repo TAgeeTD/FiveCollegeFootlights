@@ -935,7 +935,7 @@ html {
     scroll-margin-top: 7.5rem; /* try 5rem–6.5rem */
   }
   .date-header {
-    top: 6.5rem; /* smaller offset for mobile */
+    top: 6.4rem; /* smaller offset for mobile */
   }
   /* ---------------------------------
      Mobile About navigation

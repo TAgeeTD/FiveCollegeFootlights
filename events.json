@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "title": "40th Annual High School Honor Band Concert",
-      "titleExplain": null,
-      "date": "2026-02-21",
-      "startTime": "19:00",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/40th-annual-high-school-honor-band-concert"
-    },
-    {
-      "title": "M@A Presents: The Danish String Quartet",
-      "titleExplain": null,
-      "date": "2026-02-21",
-      "startTime": "19:30",
-      "endTime": "21:00",
-      "location": "Buckley Recital Hall",
-      "college": "Amherst",
-      "tickets": "Tickets go on sale Feb. 7, general public $28; Senior Citizens (65+): $22; Students with valid ID and children: $12 Free with valid Amherst College ID",
-      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/929157"
-    },
-    {
       "title": "Artist Lecture: Shabez Jamal",
       "titleExplain": "Followed by opening reception for the art installation \"Everything Falls to Time/Everything Falls in Place\" at 6:30 p.m. in Oresman Gallery of Hillyer Hall.",
       "date": "2026-02-23",
@@ -34,7 +12,7 @@
       "url": "https://sites.smith.edu/art-oresman-gallery/portfolio/shabez-jamal/"
     },
     {
-      "title": "Music Monday 4: Chamber Singers",
+      "title": "CANCELED: Music Monday 4: Chamber Singers",
       "titleExplain": "Featuring selections from their concert tour of Spain",
       "date": "2026-02-23",
       "startTime": "1 p.m.",

@@ -542,6 +542,7 @@ html {
   color: #6b5e52;
   font-weight: 500;
   margin-left: auto;
+  letter-spacing: 0.02em;
 }
 /* subbed out in favor of code above 
 .event-time {
@@ -744,11 +745,6 @@ html {
   gap: 0.35rem;
 }
 */
-/* next item added 2/23/26 */
-.event-meta-line span:first-child {
-  font-family: "Cutive Mono", monospace;
-  letter-spacing: 0.02em;
-}
 
 .meta-icon {
   font-size: 0.9rem;

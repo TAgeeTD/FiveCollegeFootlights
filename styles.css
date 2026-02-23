@@ -934,7 +934,9 @@ html {
   #welcome {
     scroll-margin-top: 7.5rem; /* try 5rem–6.5rem */
   }
-
+  .date-header {
+    top: 4rem; /* smaller offset for mobile */
+  }
   /* ---------------------------------
      Mobile About navigation
   --------------------------------- */

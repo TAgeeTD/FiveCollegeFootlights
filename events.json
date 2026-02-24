@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "title": "CANCELED: Artist Lecture: Shabez Jamal",
-      "titleExplain": "Followed by opening reception for the art installation \"Everything Falls to Time/Everything Falls in Place\" at 6:30 p.m. in Oresman Gallery of Hillyer Hall.",
-      "date": "2026-02-23",
-      "startTime": "5:30 p.m.",
-      "endTime": null,
-      "location": "Graham Hall, Hillyer Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://sites.smith.edu/art-oresman-gallery/portfolio/shabez-jamal/"
-    },
-    {
-      "title": "CANCELED: Music Monday 4: Chamber Singers",
-      "titleExplain": "Featuring selections from their concert tour of Spain",
-      "date": "2026-02-23",
-      "startTime": "1 p.m.",
-      "endTime": "1:30 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/music-monday-4-chamber-singers"
-    },
-    {
       "title": "The Listening Room: New Music Spotlight",
       "titleExplain": "Featuring performances by students and faculty with the emphasis on new music of the 21st century",
       "date": "2026-02-24",

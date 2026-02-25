@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "title": "The Listening Room: New Music Spotlight",
-      "titleExplain": "Featuring performances by students and faculty with the emphasis on new music of the 21st century",
-      "date": "2026-02-24",
-      "startTime": "11 a.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/listening-room-ep-15-new-music-spotlight"
-    },
-    {
-      "title": "Chaired Professor Lecture Series: Fraser Stables on Tattoos, Buildings, and Death",
-      "titleExplain": "Louise Ines Doyle 1934 professor of art",
-      "date": "2026-02-24",
-      "startTime": "17:00",
-      "endTime": "18:00",
-      "location": "Neilson Library Klingenstein Browsing Room",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/academics/provostdean-faculty/events#chaired-professor-lectures-3"
-    },
-    {
       "title": "HOPE! Amherst College's Speaking Competition 2026",
       "titleExplain": null,
       "date": "2026-02-25",

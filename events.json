@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "title": "HOPE! Amherst College's Speaking Competition 2026",
-      "titleExplain": null,
-      "date": "2026-02-25",
-      "startTime": "16:30",
-      "endTime": "17:30",
-      "location": "Johnson Chapel",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/935249"
-    },
-    {
-      "title": "\"From Amazon to Gaza: Organizing, Solidarity, and Civic Courage\"",
-      "titleExplain": "Lecture by Chris Smalls, activist-in-residence at the Ellsberg Initiative for Peace and Democracy",
-      "date": "2026-02-25",
-      "startTime": "7 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Great Hall at the Old Chapel",
-      "college": "UMass",
-      "tickets": null,
-      "url": "https://www.umass.edu/history/events/amazon-gaza-organizing-solidarity-and-civic-courage"
-    },
-    {
-      "title": "Graduate Composers' Ensemble & Jazz Ensemble I",
-      "titleExplain": null,
-      "date": "2026-02-25",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/graduate-composers-ensemble-jazz-ensemble-i"
-    },
-    {
-      "title": "LGBTQ+ Rights and the Courts",
-      "titleExplain": "A conversation between Paul Smith, a veteran litigator for LGBTQ+ civil rights; and Martha Umphrey, provost, dean of the faculty, and the Bertrand H. Snell 1894 Professor of American Government in Law, Jurisprudence, and Social Thought at Amherst College",
-      "date": "2026-02-26",
-      "startTime": "17:30",
-      "endTime": "18:30",
-      "location": "Converse Hall Cole Assembly Room",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/935604"
-    },
-    {
       "title": "LitFest Begins",
       "titleExplain": "Annual Amherst College literary festival, continuing through Sunday. Some events are open to the general public but registration is required. (Friday's appearance by Pete Buttigieg is sold out.)",
       "date": "2026-02-26",

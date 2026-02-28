@@ -2,7 +2,7 @@
   "events": [
     {
       "title": "LitFest Begins",
-      "titleExplain": "Annual Amherst College literary festival, continuing through Sunday. Some events are open to the general public but registration is required. (Friday's appearance by Pete Buttigieg is sold out.)",
+      "titleExplain": "Annual Amherst College literary festival, continuing through Sunday. Some events are open to the general public but registration is required.",
       "date": "2026-02-26",
       "startTime": "8 p.m.",
       "endTime": null,
@@ -11,41 +11,6 @@
       "tickets": null,
       "url": "https://www.amherst.edu/about/literary-amherst/litfest"
     },  
-    {
-      "title": "Paul Taylor Dance Company",
-      "titleExplain": null,
-      "date": "2026-02-27",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Ticket prices start at $40, less for Five College students and youths",
-      "url": "https://arts.umass.edu/performing-arts/events/paul-taylor-dance-company-2526"
-    },
-    {
-      "title": "Orchestra Spring Concert",
-      "titleExplain": "Featuring works by Schumann, Brahms, Valerie Coleman and Gabriela Ortiz",
-      "date": "2026-02-27",
-      "startTime": "7:30 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/orchestra-spring-concert",
-      "imageAlt": "Generic image of sheet music",
-      "imageURL": "images/SheetMusicClassical.jpg"
-    },
-    {
-      "title": "Orchestra: Tr-ans-for-mat-ions",
-      "titleExplain": "Featuring Lucas Bouk for performance of works by Pēteris Vasks and Bedrich Smetana",
-      "date": "2026-02-27",
-      "startTime": "8 p.m.",
-      "endTime": "10 p.m.",
-      "location": "Abbey Memorial Chapel",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/orchestra-tr-ans-for-mat-ions"
-    },
     {
       "title": "Laurie Ellington and Suspension Bridge",
       "titleExplain": "Pop, R&B, jazz",

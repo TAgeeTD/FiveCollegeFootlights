@@ -113,6 +113,19 @@
       "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-march-26"
     },
     {
+      "title": "Candice Hoyes in Concert",
+      "titleExplain": "Hoyes, a soprano, in a chamber recital focusing on Belle da Costa Greene, called both a \"trailbblazing Black librarian\" and \"one of the most prominent librarians in American history\".",
+      "date": "2026-03-04",
+      "startTime": "7 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/941089",
+      "imageAlt": "1929 photography of Belle da Costa Greene",
+      "imageURL": "images/BelleH.jpg"
+    },
+    {
       "title": "Kris Davis Trio",
       "titleExplain": "Jazz",
       "date": "2026-03-05",
@@ -157,8 +170,8 @@
       "url": "https://new.smith.edu/news-events/events/new-play-reading-series-spork-play-sadie-shapiro-29"
     },
     {
-      "title": "2026 Spring Bulb Show Opening Lecture by Peter Grima",
-      "titleExplain": null,
+      "title": "\"Emily Dickinson: Western Mass Botanist\"",
+      "titleExplain": "2026 Spring Bulb Show opening lecture by Peter Grima",
       "date": "2026-03-06",
       "startTime": "19:30",
       "endTime": "20:30",

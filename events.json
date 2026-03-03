@@ -148,6 +148,32 @@
       "url": "https://www.umass.edu/music-dance/events/dance-senior-thesis-concerts"
     },
     {
+      "title": "2026 Spring Bulb Show",
+      "titleExplain": "Begins today and runs through March 22",
+      "date": "2026-03-07",
+      "startTime": "10 a.m.",
+      "endTime": "4 p.m.",
+      "location": "Lyman Plant House & Conservatory",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://garden.smith.edu/news-events/news/2026-spring-bulb-show",
+      "imageAlt": "Photo of flowers from past bulb show",
+      "imageURL": "images/Smithflowers.jpg"
+    },
+    {
+      "title": "Spring Flower Show",
+      "titleExplain": "Begins today and runs through March 22",
+      "date": "2026-03-07",
+      "startTime": "10 a.m.",
+      "endTime": "4 p.m.",
+      "location": "Talcott Greenhouse",
+      "college": "Mount Holyoke",
+      "tickets": "Free",
+      "url": "https://events.mtholyoke.edu/event/54th-annual-spring-flower-show",
+      "imageAlt": "Photo of tulips",
+      "imageURL": "images/TulipsUnsplash.jpg"
+    },
+    {
       "title": "\"The Interrobangers\"",
       "titleExplain": "Theater",
       "date": "2026-03-07",

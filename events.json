@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "title": "UMass Symphony Orchestra - Concerto Winners 2026",
-      "titleExplain": null,
-      "date": "2026-03-02",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Ticket prices $17 general; $7 students, seniors, UMass employees Free for UMass students with ID",
-      "url": "https://www.umass.edu/music-dance/events/umass-symphony-orchestra-concerto-winners-2026",
-      "imageURL": "images/violin-with-sheet-music-freepik.jpg",
-      "imageAlt": "Photo of violin section partially obscuring sheet music"
-    },
-    {
       "title": "The Shining Path (1980-2000) and the Long Shadow of Violence in Peru",
       "titleExplain": "Lecture by Charles F. Walker, professor of history, University of California, Davis, as the Spring 2026 Neilson Professor",
       "date": "2026-03-03",

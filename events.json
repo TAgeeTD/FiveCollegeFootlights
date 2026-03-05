@@ -1,52 +1,6 @@
 {
   "events": [
     {
-      "title": "The Shining Path (1980-2000) and the Long Shadow of Violence in Peru",
-      "titleExplain": "Lecture by Charles F. Walker, professor of history, University of California, Davis, as the Spring 2026 Neilson Professor",
-      "date": "2026-03-03",
-      "startTime": "17:00",
-      "endTime": "18:00",
-      "location": "Neilson Library Klingenstein Browsing Room",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/shining-path-1980-2000-and-long-shadow-violence-peru"
-    },
-    {
-      "title": "Trombone Choir and Brass Ensembles",
-      "titleExplain": null,
-      "date": "2026-03-03",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/trombone-choir-brass-ensembles-march-26"
-    },
-    {
-      "title": "Wind Ensemble & Symphony Band",
-      "titleExplain": null,
-      "date": "2026-03-04",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Ticket prices $17 general; $7 seniors, students, UMass employees.",
-      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-march-26"
-    },
-    {
-      "title": "Candice Hoyes in Concert",
-      "titleExplain": "Hoyes, a soprano, in a chamber recital focusing on Belle da Costa Greene, called both a \"trailblazing Black librarian\" and \"one of the most prominent librarians in American history\".",
-      "date": "2026-03-04",
-      "startTime": "7 p.m.",
-      "endTime": "9 p.m.",
-      "location": "Aliki Perroti & Seth Frank Lyceum",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/941089",
-      "imageAlt": "1929 photography of Belle da Costa Greene",
-      "imageURL": "images/BelleH.jpg"
-    },
-    {
       "title": "Kris Davis Trio",
       "titleExplain": "Jazz",
       "date": "2026-03-05",

@@ -1,97 +1,9 @@
 {
   "events": [
     {
-      "title": "Kris Davis Trio",
-      "titleExplain": "Jazz",
-      "date": "2026-03-05",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bowker Auditorium",
-      "college": "UMass",
-      "tickets": "Ticket prices start at $30, less for Five College students and youths",
-      "url": "https://arts.umass.edu/performing-arts/events/kris-davis-trio-2526"
-    },
-    {
-      "title": "SOLD OUT: Dance Senior Thesis Concerts",
-      "titleExplain": null,
-      "date": "2026-03-05",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Totman Performance Lab",
-      "college": "UMass",
-      "tickets": "Tickets $12, students free",
-      "url": "https://www.umass.edu/music-dance/events/dance-senior-thesis-concerts"
-    },
-    {
-      "title": "\"Melancholy Play” by Sarah Ruhl",
-      "titleExplain": "Theater",
-      "date": "2026-03-05",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Rooke Theater",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets $10 general admission, $5 students and senior citizens",
-      "url": "https://events.mtholyoke.edu/event/melancholy-play"
-    },
-    {
-      "title": "New Play Reading Series: Spork Play by Sadie Shapiro '29",
-      "titleExplain": "Theater",
-      "date": "2026-03-05",
-      "startTime": "7:30 p.m.",
-      "endTime": "10 p.m.",
-      "location": "Theatr Acting Studio 1",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/new-play-reading-series-spork-play-sadie-shapiro-29"
-    },
-    {
-      "title": "\"Emily Dickinson: Western Mass Botanist\"",
-      "titleExplain": "2026 Spring Bulb Show opening lecture by Peter Grima",
-      "date": "2026-03-06",
-      "startTime": "19:30",
-      "endTime": "20:30",
-      "location": "Weinstein Auditorium",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/2026-spring-bulb-show-opening-lecture"
-    },
-    {
-      "title": "\"The Interrobangers\"",
-      "titleExplain": "Theater",
-      "date": "2026-03-06",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Curtain Theater, Randolph W. Bromery Center for the Arts",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://purchase.arts.umass.edu/EventAvailability?EventId=12001&_gl=1*1i5q5r1*_gcl_au*NDA3NzE4NzAyLjE3Njc5OTIzMzg.*_ga*MTMwNjQ2NDM4LjE3NTg4OTE5NTI.*_ga_21RLS0L7EB*czE3NjkyMDE4MDUkbzI2JGcxJHQxNzY5MjAyNDIxJGoyOSRsMCRoMA"
-    },
-    {
-      "title": "\"Melancholy Play” by Sarah Ruhl",
-      "titleExplain": "Theater",
-      "date": "2026-03-06",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Rooke Theater",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets $10 general admission, $5 students and senior citizens",
-      "url": "https://events.mtholyoke.edu/event/melancholy-play"
-    },
-    {
-      "title": "SOLD OUT: Dance Senior Thesis Concerts",
-      "titleExplain": null,
-      "date": "2026-03-06",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Totman Performance Lab",
-      "college": "UMass",
-      "tickets": "Tickets $12, students free",
-      "url": "https://www.umass.edu/music-dance/events/dance-senior-thesis-concerts"
-    },
-    {
-      "title": "2026 Spring Bulb Show",
-      "titleExplain": "Begins today and runs through March 22",
-      "date": "2026-03-07",
+      "title": "2026 Spring Bulb Show Continues",
+      "titleExplain": "Runs through March 22",
+      "date": "2026-03-10",
       "startTime": "10 a.m.",
       "endTime": "4 p.m. (Till 8 p.m. on Fridays and Saturdays)",
       "location": "Lyman Plant House & Conservatory",
@@ -103,8 +15,8 @@
     },
     {
       "title": "54th Annual Spring Flower Show",
-      "titleExplain": "Begins today and runs through March 22",
-      "date": "2026-03-07",
+      "titleExplain": "Runs through March 22",
+      "date": "2026-03-10",
       "startTime": "10 a.m.",
       "endTime": "4 p.m.",
       "location": "Talcott Greenhouse",
@@ -113,85 +25,6 @@
       "url": "https://events.mtholyoke.edu/event/54th-annual-spring-flower-show",
       "imageAlt": "Photo of tulips",
       "imageURL": "images/TulipsUnsplash.jpg"
-    },
-    {
-      "title": "\"The Interrobangers\"",
-      "titleExplain": "Theater",
-      "date": "2026-03-07",
-      "startTime": "14:00",
-      "endTime": null,
-      "location": "Curtain Theater, Randolph W. Bromery Center for the Arts",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://purchase.arts.umass.edu/EventAvailability?EventId=12001&_gl=1*1i5q5r1*_gcl_au*NDA3NzE4NzAyLjE3Njc5OTIzMzg.*_ga*MTMwNjQ2NDM4LjE3NTg4OTE5NTI.*_ga_21RLS0L7EB*czE3NjkyMDE4MDUkbzI2JGcxJHQxNzY5MjAyNDIxJGoyOSRsMCRoMA.."
-    },
-    {
-      "title": "\"The Interrobangers\"",
-      "titleExplain": "Theater",
-      "date": "2026-03-07",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Curtain Theater, Randolph W. Bromery Center for the Arts",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://purchase.arts.umass.edu/EventAvailability?EventId=12001&_gl=1*1xod35a*_gcl_au*NDA3NzE4NzAyLjE3Njc5OTIzMzg.*_ga*MTMwNjQ2NDM4LjE3NTg4OTE5NTI.*_ga_21RLS0L7EB*czE3NjkyMDE4MDUkbzI2JGcxJHQxNzY5MjAyNTA0JGoyNyRsMCRoMA.."
-    },
-    {
-      "title": "\"Melancholy Play” by Sarah Ruhl",
-      "titleExplain": "Theater",
-      "date": "2026-03-07",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Rooke Theater",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/melancholy-play"
-    },
-    {
-      "title": "43rd Annual New England Saxophone Symposium & Competition",
-      "titleExplain": "All day",
-      "date": "2026-03-07",
-      "startTime": null,
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": null,
-      "url": "https://www.umass.edu/music-dance/events/43rd-annual-new-england-saxophone-symposium-competition"
-    },
-    {
-      "title": "JAZZ: The Big Broadcast!",
-      "titleExplain": "Mount Holyoke jazz ensembles present music from the Great American Songbook.",
-      "date": "2026-03-07",
-      "startTime": "2 p.m.",
-      "endTime": "3:30 p.m.",
-      "location": "Mary Woolley Hall, Chapin Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets are $25, $20 and $10",
-      "url": "https://events.mtholyoke.edu/event/jazz-the-big-broadcast",
-      "imageAlt": "Old-fashioned microphone",
-      "imageURL": "images/OldFashionedMike.jpg"
-    },
-    {
-      "title": "Guest Artist Concert: Ryan Bisson Ryan Bisson, bass trombone, and Robert Stahley, tenor",
-      "titleExplain": null,
-      "date": "2026-03-08",
-      "startTime": "16:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-ryan-bisson-bass-trombone-robert-stahley-tenor"
-    },
-    {
-      "title": "\"Melancholy Play” by Sarah Ruhl",
-      "titleExplain": "Theater",
-      "date": "2026-03-08",
-      "startTime": "14:30",
-      "endTime": null,
-      "location": "Rooke Theater",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets $10 general admission, $5 students and senior citizens",
-      "url": "https://events.mtholyoke.edu/event/melancholy-play"
     },
     {
       "title": "New Music and the New Ends of History",

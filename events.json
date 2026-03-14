@@ -3,7 +3,7 @@
     {
       "title": "2026 Spring Bulb Show Continues",
       "titleExplain": "Runs through March 22",
-      "date": "2026-03-12",
+      "date": "2026-03-14",
       "startTime": "10 a.m.",
       "endTime": "4 p.m. (Till 8 p.m. on Fridays and Saturdays)",
       "location": "Lyman Plant House & Conservatory",
@@ -16,7 +16,7 @@
     {
       "title": "54th Annual Spring Flower Show",
       "titleExplain": "Runs through March 22",
-      "date": "2026-03-12",
+      "date": "2026-03-14",
       "startTime": "10 a.m.",
       "endTime": "4 p.m.",
       "location": "Talcott Greenhouse",
@@ -25,39 +25,6 @@
       "url": "https://events.mtholyoke.edu/event/54th-annual-spring-flower-show",
       "imageAlt": "Photo of tulips",
       "imageURL": "images/TulipsUnsplash.jpg"
-    },
-    {
-      "title": "Spring Cabaret",
-      "titleExplain": "Songs from the golden age of Broadway performed by Vocal Performance students",
-      "date": "2026-03-12",
-      "startTime": "7:30 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Earle Recital Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/spring-cabaret"
-    },
-    {
-      "title": "\"The Interrobangers\"",
-      "titleExplain": "Theater",
-      "date": "2026-03-12",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Curtain Theater, Randolph W. Bromery Center for the Arts",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://purchase.arts.umass.edu/EventAvailability?EventId=12001&_gl=1*1xod35a*_gcl_au*NDA3NzE4NzAyLjE3Njc5OTIzMzg.*_ga*MTMwNjQ2NDM4LjE3NTg4OTE5NTI.*_ga_21RLS0L7EB*czE3NjkyMDE4MDUkbzI2JGcxJHQxNzY5MjAyNTA0JGoyNyRsMCRoMA.."
-    },
-    {
-      "title": "\"The Interrobangers\"",
-      "titleExplain": null,
-      "date": "2026-03-13",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Curtain Theater, Randolph W. Bromery Center for the Arts",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://purchase.arts.umass.edu/EventAvailability?EventId=12001&_gl=1*1xod35a*_gcl_au*NDA3NzE4NzAyLjE3Njc5OTIzMzg.*_ga*MTMwNjQ2NDM4LjE3NTg4OTE5NTI.*_ga_21RLS0L7EB*czE3NjkyMDE4MDUkbzI2JGcxJHQxNzY5MjAyNTA0JGoyNyRsMCRoMA.."
     },
     {
       "title": "¡Guitarra! Kevin Loh",

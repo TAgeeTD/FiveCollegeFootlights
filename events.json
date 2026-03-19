@@ -3,7 +3,7 @@
     {
       "title": "2026 Spring Bulb Show Continues",
       "titleExplain": "Runs through March 22",
-      "date": "2026-03-14",
+      "date": "2026-03-20",
       "startTime": "10 a.m.",
       "endTime": "4 p.m. (Till 8 p.m. on Fridays and Saturdays)",
       "location": "Lyman Plant House & Conservatory",
@@ -16,7 +16,7 @@
     {
       "title": "54th Annual Spring Flower Show",
       "titleExplain": "Runs through March 22",
-      "date": "2026-03-14",
+      "date": "2026-03-20",
       "startTime": "10 a.m.",
       "endTime": "4 p.m.",
       "location": "Talcott Greenhouse",
@@ -25,17 +25,6 @@
       "url": "https://events.mtholyoke.edu/event/54th-annual-spring-flower-show",
       "imageAlt": "Photo of tulips",
       "imageURL": "images/TulipsUnsplash.jpg"
-    },
-    {
-      "title": "¡Guitarra! Kevin Loh",
-      "titleExplain": "Classical guitarist",
-      "date": "2026-03-14",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Ticket prices start at $35, less for Five College students and youths",
-      "url": "https://events.umass.edu/event/guitarra-kevin-loh"
     },
     {
       "title": "Songbook for a King",

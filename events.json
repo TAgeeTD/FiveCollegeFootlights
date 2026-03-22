@@ -2,8 +2,8 @@
   "events": [
     {
       "title": "2026 Spring Bulb Show Continues",
-      "titleExplain": "Runs through March 22",
-      "date": "2026-03-20",
+      "titleExplain": "Last Day",
+      "date": "2026-03-22",
       "startTime": "10 a.m.",
       "endTime": "4 p.m. (Till 8 p.m. on Fridays and Saturdays)",
       "location": "Lyman Plant House & Conservatory",
@@ -15,8 +15,8 @@
     },
     {
       "title": "54th Annual Spring Flower Show",
-      "titleExplain": "Runs through March 22",
-      "date": "2026-03-20",
+      "titleExplain": "Last Day",
+      "date": "2026-03-22",
       "startTime": "10 a.m.",
       "endTime": "4 p.m.",
       "location": "Talcott Greenhouse",
@@ -25,17 +25,6 @@
       "url": "https://events.mtholyoke.edu/event/54th-annual-spring-flower-show",
       "imageAlt": "Photo of tulips",
       "imageURL": "images/TulipsUnsplash.jpg"
-    },
-    {
-      "title": "Songbook for a King",
-      "titleExplain": "Concert, Trobár Medieval Music Ensemble",
-      "date": "2026-03-21",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-trobar-medieval-music-ensemble"
     },
     {
       "title": "The Listening Room: Mixed Message",

@@ -1,54 +1,6 @@
 {
   "events": [
     {
-      "title": "2026 Spring Bulb Show Continues",
-      "titleExplain": "Last Day",
-      "date": "2026-03-22",
-      "startTime": "10 a.m.",
-      "endTime": "4 p.m. (Till 8 p.m. on Fridays and Saturdays)",
-      "location": "Lyman Plant House & Conservatory",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://garden.smith.edu/news-events/news/2026-spring-bulb-show",
-      "imageAlt": "Photo of flowers from past bulb show",
-      "imageURL": "images/Smithflowers.JPG"
-    },
-    {
-      "title": "54th Annual Spring Flower Show",
-      "titleExplain": "Last Day",
-      "date": "2026-03-22",
-      "startTime": "10 a.m.",
-      "endTime": "4 p.m.",
-      "location": "Talcott Greenhouse",
-      "college": "Mount Holyoke",
-      "tickets": "Free",
-      "url": "https://events.mtholyoke.edu/event/54th-annual-spring-flower-show",
-      "imageAlt": "Photo of tulips",
-      "imageURL": "images/TulipsUnsplash.jpg"
-    },
-    {
-      "title": "The Listening Room: Mixed Message",
-      "titleExplain": "A talk and performance by songwriters and performers Miriam Piilonen and Ben Geyer",
-      "date": "2026-03-24",
-      "startTime": "11 a.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/listening-room-ep-17-mixed-message"
-    },
-    {
-      "title": "Drip Like Coffee: The Craft of Black Lesbian Filmmaking",
-      "titleExplain": "Lecture by Anaiis Cisco, Smith College professor of film and media, as part of the Smith College Chaired Professor Lecture Series",
-      "date": "2026-03-24",
-      "startTime": "16:30",
-      "endTime": null,
-      "location": "Amherst Cinema in Amherst center",
-      "college": null,
-      "tickets": null,
-      "url": "https://www.smith.edu/academics/provostdean-faculty/events#chaired-professor-lectures-3"
-    },
-    {
       "title": "Celebrating Pianos, PianoDuo Festival",
       "titleExplain": "Long Duo joins Smith faculty pianists Albert Cano Smit and Yang Liu",
       "date": "2026-03-26",

@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "title": "Celebrating Pianos, PianoDuo Festival",
-      "titleExplain": "Long Duo joins Smith faculty pianists Albert Cano Smit and Yang Liu",
-      "date": "2026-03-26",
-      "startTime": "6 p.m.",
-      "endTime": "9 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/scms-presents-celebrating-pianos-pianoduo-festival"
-    },
-    {
-      "title": "When Norm Violations Come Out of the Shadows",
-      "titleExplain": "Lecture by Jennifer Saul, professor, Waterloo Chair in Social and Political Philosophy of Language, University of Waterloo, as part of the philosophy department's Forry & Micken Lecture Series",
-      "date": "2026-03-26",
-      "startTime": "17:00",
-      "endTime": "18:30",
-      "location": "Fayweather Hall, Pruyne Lecture Hall (Room 115)",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/933559"
-    },
-    {
-      "title": "Hayato Sumino",
-      "titleExplain": "Classical pianist",
-      "date": "2026-03-26",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bowker Auditorium",
-      "college": "UMass",
-      "tickets": "Ticket prices start at $40, less for Five College students and youths",
-      "url": "https://arts.umass.edu/performing-arts/events/hayato-sumino-2526"
-    },
-    {
-      "title": "Guest Artist Concert: Max Levinson",
-      "titleExplain": "Piano",
-      "date": "2026-03-26",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-max-levinson-piano"
-    },
-    {
       "title": "Five College Jazz Festival '26",
       "titleExplain": null,
       "date": "2026-03-27",

@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "title": "Guest Artist Lecture: Joan Tower",
-      "titleExplain": "Composer",
-      "date": "2026-03-31",
-      "startTime": "11 a.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/guest-artist-lecture-joan-tower-composer"
-    },
-    {
-      "title": "Guest Artist Concert: Joan Tower Celebration",
-      "titleExplain": "Performance of Joan Tower's work by students, faculty and guests",
-      "date": "2026-03-31",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-joan-tower-celebration"
-    },
-    {
-      "title": "Faculty Concert: Kaitlyn Burns",
-      "titleExplain": "Flute",
-      "date": "2026-04-07",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/faculty-concert-kaitlyn-burns-flute-spring-26"
-    },
-    {
-      "title": "New Play Reading Series: Aria Ramanthan",
-      "titleExplain": "Theater",
-      "date": "2026-04-03",
-      "startTime": "7:30 p.m.",
-      "endTime": "10 p.m.",
-      "location": "Theatr Acting Studio 1",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/new-play-reading-series-aria-ramanthan"
-    },
-    {
-      "title": "Quartetto Mosso: Beethoven and T.S. Eliot",
-      "titleExplain": "Concert with chamber ensemble Quartetto Mosso",
-      "date": "2026-04-05",
-      "startTime": "3 p.m.",
-      "endTime": "5 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/quartett-mosso-beethoven-and-ts-eliot"
-    },
-    {
       "title": "Wind Ensemble & Symphony Band",
       "titleExplain": null,
       "date": "2026-04-08",

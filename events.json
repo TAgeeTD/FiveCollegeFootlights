@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "title": "Women and the World of Work: Precarity, Power, and Possibilities",
-      "titleExplain": "Talk by Sarita Gupta ’96, vice president of U.S. programs at the Ford Foundation",
-      "date": "2026-04-08",
-      "startTime": "5 p.m.",
-      "endTime": "7 p.m.",
-      "location": "Dwight Hall, Room 101",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/sarita-gupta"
-    },
-    {
-      "title": "Wind Ensemble & Symphony Band",
-      "titleExplain": null,
-      "date": "2026-04-08",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Tickets $17 general; $7 seniors, UMass employees, students, UMass students free",
-      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-april-26"
-    },
-    {
-      "title": "Lucía",
-      "titleExplain": "Jazz vocalist, part of the UMass Fine Arts Center's Next50 series",
-      "date": "2026-04-09",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "The Drake in Amherst center",
-      "college": null,
-      "tickets": "Ticket prices start at $35, less for Five College students and youths",
-      "url": "https://arts.umass.edu/performing-arts/events/lucia-2526"
-    },
-    {
-      "title": "UMass University Chorale with Springfield Symphony Orchestra",
-      "titleExplain": null,
-      "date": "2026-04-08",
-      "startTime": "15:00",
-      "endTime": null,
-      "location": "Springfield Symphony Hall",
-      "college": null,
-      "tickets": "Tickets $25 to $80",
-      "url": "https://www.umass.edu/music-dance/events/university-chorale-springfield-symphony-orchestra"
-    },
-    {
       "title": "CANCELED: Graduate Brass Quintet",
       "titleExplain": null,
       "date": "2026-04-12",

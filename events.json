@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "title": "CANCELED: Graduate Brass Quintet",
-      "titleExplain": null,
-      "date": "2026-04-12",
-      "startTime": "17:00",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-spring-2026"
-    },
-    {
-      "title": "Robyn Quinnett, violin; Jiayan Sun, piano",
-      "titleExplain": "Concert with Smith performance faculty members",
-      "date": "2026-04-10",
-      "startTime": "7:30 p.m,.",
-      "endTime": "9 p.m.",
-      "location": "Sweeney Concert Hall",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://new.smith.edu/news-events/events/scms-presents-robyn-quinnett-violin-jiayan-sun-piano"
-    },
-    {
-      "title": "Senior Dance Concert",
-      "titleExplain": null,
-      "date": "2026-04-11",
-      "startTime": "7:30 p.m,.",
-      "endTime": "9 p.m.",
-      "location": "Hallie Flanagan Studio Theatre",
-      "college": "Smith",
-      "tickets": "Tickets $5 to $10",
-      "url": "https://new.smith.edu/news-events/events/senior-dance-concert-6"
-    },
-    {
-      "title": "Acafella",
-      "titleExplain": "A night of a cappella performances from Smith College, UMass, Worcester Polytechnic Institute and more",
-      "date": "2026-04-11",
-      "startTime": "7 p.m.",
-      "endTime": "10:30 p.m.",
-      "location": "Chapin Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets $5 for general public, free for MHC students",
-      "url": "https://embark.mtholyoke.edu/v8s/rsvp_boot?id=2144603"
-    },
-    {
       "title": "Jazz Lab Ensemble",
       "titleExplain": null,
       "date": "2026-04-14",

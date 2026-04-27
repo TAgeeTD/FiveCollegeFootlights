@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "title": "Verdi Requiem",
-      "titleExplain": "Performed by the orchestra and choirs",
-      "date": "2026-04-26",
-      "startTime": "16:00",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Ticket $17 general; $7 students, seniors & UMass employees. Free for UMass Students with ID.",
-      "url": "https://www.umass.edu/music-dance/events/orchestra-and-choirs-perform-verdi-requiem"
-    },
-    {
       "title": "Chapel Jazz Ensemble",
       "titleExplain": null,
       "date": "2026-04-28",
@@ -21,6 +10,17 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/chapel-jazz-ensemble-spring-26"
+    },
+    {
+      "title": "UMass Founders Day",
+      "titleExplain": "More than 30 activities across 18 campus locations, including concerts, tours and open houses to museums, galleries and spirit stations.",
+      "date": "2026-04-29",
+      "startTime": "9 a.m.",
+      "endTime": "9 p.m.",
+      "location": "Multiple locations",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/founders-day"
     },
     {
       "title": "Trombone Choir & Brass Ensembles",
@@ -54,6 +54,17 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/international-jazz-day-celebration"
+    },
+    {
+      "title": "Above the Oxbow: Engaging the Past on Mount Holyoke",
+      "titleExplain": "Danielle Raad discusses her new book, \"Above the Oxbow: Stories Entangled with a Mountain\".",
+      "date": "2026-04-30",
+      "startTime": "12 p.m.",
+      "endTime": "1 p.m.",
+      "location": "Herter Hall Room 601",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/history/events/above-oxbow-engaging-past-mount-holyoke"
     },
     {
       "title": "\"Rhinoceros\"",

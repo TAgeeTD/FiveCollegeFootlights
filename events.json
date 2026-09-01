@@ -1,235 +1,160 @@
 {
   "events": [
     {
-      "title": "UMass Founders Day",
-      "titleExplain": "More than 30 activities across 18 campus locations, including concerts, tours and open houses to museums, galleries and spirit stations.",
-      "date": "2026-04-29",
-      "startTime": "9 a.m.",
-      "endTime": "9 p.m.",
-      "location": "Multiple locations",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/founders-day"
-    },
-    {
-      "title": "Trombone Choir & Brass Ensembles",
-      "titleExplain": null,
-      "date": "2026-04-29",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/trombone-choir-brass-ensembles-april-26"
-    },
-    {
-      "title": "Truth and History",
-      "titleExplain": "Part of the Philosophy Department's Forry & Micken Lecture Series, with Michael Patrick Lynch, provost professor of the humanities and Board of Trustees Distinguished Professor of Philosophy, University of Connecticut",
-      "date": "2026-04-30",
-      "startTime": "17:00",
-      "endTime": "18:30",
-      "location": "Fayweather Hall, Pruyne Lecture Hall",
+      "title": "The Sounds of Sonny / Concert",
+      "titleExplain": "Amherst College faculty perform music of Sonny Rollins",
+      "date": "2026-09-02",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "The Drake, Amherst",
       "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/933560"
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/943997"
     },
     {
-      "title": "International Jazz Day Celebration",
-      "titleExplain": null,
-      "date": "2026-04-30",
-      "startTime": "19:30",
+      "title": "We Watched the Clouds / Concert",
+      "titleExplain": "Musical performance by Justin Randolph Thompson and Jason Thompson, as part of the program \"Justin Randolh Thompson: Surveying Gravity: A Mirror for Growing Contradictions\"",
+      "date": "2026-09-09",
+      "startTime": "4 p.m.",
       "endTime": null,
+      "location": "Oswald Tippo Courtyard, W. E. B. Du Bois Library",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://libcal.library.umass.edu/event/17403102"
+    },
+        {
+      "title": "\"BLKNWS: Terms and Conditions\" / Film",
+      "titleExplain": "Described as \"an experimental look at [W.E.B.] Du Bois’ legacy and an Afro-futuristic meditation on what is to come.\" Part of the program \"Justin Randolh Thompson: Surveying Gravity: A Mirror for Growing Contradictions\".",
+      "date": "2026-09-09",
+      "startTime": "8 p.m.",
+      "endTime": null,
+      "location": "New Africa House Theater",
+      "college": "UMass",
+      "tickets": "Free",
+      "imageAlt": null,
+      "imageURL": null,
+      "url": "https://libcal.library.umass.edu/event/17403102"
+    },
+        {
+      "title": "\"Wisdom of Happiness\" / Film",
+      "titleExplain": "Film screening and panel discussion featuring Richard Gere, executive producer",
+      "date": "2026-09-09",
+      "startTime": "6:15 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Free, but registration strongly recommended",
+      "url": "https://arts.umass.edu/education-engagement/events/2026-2027/wisdom-of-happiness-screening-panel"
+    },
+        {
+      "title": "Moment of Clarity / Concert",
+      "titleExplain": "Musical performace, part of the Five College New Music Festival",
+      "date": "2026-09-11",
+      "startTime": "7:30 p.m.",
+      "endTime":null,
       "location": "Bezanson Recital Hall",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/international-jazz-day-celebration"
+      "url": "https://www.5cnmf.org/programs/"
     },
-    {
-      "title": "Above the Oxbow: Engaging the Past on Mount Holyoke",
-      "titleExplain": "Danielle Raad discusses her new book, \"Above the Oxbow: Stories Entangled with a Mountain\".",
-      "date": "2026-04-30",
-      "startTime": "12 p.m.",
-      "endTime": "1 p.m.",
-      "location": "Herter Hall Room 601",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/history/events/above-oxbow-engaging-past-mount-holyoke"
-    },
-    {
-      "title": "\"Rhinoceros\"",
-      "titleExplain": "Theater",
-      "date": "2026-05-01",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Rand Theater in Tobin Hall",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://arts.umass.edu/box-office/theater-department/events?page=0"
-    },
-    {
-      "title": "Bill T. Jones/Arnie Zane Company",
-      "titleExplain": "Contemporary dance",
-      "date": "2026-05-01",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall,",
-      "college": "UMass",
-      "tickets": "Ticket prices start at $40, less for Five College students and youths",
-      "url": "https://arts.umass.edu/performing-arts/events/bill-t-jones-arnie-zane-company-2526"
-    },
-    {
-      "title": "Junior Choreography Dance Projects",
-      "titleExplain": null,
-      "date": "2026-05-02",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "Totman Performance Lab",
-      "college": "UMass",
-      "tickets": "Tickets $12, students free",
-      "url": "https://www.umass.edu/music-dance/events/junior-choreography-dance-projects-friday"
-    },
-    {
-      "title": "\"Rhinoceros\"",
-      "titleExplain": "Theater",
-      "date": "2026-05-02",
+        {
+      "title": "An Afternoon of Premieres / Concert",
+      "titleExplain": "Musical performance, part of the Five College New Music Festival",
+      "date": "2026-09-12",
       "startTime": "2 p.m.",
       "endTime": null,
-      "location": "Rand Theater in Tobin Hall",
+      "location": "Bezanson Recital Hall",
       "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://arts.umass.edu/box-office/theater-department/events?page=0"
+      "tickets": "Free",
+      "url": "https://www.5cnmf.org/programs/"
     },
-    {
-      "title": "\"Rhinoceros\"",
-      "titleExplain": "Theater",
-      "date": "2026-05-02",
+        {
+      "title": "Wild and Tame / Concert",
+      "titleExplain": "Musical performance, part of the Five College New Music Festival",
+      "date": "2026-09-12",
       "startTime": "7:30 p.m.",
       "endTime": null,
-      "location": "Rand Theater in Tobin Hall",
+      "location": "Bezanson Recital Hall",
       "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://arts.umass.edu/box-office/theater-department/events?page=0"
+      "tickets": "Free",
+      "url": "https://www.5cnmf.org/programs/"
     },
-    {
-      "title": "Vocal Jazz Ensemble",
-      "titleExplain": null,
-      "date": "2026-05-03",
-      "startTime": "16:00",
+        {
+      "title": "O King / Concert",
+      "titleExplain": "Musical performace, part of the Five College New Music Festival",
+      "date": "2026-09-13",
+      "startTime": "3 p.m.",
       "endTime": null,
       "location": "Bezanson Recital Hall",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/vocal-jazz-ensemble-spring-2026"
+      "url": "https://www.5cnmf.org/programs/"
     },
     {
-      "title": "\"May the 4th Be With You\"",
-      "titleExplain": "Wind Ensemble and Symphony Band",
-      "date": "2026-05-04",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall,",
-      "college": "UMass",
-      "tickets": "Tickets $17 general; $7 seniors, students, UMass employees; free for UMass students with ID",
-      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-and-symphony-band-may-2026"
+      "title": "Brahms Requiem & Community Sing",
+      "titleExplain": "Fundraiser for Amherst Survival Center",
+      "date": "2026-09-19",
+      "startTime": "4 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Buckley Recital Hall",
+      "college": "Amherst",
+      "tickets": "Free with donation of non-perishable food items; monetary donations also accepted.",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/946089"
     },
-    {
-      "title": "All Campus Choir",
-      "titleExplain": null,
-      "date": "2026-05-05",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/all-campus-choir-may-2026"
-    },
-    {
-      "title": "Jazz Ensemble I & Studio Orchestra",
-      "titleExplain": null,
-      "date": "2026-05-06",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "$17 general; $7 seniors, students, UMass employees. Free for UMass students with valid ID.",
-      "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-studio-orchestra-may-2026"
-    },
-    {
-      "title": "Transgressing Schenker: Questioning Assumptions in the Classroom",
-      "titleExplain": "A talk by Benjamin Wadsworth, professor of music theory at Kennesaw State University in Atlanta",
-      "date": "2026-05-07",
-      "startTime": "11 a.m.",
-      "endTime": null,
-      "location": "Bromery Center for the Arts Room 419",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/research-music-series-talk-benjamin-wadsworth"
-    },
-    {
-      "title": "Concert Band",
-      "titleExplain": null,
-      "date": "2026-05-07",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Tickets $17 general; $7 seniors, students, UMass employees. Free for UMass students with ID.",
-      "url": "https://www.umass.edu/music-dance/events/concert-band-may-2026"
-    },
-    {
-      "title": "\"Rhinoceros\"",
-      "titleExplain": "Theater",
-      "date": "2026-05-07",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Rand Theater in Tobin Hall",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://arts.umass.edu/box-office/theater-department/events?page=0"
-    },
-    {
-      "title": "AWOOGA! Dance & Drag Extravaganza",
-      "titleExplain": null,
-      "date": "2026-05-07",
-      "startTime": "20:00",
-      "endTime": null,
-      "location": "Totman Gymnasium",
+        {
+      "title": "\"Coded Bias\" / Film",
+      "titleExplain": "Film explores \"facial recognition technology, and how it classifies different faces\".",
+      "date": "2026-09-22",
+      "startTime": "7 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "New Africa House, 127",
       "college": "UMass",
       "tickets": null,
-      "url": "https://www.umass.edu/music-dance/events/awooga-dance-drag-extravaganza-2026"
+      "url": "https://events.umass.edu/event/coded-bias-film-screening"
     },
-    {
-      "title": "Classic opera scenes by the UMass Opera Workshop",
-      "titleExplain": null,
-      "date": "2026-05-08",
-      "startTime": "19:30",
+        {
+      "title": "Amherst College Instructor Recital",
+      "titleExplain": "Oboist Aaron Lakota, with the Eclectic Arts Trio & Bassist Dave Picchi, in Recital: \"Where Does It Come From?\"",
+      "date": "2026-09-23",
+      "startTime": "7 p.m.",
       "endTime": null,
-      "location": "Bezanson Recital Hall",
+      "location": "The Drake, Amherst7",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/945440"
+    },
+        {
+      "title": "The Carpenters Songbook: A Live Celebration / Concert",
+      "titleExplain": "Songs from the catalog of the pop duo, featuring a full band",
+      "date": "2026-09-25",
+      "startTime": "7:30 p.m.",
+      "endTime": "9:30 p.m.",
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Prices start at $50, less for youths and students",
+      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook"
+    },
+        {
+      "title": "Amherst Symphony Orchestra",
+      "titleExplain": "Annual welcoming concert featuring Antonín Dvořák's Ninth Symphony (\"From the New World\") and other works",
+      "date": "2026-09-26",
+      "startTime": "7 p.m.",
+      "endTime": "8 p.m.",
+      "location": "Buckley Recital Hall",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/943998"
+    },
+        {
+      "title": "Bandtoberfest: A Fall Celebration / Concert",
+      "titleExplain": "Family-friendly performance by the UMass Wind Ensemble and Symphony Band",
+      "date": "2026-09-27",
+      "startTime": "2 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Amherst Common",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/opera-workshop-may-2026"
-    },
-    {
-      "title": "\"Rhinoceros\"",
-      "titleExplain": "Theater",
-      "date": "2026-05-08",
-      "startTime": "19:30",
-      "endTime": null,
-      "location": "Rand Theater in Tobin Hall",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://arts.umass.edu/box-office/theater-department/events?page=0"
-    },
-    {
-      "title": "\"Rhinoceros\"",
-      "titleExplain": "Theater",
-      "date": "2026-05-09",
-      "startTime": "14:00",
-      "endTime": null,
-      "location": "Rand Theater in Tobin Hall",
-      "college": "UMass",
-      "tickets": "Tickets $19 for adults, $7 for seniors 65+, students, youths 17 and under, and Card to Culture patrons",
-      "url": "https://arts.umass.edu/box-office/theater-department/events?page=0"
+      "url": "https://www.umass.edu/music-dance/events/bandtoberfest-2026-fall-celebration"
     }
   ]
 }

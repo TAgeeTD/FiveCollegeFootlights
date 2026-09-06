@@ -1,15 +1,15 @@
 {
   "events": [
-    {
-      "title": "The Sounds of Sonny / Concert",
-      "titleExplain": "Amherst College faculty perform music of Sonny Rollins",
-      "date": "2026-09-02",
-      "startTime": "7:30 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "The Drake, Amherst",
-      "college": "Amherst",
+        {
+      "title": "Observatory Open House",
+      "titleExplain": "\"We will use telescopes to observe the planets, nebulae, and galaxies. The event will only happen if it is clear enough to observe objects in the sky.\"",
+      "date": "2026-09-08",
+      "startTime": "8 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Williston Observatory, 55 College St.",
+      "college": "Mount Holyoke",
       "tickets": "Free",
-      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/943997"
+      "url": "https://events.mtholyoke.edu/event/observatory-open-house-9-8-26"
     },
     {
       "title": "We Watched the Clouds / Concert",

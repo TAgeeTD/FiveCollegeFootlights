@@ -9,7 +9,9 @@
       "location": "Williston Observatory, 55 College St.",
       "college": "Mount Holyoke",
       "tickets": "Free",
-      "url": "https://events.mtholyoke.edu/event/observatory-open-house-9-8-26"
+      "url": "https://events.mtholyoke.edu/event/observatory-open-house-9-8-26",
+        "imageAlt": "Archival image of observatory courtesy LOC",
+      "imageURL": "images/MtHolyokeObLOC.jpg"
     },
     {
       "title": "We Watched the Clouds / Concert",
@@ -165,7 +167,9 @@
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
       "tickets": "Prices start at $50, less for youths and students",
-      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook"
+      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook",
+      "imageAlt": "Songbook logo",
+      "imageURL": "images/Carpentersimage.jpg"
     },
         {
       "title": "Amherst Symphony Orchestra",

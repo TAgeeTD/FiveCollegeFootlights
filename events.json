@@ -44,6 +44,17 @@
       "tickets": "Free with donation of non-perishable food items; monetary donations also accepted.",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/946089"
     },
+    {
+      "title": "Ithaca Winds / Concert",
+      "titleExplain": "Six members of the Ithaca College School of Music, Theatre and Dance perform chamber music.",
+      "date": "2026-09-21",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-ithaca-winds"
+    },
         {
       "title": "\"Coded Bias\" / Film",
       "titleExplain": "Film explores \"facial recognition technology, and how it classifies different faces\".",
@@ -166,8 +177,19 @@
       "url": "https://www.smith.edu/news-events/events/screening-golden-harvest-and-conversation-filmmaker-alia-yunis"
     },
         {
+      "title": "Jazz Ensemble I and Chapel Jazz Ensemble / Concert",
+      "titleExplain": "Repertoire to be announced.",
+      "date": "2026-10-06",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bowker Auditorium",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors and UMass employees",
+      "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-chapel-jazz-ensemble-oct-26"
+    },
+        {
       "title": "Keetje Kuipers Poetry Reading",
-      "titleExplain": " Keetje Kuipers is the author of \"Lonely Women Make Good Lovers\".",
+      "titleExplain": "Keetje Kuipers is the author of \"Lonely Women Make Good Lovers\".",
       "date": "2026-10-06",
       "startTime": "7 p.m.",
       "endTime": "8:30 p.m.",
@@ -175,6 +197,17 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/screening-golden-harvest-and-conversation-filmmaker-alia-yunis"
+    },
+        {
+      "title": "Faculty Chamber Concert",
+      "titleExplain": "\"First in a series of Faculty Chamber Music concerts celebrating the music of American composers.\"",
+      "date": "2026-10-13",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/faculty-chamber-series-concert-1-american-music"
     },
         {
       "title": "James Limerick Kerr Faculty Guitar Recital",
@@ -186,6 +219,17 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/james-limerick-kerr-faculty-guitar-recital"
+    },
+        {
+      "title": "Multiband Pops Concert",
+      "titleExplain": "Fifty-second annual showcase featuring the Minuteman Marching Band as well as jazz, wind, orchestral, choral, percussion and chamber ensembles.",
+      "date": "2026-10-16",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Tickets: $27 general; $20 students, seniors and UMass employees",
+      "url": "https://www.umass.edu/music-dance/events/52nd-annual-multiband-pops-concert"
     },
         {
       "title": "Cider Pressing and Heirloom Apple Tasting",
@@ -210,6 +254,50 @@
       "url": "https://www.smith.edu/news-events/events/montage-oh-place-youll-go"
     },
         {
+      "title": "Trombone Choirs and Brass Chamber Ensembles / Concert",
+      "titleExplain": null,
+      "date": "2026-10-20",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/trombone-choirs-brass-chamber-ensembles-oct-26"
+    },
+        {
+      "title": "Faculty Concert: Fumi Tomita, jazz bass",
+      "titleExplain": "Performing his jazz project \"Yokai! Songs of the Japanese Supernatural\", a multimedia experience.",
+      "date": "2026-10-21",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/faculty-concert-fumi-tomita-jazz-bass-fall-2026"
+    },
+        {
+      "title": "Faculty Concert: Gilles Vonsattel, piano",
+      "titleExplain": "Performing the first program in the cycle of Beethoven's piano sonatas.",
+      "date": "2026-10-22",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-1"
+    },
+        {
+      "title": "UMass Symphony Orchestra / Concert",
+      "titleExplain": "Featuring Shostakovich's Symphony No. 5, plus the premiere of a new work by Annika Socolofsky",
+      "date": "2026-10-23",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors and UMass employees",
+      "url": "https://www.umass.edu/music-dance/events/umass-amherst-symphony-orchestra-oct-26"
+    },
+        {
       "title": "Hugh Ryan / Lecture",
       "titleExplain": null,
       "date": "2026-10-27",
@@ -219,6 +307,17 @@
       "college": "Smith",
       "tickets": null,
       "url": "https://www.smith.edu/news-events/events/hugh-ryan-talk"
+    },
+        {
+      "title": "Jazz Lab & Graduate Jazz Composers' Ensembles / Concert",
+      "titleExplain": "Repertoire to be announced.",
+      "date": "2026-10-27",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/jazz-lab-graduate-jazz-composers-ensembles-oct-26"
     },
     {
       "title": "Jason Schneiderman Poetry Reading",
@@ -243,6 +342,17 @@
       "url": "https://www.smith.edu/news-events/events/echoes-peaceful-forest-japanese-wadaiko-experience"
     },
     {
+      "title": "Wind Ensemble and Symphony Band ",
+      "titleExplain": "Performing classics from the wind band repertoire.",
+      "date": "2026-10-28",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees.",
+      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-oct-26"
+    },
+    {
       "title": "\"The Future of Coffee\" / Film",
       "titleExplain": "After a screening of this short film, the director, Kevin Anderson of the UMass communnications department, with lead a discussion with panelists from local coffee companies.",
       "date": "2026-10-29",
@@ -254,6 +364,17 @@
       "url": "https://www.smith.edu/news-events/events/future-coffee-film-screening-and-panel-discussion"
     },
     {
+      "title": "Faculty Concert: Gilles Vonsattel, piano",
+      "titleExplain": "Second concert in the Beethoven Sonata Series",
+      "date": "2026-10-29",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-2"
+    },
+    {
       "title": "\"The Secretaries by The Five Lesbian Brothers\" / Theater",
       "titleExplain": "\"Set in and around the Cooney Lumber Mill in the early 1990s, the story follows a group of secretaries who are caught in a whirlwind of competition, manipulation, and sexual tension. Plus blood and chainsaws.\"",
       "date": "2026-10-31",
@@ -263,6 +384,17 @@
       "college": "Smith",
       "tickets": "Ticket information to come",
       "url": "https://new.smith.edu/news-events/events/secretaries-five-lesbian-brothers"
+    },
+    {
+      "title": "Percussion Day Concert",
+      "titleExplain": null,
+      "date": "2026-11-01",
+      "startTime": "4 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/percussion-day-concert-fall-2026"
     }
   ]
 }

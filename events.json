@@ -1,109 +1,6 @@
 {
   "events": [
         {
-      "title": "Observatory Open House",
-      "titleExplain": "\"We will use telescopes to observe the planets, nebulae, and galaxies. The event will only happen if it is clear enough to observe objects in the sky.\"",
-      "date": "2026-09-08",
-      "startTime": "8 p.m.",
-      "endTime": "10 p.m.",
-      "location": "Williston Observatory, 55 College St.",
-      "college": "Mount Holyoke",
-      "tickets": "Free",
-      "url": "https://events.mtholyoke.edu/event/observatory-open-house-9-8-26",
-        "imageAlt": "Archival image of observatory courtesy LOC",
-      "imageURL": "images/MtHolyokeObLOC.jpg"
-    },
-    {
-      "title": "We Watched the Clouds / Concert",
-      "titleExplain": "Musical performance by Justin Randolph Thompson and Jason Thompson, as part of the program \"Justin Randolph Thompson: Surveying Gravity: A Mirror for Growing Contradictions\"",
-      "date": "2026-09-09",
-      "startTime": "4 p.m.",
-      "endTime": null,
-      "location": "Oswald Tippo Courtyard, W. E. B. Du Bois Library",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://libcal.library.umass.edu/event/17403102"
-    },
-        {
-      "title": "\"BLKNWS: Terms and Conditions\" / Film",
-      "titleExplain": "Described as \"an experimental look at [W.E.B.] Du Bois’ legacy and an Afro-futuristic meditation on what is to come.\" Part of the program \"Justin Randolh Thompson: Surveying Gravity: A Mirror for Growing Contradictions\".",
-      "date": "2026-09-09",
-      "startTime": "8 p.m.",
-      "endTime": null,
-      "location": "New Africa House Theater",
-      "college": "UMass",
-      "tickets": "Free",
-      "imageAlt": null,
-      "imageURL": null,
-      "url": "https://libcal.library.umass.edu/event/17403102"
-    },
-        {
-      "title": "\"Wisdom of Happiness\" / Film",
-      "titleExplain": "Film screening and panel discussion featuring Richard Gere, executive producer",
-      "date": "2026-09-09",
-      "startTime": "6:15 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Free, but registration strongly recommended",
-      "url": "https://arts.umass.edu/education-engagement/events/2026-2027/wisdom-of-happiness-screening-panel"
-    },
-        {
-      "title": "Author Alice Hoffman in Conversation",
-      "titleExplain": "Author Alice Hoffman discusses her new novel, \"The Witches of Cambridge\", in conversation with Mount Holyoke College alum and author Deborah Harkness '86.",
-      "date": "2026-09-10",
-      "startTime": "7 p.m.",
-      "endTime": "8 p.m.",
-      "location": "First Congregational Church at the Center",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets are $34.92 and includes a signed copy of the book",
-      "url": "https://events.mtholyoke.edu/event/alice-hoffman-in-conversation-with-deborah-harkness-86"
-    },
-        {
-      "title": "Moment of Clarity / Concert",
-      "titleExplain": "Musical performace, part of the Five College New Music Festival",
-      "date": "2026-09-11",
-      "startTime": "7:30 p.m.",
-      "endTime":null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.5cnmf.org/programs/"
-    },
-        {
-      "title": "An Afternoon of Premieres / Concert",
-      "titleExplain": "Musical performance, part of the Five College New Music Festival",
-      "date": "2026-09-12",
-      "startTime": "2 p.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.5cnmf.org/programs/"
-    },
-        {
-      "title": "Wild and Tame / Concert",
-      "titleExplain": "Musical performance, part of the Five College New Music Festival",
-      "date": "2026-09-12",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.5cnmf.org/programs/"
-    },
-        {
-      "title": "O King / Concert",
-      "titleExplain": "Musical performace, part of the Five College New Music Festival",
-      "date": "2026-09-13",
-      "startTime": "3 p.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.5cnmf.org/programs/"
-    },
-        {
       "title": "One Body: Dispatches from Idaho / Theater",
       "titleExplain": "One-woman play about the repercussions of abortion bans in deeply conservative states",
       "date": "2026-09-18",
@@ -167,9 +64,7 @@
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
       "tickets": "Prices start at $50, less for youths and students",
-      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook",
-      "imageAlt": "Songbook logo",
-      "imageURL": "images/Carpentersimage.jpg"
+      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook"
     },
         {
       "title": "Amherst Symphony Orchestra",

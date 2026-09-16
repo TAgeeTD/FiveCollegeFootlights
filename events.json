@@ -1,6 +1,17 @@
 {
   "events": [
         {
+      "title": "An Absent Presence: The Woman Doctor of Mount Desert / Lecture",
+      "titleExplain": "\"Learn about An Absent Presence: The Woman Doctor of Mount Desert, the latest exhibition by Chloe Sailor. This exhibition reimagines the life of Chloe Sailor's seventh great-grandmother, Susanna Beal Milliken—the first recorded “doctoress” of Mount Desert Island, Maine.\"",
+      "date": "2026-09-17",
+      "startTime": "5 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Graham Hall-Hillyer",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/artist-lecture-absent-presence-woman-doctor-mount-desert-chloe-sailor"
+    },
+        {
       "title": "One Body: Dispatches from Idaho / Theater",
       "titleExplain": "One-woman play about the repercussions of abortion bans in deeply conservative states",
       "date": "2026-09-18",
@@ -56,6 +67,28 @@
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/945440"
     },
         {
+      "title": "Melissa Febos and Donika Kelly / Reading",
+      "titleExplain": "Essayist and critic Melissa Febos and poet Donika Kelly, both teachers at the University of Iowa, read from their works, followed by conversation.",
+      "date": "2026-09-22",
+      "startTime": "7 p.m.",
+      "endTime": "9 p.m.",
+      "location": "John M. Greene Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/melissa-febos-and-donika-kelly-reading"
+    },
+        {
+      "title": "Every Man: Why Violence Against Women is a Men's Issue / Lecture",
+      "titleExplain": "Author Jackson Katz will discuss his new book, \"Every Man\". ",
+      "date": "2026-09-24",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Klingenstein Browsing Room, Neilson Library",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/every-man-why-violence-against-women-mens-issue"
+    },
+        {
       "title": "The Carpenters Songbook: A Live Celebration / Concert",
       "titleExplain": "Songs from the catalog of the pop duo, featuring a full band",
       "date": "2026-09-25",
@@ -65,6 +98,28 @@
       "college": "UMass",
       "tickets": "Prices start at $50, less for youths and students",
       "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook"
+    },
+        {
+      "title": "\"Seeds\" / Film",
+      "titleExplain": "Screening of the 2025 documentary by Brittany Shyne. \"Seeds follows Black generational family farmers in the American South, exploring their joys, struggles, and the significance of owning their own land\".",
+      "date": "2026-09-25",
+      "startTime": "5 p.m.",
+      "endTime": "9 p.m.",
+      "location": "208 Carroll Room, Campus Center",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/seeds"
+    },
+        {
+      "title": "Sensing Together: A More-than-Human Community with Gavin Van Horn / Lecture",
+      "titleExplain": "Gavin Van Horn, executive editor of Humans & Nature Press Books, will discuss his new book, \"Sensoria: Attending to the Wonder and Vitality of Nature\".",
+      "date": "2026-09-25",
+      "startTime": "5 p.m.",
+      "endTime": "7 p.m.",
+      "location": "Center for the Environment, Ecological Design and Sustainability",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/sensing-together-more-human-community-gavin-van-horn"
     },
         {
       "title": "Amherst Symphony Orchestra",
@@ -87,6 +142,127 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/bandtoberfest-2026-fall-celebration"
+    },
+        {
+      "title": "How You Can Be Responsible for Things You Didn't Cause or Intend / Lecture",
+      "titleExplain": "Jenna Donohue, an assistant professor of Philosophy at the University of Arkansas, discusses her paper on moral complicity.",
+      "date": "2026-10-01",
+      "startTime": "5 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Room 201, Seelye Hall",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/how-you-can-be-responsible-things-you-didnt-cause-or-intend"
+    },
+        {
+      "title": "\"The Golden Harvest\" / Film ",
+      "titleExplain": "Film screening followed by conversation with the filmmaker, Alia Yunis.",
+      "date": "2026-10-05",
+      "startTime": "4:30 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Weinstein Auditorium",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/screening-golden-harvest-and-conversation-filmmaker-alia-yunis"
+    },
+        {
+      "title": "Keetje Kuipers Poetry Reading",
+      "titleExplain": " Keetje Kuipers is the author of \"Lonely Women Make Good Lovers\".",
+      "date": "2026-10-06",
+      "startTime": "7 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Weinstein Auditorium",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/screening-golden-harvest-and-conversation-filmmaker-alia-yunis"
+    },
+        {
+      "title": "James Limerick Kerr Faculty Guitar Recital",
+      "titleExplain": "Solo performance of new original music as well as masterworks by John Dowland and Blind Willie McTell.",
+      "date": "2026-10-15",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/james-limerick-kerr-faculty-guitar-recital"
+    },
+        {
+      "title": "Cider Pressing and Heirloom Apple Tasting",
+      "titleExplain": "Sponsored by the Smith College Center for the Environment, Ecological Design, and Sustainability.",
+      "date": "2026-10-24",
+      "startTime": "10 a.m.",
+      "endTime": "2 p.m.",
+      "location": "Chapin House Drive",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/ceeds-annual-cider-pressing-and-heirloom-apple-tasting"
+    },
+        {
+      "title": "Montage: Oh, the Place You'll Go! / Concert",
+      "titleExplain": "Performances by Smith's Glee Club, Chamber Singers, Orchestra, Wind Ensemble, Wailing Banshees, Jazz Ensemble, Handbells, and student a cappella groups. Part of Family Weekend.",
+      "date": "2026-10-24",
+      "startTime": "4 p.m.",
+      "endTime": "6 p.m.",
+      "location": "John M. Greene Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/montage-oh-place-youll-go"
+    },
+        {
+      "title": "Hugh Ryan / Lecture",
+      "titleExplain": null,
+      "date": "2026-10-27",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Campus Center",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/hugh-ryan-talk"
+    },
+    {
+      "title": "Jason Schneiderman Poetry Reading",
+      "titleExplain": "Jason Schneiderman is author of \"Self Portrait of Icarus as a Country on Fire\".",
+      "date": "2026-10-27",
+      "startTime": "7 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Weinstein Auditorium",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/jason-schneiderman-poetry-reading"
+    },
+    {
+      "title": "Echoes of the Peaceful Forest: A Japanese Wadaiko Experience / Performance",
+      "titleExplain": "The Kato Taiko Family in a performance of Wadaiko, or Japanese ensemble drumming, as part of a national tour.",
+      "date": "2026-10-28",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Helen Hills Hills Chapel Sanctuary",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/echoes-peaceful-forest-japanese-wadaiko-experience"
+    },
+    {
+      "title": "\"The Future of Coffee\" / Film",
+      "titleExplain": "After a screening of this short film, the director, Kevin Anderson of the UMass communnications department, with lead a discussion with panelists from local coffee companies.",
+      "date": "2026-10-29",
+      "startTime": "5 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Weinstein Auditorium",
+      "college": "Smith",
+      "tickets": null,
+      "url": "https://www.smith.edu/news-events/events/future-coffee-film-screening-and-panel-discussion"
+    },
+    {
+      "title": "\"The Secretaries by The Five Lesbian Brothers\" / Theater",
+      "titleExplain": "\"Set in and around the Cooney Lumber Mill in the early 1990s, the story follows a group of secretaries who are caught in a whirlwind of competition, manipulation, and sexual tension. Plus blood and chainsaws.\"",
+      "date": "2026-10-31",
+      "startTime": "7:30 p.m.",
+      "endTime": "9:30 p.m.",
+      "location": "Hallie Flanagan Studio Theatre",
+      "college": "Smith",
+      "tickets": "Ticket information to come",
+      "url": "https://new.smith.edu/news-events/events/secretaries-five-lesbian-brothers"
     }
   ]
 }

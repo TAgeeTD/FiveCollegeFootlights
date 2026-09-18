@@ -704,6 +704,18 @@ h5 {
     transform: translateX(0);
   }
 
+  .event-card {
+  padding: 1rem 1.15rem 1.1rem;
+}
+
+.event-image {
+  max-height: 150px;
+}
+
+.event-footer {
+  margin-top: 0.8rem;
+}
+
   /* Sidebar */
 
   .sidebar {

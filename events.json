@@ -1,28 +1,6 @@
 {
   "events": [
         {
-      "title": "An Absent Presence: The Woman Doctor of Mount Desert / Lecture",
-      "titleExplain": "\"Learn about An Absent Presence: The Woman Doctor of Mount Desert, the latest exhibition by Chloe Sailor. This exhibition reimagines the life of Chloe Sailor's seventh great-grandmother, Susanna Beal Milliken—the first recorded “doctoress” of Mount Desert Island, Maine.\"",
-      "date": "2026-09-17",
-      "startTime": "5 p.m.",
-      "endTime": "6 p.m.",
-      "location": "Graham Hall-Hillyer",
-      "college": "Smith",
-      "tickets": "Free",
-      "url": "https://www.smith.edu/news-events/events/artist-lecture-absent-presence-woman-doctor-mount-desert-chloe-sailor"
-    },
-        {
-      "title": "One Body: Dispatches from Idaho / Theater",
-      "titleExplain": "One-woman play about the repercussions of abortion bans in deeply conservative states",
-      "date": "2026-09-18",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Hallie Flanagan Theater",
-      "college": "Smith",
-      "tickets": "Tickets on sale soon",
-      "url": "https://smitharts.ludus.com/show_page.php?show_id=200545081"
-    },
-        {
       "title": "One Body: Dispatches from Idaho / Theater",
       "titleExplain": "One-woman play about the repercussions of abortion bans in deeply conservative states",
       "date": "2026-09-19",
@@ -30,8 +8,8 @@
       "endTime": null,
       "location": "Hallie Flanagan Theater",
       "college": "Smith",
-      "tickets": "Tickets on sale soon",
-      "url": "https://smitharts.ludus.com/show_page.php?show_id=200545081"
+      "tickets": null,
+      "url": ""
     },
     {
       "title": "Brahms Requiem & Community Sing",
@@ -165,6 +143,39 @@
       "tickets": null,
       "url": "https://www.smith.edu/news-events/events/how-you-can-be-responsible-things-you-didnt-cause-or-intend"
     },
+    {
+      "title": "\"Chalk\" / Theater",
+      "titleExplain": "By Film Media Theater. Website description: \"Maggie survived the end of the world, but it hasn't really ended, has it?\"",
+      "date": "2026-10-02",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": ""
+    },
+    {
+      "title": "\"Chalk\" / Theater",
+      "titleExplain": "By Film Media Theater. Website description: \"Maggie survived the end of the world, but it hasn't really ended, has it?\"",
+      "date": "2026-10-03",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": ""
+    },
+        {
+      "title": "\"Chalk\" / Theater",
+      "titleExplain": "By Film Media Theater. Website description: \"Maggie survived the end of the world, but it hasn't really ended, has it?\"",
+      "date": "2026-10-04",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": ""
+    },
         {
       "title": "\"The Golden Harvest\" / Film ",
       "titleExplain": "Film screening followed by conversation with the filmmaker, Alia Yunis.",
@@ -184,8 +195,8 @@
       "endTime": null,
       "location": "Bowker Auditorium",
       "college": "UMass",
-      "tickets": "Tickets: $17 general; $7 students, seniors and UMass employees",
-      "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-chapel-jazz-ensemble-oct-26"
+      "tickets": null,
+      "url": ""
     },
         {
       "title": "Keetje Kuipers Poetry Reading",
@@ -197,6 +208,17 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/screening-golden-harvest-and-conversation-filmmaker-alia-yunis"
+    },
+        {
+      "title": "Poking the Squid: What We Can Learn from Animal Sex / Lecture",
+      "titleExplain": "Perrin Roosevelt Ireland, environmentalist and artist, \"takes us on a wild biodiversity ride through queerness, infidelity, consent, divorce, sex change, and even sexual cannibalism in the animal world.\"",
+      "date": "2026-10-08",
+      "startTime": "12:15 p.m.",
+      "endTime": "1:15 p.m.",
+      "location": "Cleveland Hall, L-2",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/biological-sciences-seminar-series-5506"
     },
         {
       "title": "Faculty Chamber Concert",
@@ -228,8 +250,52 @@
       "endTime": null,
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
-      "tickets": "Tickets: $27 general; $20 students, seniors and UMass employees",
-      "url": "https://www.umass.edu/music-dance/events/52nd-annual-multiband-pops-concert"
+      "tickets": null,
+      "url": ""
+    },
+        {
+      "title": "Movin' and Groovin' Jazz Concert",
+      "titleExplain": "Jazz Ensembles of Mount Holyoke Join the Big Band, Chamber Jazz and Vocal Jazz Ensembles to present tunes from Ray Charles, Duke Ellington, George Gershwin and Queen",
+      "date": "2026-10-16",
+      "startTime": "7:30 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/mount-holyoke-jazz-ensembles-family-friends-concert"
+    },
+        {
+      "title": "Jeremy Denk, Piano / Concert",
+      "titleExplain": "Part of the Music at Amherst concert series. This program comprises works by Bach, Chin, Beethoven and de Montgeroult.",
+      "date": "2026-10-17",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Buckley Recital Hall",
+      "college": "Amherst",
+      "tickets": "Ticket information available at https://amherst.universitytickets.com/",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/music-at-amherst"
+    },
+            {
+      "title": "Family and Friends Concert: Choral and Orchestra",
+      "titleExplain": "The Glee Club, Chorale, and Chamber Singers present the annual Family & Friends Concert. The Symphony Orchestra previews the upcoming Monsters Ball with Tchaikovsky's Swan Lake.",
+      "date": "2026-10-17",
+      "startTime": "4 p.m.",
+      "endTime": "5:30 p.m.",
+      "location": "Abbey Memorial Chapel",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/family-friends-concert-choral-and-orchestra"
+    },
+            {
+      "title": "Fall Jam, A Cappela Performance",
+      "titleExplain": "",
+      "date": "2026-10-17",
+      "startTime": "8 p.m.",
+      "endTime": null,
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/fall-jam-a-cappella-performance-3602"
     },
         {
       "title": "Cider Pressing and Heirloom Apple Tasting",
@@ -294,8 +360,8 @@
       "endTime": null,
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
-      "tickets": "Tickets: $17 general; $7 students, seniors and UMass employees",
-      "url": "https://www.umass.edu/music-dance/events/umass-amherst-symphony-orchestra-oct-26"
+      "tickets": null,
+      "url": ""
     },
         {
       "title": "Hugh Ryan / Lecture",
@@ -342,15 +408,15 @@
       "url": "https://www.smith.edu/news-events/events/echoes-peaceful-forest-japanese-wadaiko-experience"
     },
     {
-      "title": "Wind Ensemble and Symphony Band ",
+      "title": "Wind Ensemble and Symphony Band / Concert",
       "titleExplain": "Performing classics from the wind band repertoire.",
       "date": "2026-10-28",
       "startTime": "7:30 p.m.",
       "endTime": null,
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
-      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees.",
-      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-oct-26"
+      "tickets": null,
+      "url": ""
     },
     {
       "title": "\"The Future of Coffee\" / Film",
@@ -374,6 +440,17 @@
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-2"
     },
+        {
+      "title": "Sequentia, Ensemble for Medieval Music / Concert",
+      "titleExplain": "Part of the Music at Amherst concert series. Benjamin Bagby, voice and Anglo-Saxo harp; Norbert Rodenkirchen on medieval transverse flutes.",
+      "date": "2026-10-30",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Buckley Recital Hall",
+      "college": "Amherst",
+      "tickets": "Ticket information available at https://amherst.universitytickets.com/",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/music-at-amherst"
+    },
     {
       "title": "\"The Secretaries by The Five Lesbian Brothers\" / Theater",
       "titleExplain": "\"Set in and around the Cooney Lumber Mill in the early 1990s, the story follows a group of secretaries who are caught in a whirlwind of competition, manipulation, and sexual tension. Plus blood and chainsaws.\"",
@@ -386,6 +463,28 @@
       "url": "https://new.smith.edu/news-events/events/secretaries-five-lesbian-brothers"
     },
     {
+      "title": "Kids Monsters Ball",
+      "titleExplain": "The Mount Holyoke Symphony Orchestra invites children to come dressed in their favorite costumes for a fairy-tale-themed performance of music including the Swan Lake Suite, selections from \"Moana 2\" and other works.",
+      "date": "2026-10-31",
+      "startTime": "11 a.m.",
+      "endTime": "Noon",
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/mount-holyoke-symphony-orchestra-kids-monsters-ball-fairy-tales"
+    },
+    {
+      "title": "Monsters Ball / Concert",
+      "titleExplain": "The Mount Holyoke Symphony Orchestra is back with its Halloween tradition, this time featuring Strauss's Blue Danube, Tchaikovsky's Swan Lake Suite, and music from animated Disney movies.",
+      "date": "2026-10-31",
+      "startTime": "8 p.m.",
+      "endTime": "9:30 p.m.",
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/monsters-ball-fairy-tales"
+    },
+    {
       "title": "Percussion Day Concert",
       "titleExplain": null,
       "date": "2026-11-01",
@@ -395,6 +494,72 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/percussion-day-concert-fall-2026"
+    },
+    {
+      "title": "Distinguished Artist: Rhiannon Giddens",
+      "titleExplain": "Giddens is a two-time Grammy winner, Pulitzer Prise winner and a founding member of the Carolina Chocolate Drops.",
+      "date": "2026-11-03",
+      "startTime": "5:30 p.m.",
+      "endTime": "7:30 p.m.",
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/distinguished-artist-rhiannon-giddens"
+    },
+    {
+      "title": "Faculty Dance Concert",
+      "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
+      "date": "2026-11-12",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Kendall Sports & Dance Complex, Studio Theatre",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": ""
+    },
+    {
+      "title": "Faculty Dance Concert",
+      "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
+      "date": "2026-11-13",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Kendall Sports & Dance Complex, Studio Theatre",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": ""
+    },
+    {
+      "title": "Faculty Dance Concert",
+      "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
+      "date": "2026-11-14",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Kendall Sports & Dance Complex, Studio Theatre",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": ""
+    },
+    {
+      "title": "Dover Quartet / Concert",
+      "titleExplain": "Part of the Music at Amherst concert series. The quartet will perform works by Johannes Brahms, Jerod Impichchaachaaha’ Tate and Antonín Dvořák.",
+      "date": "2026-11-14",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Buckley Recital Hall",
+      "college": "Amherst",
+      "tickets": "Ticket information available at https://amherst.universitytickets.com/",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/music-at-amherst"
+    },
+    {
+      "title": "Flute Choir / Concert",
+      "titleExplain": null,
+      "date": "2026-11-15",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Pratt Music Hall McCulloch Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.m tholyoke.edu/event/flute-choir-concert-8143"
     }
   ]
 }

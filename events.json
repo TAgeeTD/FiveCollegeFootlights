@@ -42,7 +42,8 @@
       "location": "University Museum of Contemporary Art, Fine Arts Center",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://events.umass.edu/event/receptionmuseum-fall-2026-athena-latocha-dianne-smith-between-earth-and-sky"
+      "url": "https://events.umass.edu/event/receptionmuseum-fall-2026-athena-latocha-dianne-smith-between-earth-and-sky",
+      "isNew": true
     },
         {
       "title": "Melissa Febos and Donika Kelly / Reading",
@@ -75,8 +76,9 @@
       "location": "Hampden Gallery, 131 Southwest Circle",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://events.umass.edu/event/workshophands-on-nature-stamps-and-texture-prints"
-    },
+      "url": "https://events.umass.edu/event/workshophands-on-nature-stamps-and-texture-prints",
+      "isNew": true
+},
         {
       "title": "The Carpenters Songbook: A Live Celebration / Concert",
       "titleExplain": "Songs from the catalog of the pop duo, featuring a full band",
@@ -108,10 +110,11 @@
       "location": "Center for the Environment, Ecological Design and Sustainability",
       "college": "Smith",
       "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/sensing-together-more-human-community-gavin-van-horn"
-    },
+      "url": "https://www.smith.edu/news-events/events/sensing-together-more-human-community-gavin-van-horn",
+      "isNew": true
+      },
         {
-      "title": "Amherst Symphony Orchestra",
+      "title": "Amherst Symphony Orchestra / Concert",
       "titleExplain": "Annual welcoming concert featuring Antonín Dvořák's Ninth Symphony (\"From the New World\") and other works",
       "date": "2026-09-26",
       "startTime": "7 p.m.",
@@ -152,7 +155,8 @@
       "location": "The Drake, Amherst",
       "college": "UMass",
       "tickets": "$35 general public; $20 Five College students, youths 17 and under",
-      "url": "https://events.umass.edu/event/insun-park-generals"
+      "url": "https://events.umass.edu/event/insun-park-generals",
+      "isNew": true
     },
     {
       "title": "Art Exhibition Reception: Desmond Beach, The Souls of Black Folk",
@@ -163,7 +167,8 @@
       "location": "Augusta Savage Gallery, 180 Infirmary Way",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://events.umass.edu/event/receptionaugusta-savage-gallery-fall-2026-desmond-beach"
+      "url": "https://events.umass.edu/event/receptionaugusta-savage-gallery-fall-2026-desmond-beach",
+      "isNew": true
     },
     {
       "title": "\"Chalk\" / Theater",
@@ -218,7 +223,7 @@
       "location": "Bowker Auditorium",
       "college": "UMass",
       "tickets": null,
-      "url": ""
+      "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-chapel-jazz-ensemble-oct-26"
     },
         {
       "title": "Keetje Kuipers Poetry Reading",
@@ -272,8 +277,8 @@
       "endTime": null,
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
-      "tickets": null,
-      "url": ""
+      "tickets": "Tickets: $27 general; $20 students, seniors, UMass employees",
+      "url": "https://www.umass.edu/music-dance/events/52nd-annual-multiband-pops-concert"
     },
         {
       "title": "Movin' and Groovin' Jazz Concert",
@@ -383,7 +388,7 @@
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
       "tickets": null,
-      "url": ""
+      "url": "https://www.umass.edu/music-dance/events/umass-amherst-symphony-orchestra-oct-26"
     },
         {
       "title": "Hugh Ryan / Lecture",
@@ -437,8 +442,8 @@
       "endTime": null,
       "location": "Frederick C. Tillis Performance Hall",
       "college": "UMass",
-      "tickets": null,
-      "url": ""
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees",
+      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-oct-26"
     },
     {
       "title": "\"The Future of Coffee\" / Film",

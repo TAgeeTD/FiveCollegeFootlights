@@ -194,6 +194,7 @@ fetch("events.json")
 
       const isFirstOfMonth = monthKey !== currentMonthKey;
 
+
       if (isFirstOfMonth) {
         const monthHeader = document.createElement("div");
         monthHeader.className = "month-header";
@@ -229,6 +230,11 @@ fetch("events.json")
       groupedEvents[date].forEach((event) => {
         const card = document.createElement("article");
         card.className = "event-card";
+
+        // Border for newly added events
+        if (event.isNew === true) {
+          card.classList.add("new-event");
+}
 
         // Format times
         let timeText = "";

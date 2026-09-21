@@ -542,7 +542,7 @@
       "location": "Kendall Sports & Dance Complex, Studio Theatre",
       "college": "Mount Holyoke",
       "tickets": null,
-      "url": ""
+      "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
     },
     {
       "title": "Faculty Dance Concert",
@@ -553,7 +553,7 @@
       "location": "Kendall Sports & Dance Complex, Studio Theatre",
       "college": "Mount Holyoke",
       "tickets": null,
-      "url": ""
+      "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
     },
     {
       "title": "Faculty Dance Concert",
@@ -564,7 +564,7 @@
       "location": "Kendall Sports & Dance Complex, Studio Theatre",
       "college": "Mount Holyoke",
       "tickets": null,
-      "url": ""
+      "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
     },
     {
       "title": "Dover Quartet / Concert",
@@ -586,7 +586,43 @@
       "location": "Pratt Music Hall McCulloch Auditorium",
       "college": "Mount Holyoke",
       "tickets": null,
-      "url": "https://events.m tholyoke.edu/event/flute-choir-concert-8143"
+      "url": "https://events.mtholyoke.edu/event/flute-choir-concert-8143"
+    },
+    {
+      "title": "Faculty Dance Concert",
+      "titleExplain": "Collaborative UMass and Amherst College Faculty Dance Concert.",
+      "date": "2026-12-03",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Kirby Theater, Amherst College",
+      "college": "UMass and Amherst,combined",
+      "tickets": "Free; reservations recommended",
+      "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Faculty Dance Concert",
+      "titleExplain": "Collaborative UMass and Amherst College Faculty Dance Concert.",
+      "date": "2026-12-04",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Kirby Theater, Amherst College",
+      "college": "UMass and Amherst,combined",
+      "tickets": "Free; reservations recommended",
+      "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Faculty Dance Concert",
+      "titleExplain": "Collaborative UMass and Amherst College Faculty Dance Concert.",
+      "date": "2026-12-05",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Kirby Theater, Amherst College",
+      "college": "UMass and Amherst,combined",
+      "tickets": "Free; reservations recommended",
+      "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
+      "isNew": true
     }
   ]
 }

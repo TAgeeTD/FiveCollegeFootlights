@@ -11,6 +11,42 @@
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/guest-artist-concert-ithaca-winds"
     },
+    {
+      "title": "American Caesar: How Theocrats and Tech Lords Are Turning America Into a Monarchy / Lecture",
+      "titleExplain": "Author Bradley B. Onishi discusses his book \"American Caesar\", which, according to his website, \"unpacks the religious history that led us to the January 6 Insurrection – and charts a map of what will come next from the marriage of Christian nationalism and MAGA Nation\".",
+      "date": "2026-09-22",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Stirn Auditorium, Mead Art Museum",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/946883",
+      "isNew": true
+    },
+    {
+      "title": "The U.S.'s Constitutional Crisis and the World / Lecture",
+      "titleExplain": "Talk by Aziz Rana, professor of Law and Government at Boston College.",
+      "date": "2026-09-22",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank (Room 101)",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/946888",
+      "isNew": true
+    },
+    {
+      "title": "Moral Rules & Society’s Authority / Lecture",
+      "titleExplain": "Talk by Jorah Dannenberg, assistant professor in the Department of Philosophy at Brandeis University.",
+      "date": "2026-09-22",
+      "startTime": "5 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Fayerweather Hall, 113",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/946549",
+      "isNew": true
+    },
         {
       "title": "\"Coded Bias\" / Film",
       "titleExplain": "Film explores \"facial recognition technology, and how it classifies different faces\".",
@@ -21,6 +57,18 @@
       "college": "UMass",
       "tickets": null,
       "url": "https://events.umass.edu/event/coded-bias-film-screening"
+    },
+        {
+      "title": "DNA & Archives Reconnected 10,000 Descendants of American Slavery / Lecture",
+      "titleExplain": "Talk by genealogist Nicka Sewell-Smith.",
+      "date": "2026-09-23",
+      "startTime": "7 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/946422",
+      "isNew": true
     },
         {
       "title": "Amherst College Instructor Recital",

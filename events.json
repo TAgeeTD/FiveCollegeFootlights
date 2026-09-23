@@ -93,6 +93,18 @@
       "isNew": true
       },
         {
+      "title": "Celebrating \"Composing Color\" / Reception",
+      "titleExplain": "Explore the special exhibition \"Composing Color: Paintings by Alma Thomas from the Smithsonian American Art Museum\".",
+      "date": "2026-09-25",
+      "startTime": "5 p.m.",
+      "endTime": "7 p.m.",
+      "location": "Smith College Museum of Art",
+      "college": "Smith",
+      "tickets": "Registrationn encouranged but not reqiured.",
+      "url": "https://scma.smith.edu/fallreception",
+      "isNew": true
+      },
+        {
       "title": "Amherst Symphony Orchestra / Concert",
       "titleExplain": "Annual welcoming concert featuring Antonín Dvořák's Ninth Symphony (\"From the New World\") and other works",
       "date": "2026-09-26",
@@ -348,15 +360,16 @@
       "url": "https://www.umass.edu/music-dance/events/faculty-concert-fumi-tomita-jazz-bass-fall-2026"
     },
         {
-      "title": "Faculty Concert: Gilles Vonsattel, piano",
-      "titleExplain": "Performing the first program in the cycle of Beethoven's piano sonatas.",
+      "title": "Who Else Opposed Monarchy in 1776? / Lecture",
+      "titleExplain": "\"In this lecture marking America at 250, Stanford historian Priya Satia will examine alternative forms of republicanism prevalent in the 18th-century world that were eclipsed by colonial conquest.\" Part of the The 2026-27 Feinberg Series.",
       "date": "2026-10-22",
-      "startTime": "7:30 p.m.",
+      "startTime": "5:30 p.m.",
       "endTime": null,
-      "location": "Bezanson Recital Hall",
+      "location": "Student Union Cape Cod Lounge, Room 405-415",
       "college": "UMass",
       "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-1"
+      "url": "https://websites.umass.edu/feinberg/satia/",
+      "isNew": true
     },
         {
       "title": "UMass Symphony Orchestra / Concert",

@@ -470,6 +470,72 @@
       "tickets": "Ticket information available at https://amherst.universitytickets.com/",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/music-at-amherst"
     },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-10-30",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-10-31",
+      "startTime": "2 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-05",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-06",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-07",
+      "startTime": "2 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-07",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
     {
       "title": "\"The Secretaries by The Five Lesbian Brothers\" / Theater",
       "titleExplain": "\"Set in and around the Cooney Lumber Mill in the early 1990s, the story follows a group of secretaries who are caught in a whirlwind of competition, manipulation, and sexual tension. Plus blood and chainsaws.\"",
@@ -580,6 +646,50 @@
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/flute-choir-concert-8143"
     },
+        {
+      "title": "\"Clue\" / Theater",
+      "titleExplain": "Play based on the popular board game.",
+      "date": "2026-11-19",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": "Tickets: $10 general admission, $5 students",
+      "url": "https://events.mtholyoke.edu/event/clue"
+    },
+        {
+      "title": "\"Clue\" / Theater",
+      "titleExplain": "Play based on the popular board game.",
+      "date": "2026-11-20",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": "Tickets: $10 general admission, $5 students",
+      "url": "https://events.mtholyoke.edu/event/clue"
+    },
+        {
+      "title": "\"Clue\" / Theater",
+      "titleExplain": "Play based on the popular board game.",
+      "date": "2026-11-21",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": "Tickets: $10 general admission, $5 students",
+      "url": "https://events.mtholyoke.edu/event/clue"
+    },
+        {
+      "title": "\"Clue\" / Theater",
+      "titleExplain": "Play based on the popular board game.",
+      "date": "2026-11-22",
+      "startTime": "2:30 p.m.",
+      "endTime": null,
+      "location": "Rooke Theatre",
+      "college": "Mount Holyoke",
+      "tickets": "Tickets: $10 general admission, $5 students",
+      "url": "https://events.mtholyoke.edu/event/clue"
+    },
     {
       "title": "Faculty Dance Concert",
       "titleExplain": "Collaborative UMass and Amherst College Faculty Dance Concert.",
@@ -603,6 +713,83 @@
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
       "isNew": true
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-04",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-05",
+      "startTime": "2 p.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-05",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-09",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-11",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-10",
+      "startTime": "10 a.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "\"The Moors\" / Theater",
+      "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
+      "date": "2026-12-12",
+      "startTime": "2 p.m.",
+      "endTime": null,
+      "location": "The Curtain Theater",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
     },
     {
       "title": "Faculty Dance Concert",

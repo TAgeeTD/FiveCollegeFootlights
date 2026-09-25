@@ -1,29 +1,6 @@
 {
   "events": [
         {
-      "title": "Art Exhibition Reception: Athena LaTocha; Dianne Smith; Between Earth and Sky",
-      "titleExplain": "Three new exhibitions explore land, history, identity, and the environment.",
-      "date": "2026-09-24",
-      "startTime": "5 p.m.",
-      "endTime": "7 p.m.",
-      "location": "University Museum of Contemporary Art, Fine Arts Center",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://events.umass.edu/event/receptionmuseum-fall-2026-athena-latocha-dianne-smith-between-earth-and-sky",
-      "isNew": true
-    },
-        {
-      "title": "Every Man: Why Violence Against Women is a Men's Issue / Lecture",
-      "titleExplain": "Author Jackson Katz will discuss his new book, \"Every Man\". ",
-      "date": "2026-09-24",
-      "startTime": "4:30 p.m.",
-      "endTime": "6 p.m.",
-      "location": "Klingenstein Browsing Room, Neilson Library",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/every-man-why-violence-against-women-mens-issue"
-    },
-        {
       "title": "Nature Stamps and Texture Prints / Hands-On Workshop",
       "titleExplain": "On a walk, collect prints from bark, stone and other natural surfaces, and have the option to collage prints afterward.",
       "date": "2026-09-25",

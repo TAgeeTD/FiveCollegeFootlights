@@ -23,6 +23,30 @@
       "url": "https://www.umass.edu/music-dance/events/bandtoberfest-2026-fall-celebration"
     },
         {
+      "title": "Sharmini Aphrodite: A Reading and Conversation",
+      "titleExplain": "Sharmini Aphrodite has written on art, literature, and history. Her short story collection \"The Unrepentant\" was published in 2025.",
+      "date": "2026-09-28",
+      "startTime": "7 p.m.",
+      "endTime": "8 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/946641",
+      "isNew": true
+    },
+        {
+      "title": "The Cost of Scale: The Challenges Facing Artificial Intelligence / Lecture",
+      "titleExplain": "Kate Crawford, a research professor at the University of Southern California, is a leading scholar of artificial intelligence.",
+      "date": "2026-09-29",
+      "startTime": "5 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Science Center, Lipton Lecture Hall Room E110 ",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/946531",
+      "isNew": true
+    },
+        {
       "title": "How You Can Be Responsible for Things You Didn't Cause or Intend / Lecture",
       "titleExplain": "Jenna Donohue, an assistant professor of Philosophy at the University of Arkansas, discusses her paper on moral complicity.",
       "date": "2026-10-01",
@@ -32,6 +56,18 @@
       "college": "Smith",
       "tickets": null,
       "url": "https://www.smith.edu/news-events/events/how-you-can-be-responsible-things-you-didnt-cause-or-intend"
+    },
+        {
+      "title": "Jazz at Masuda's / Concert",
+      "titleExplain": "Monthly jazz series hosted by Amherst professor Jason Robinson. This performance features Robinson on saxophone, Paul Arslanian on keys, Jamie MacDonald on bass, and Richie Barshay on drums.",
+      "date": "2026-10-01",
+      "startTime": "5 p.m.",
+      "endTime": "7 p.m.",
+      "location": "Masuda's Cafe, 17 Kellogg Ave.",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/947018",
+      "isNew": true
     },
         {
       "title": "Insun Park & Generals / Performance",

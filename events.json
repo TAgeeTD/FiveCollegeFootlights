@@ -1,64 +1,6 @@
 {
   "events": [
         {
-      "title": "Nature Stamps and Texture Prints / Hands-On Workshop",
-      "titleExplain": "On a walk, collect prints from bark, stone and other natural surfaces, and have the option to collage prints afterward.",
-      "date": "2026-09-25",
-      "startTime": "1:30 p.m.",
-      "endTime": "4:30 p.m.",
-      "location": "Hampden Gallery, 131 Southwest Circle",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://events.umass.edu/event/workshophands-on-nature-stamps-and-texture-prints",
-      "isNew": true
-},
-        {
-      "title": "The Carpenters Songbook: A Live Celebration / Concert",
-      "titleExplain": "Songs from the catalog of the pop duo, featuring a full band",
-      "date": "2026-09-25",
-      "startTime": "7:30 p.m.",
-      "endTime": "9:30 p.m.",
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Prices start at $50, less for youths and students",
-      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/carpenters-songbook"
-    },
-        {
-      "title": "\"Seeds\" / Film",
-      "titleExplain": "Screening of the 2025 documentary by Brittany Shyne. \"Seeds follows Black generational family farmers in the American South, exploring their joys, struggles, and the significance of owning their own land\".",
-      "date": "2026-09-25",
-      "startTime": "5 p.m.",
-      "endTime": "9 p.m.",
-      "location": "208 Carroll Room, Campus Center",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/seeds"
-    },
-        {
-      "title": "Sensing Together: A More-than-Human Community with Gavin Van Horn / Lecture",
-      "titleExplain": "Gavin Van Horn, executive editor of Humans & Nature Press Books, will discuss his new book, \"Sensoria: Attending to the Wonder and Vitality of Nature\".",
-      "date": "2026-09-25",
-      "startTime": "5 p.m.",
-      "endTime": "7 p.m.",
-      "location": "Center for the Environment, Ecological Design and Sustainability",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/sensing-together-more-human-community-gavin-van-horn",
-      "isNew": true
-      },
-        {
-      "title": "Celebrating \"Composing Color\" / Reception",
-      "titleExplain": "Explore the special exhibition \"Composing Color: Paintings by Alma Thomas from the Smithsonian American Art Museum\".",
-      "date": "2026-09-25",
-      "startTime": "5 p.m.",
-      "endTime": "7 p.m.",
-      "location": "Smith College Museum of Art",
-      "college": "Smith",
-      "tickets": "Registrationn encouranged but not reqiured.",
-      "url": "https://scma.smith.edu/fallreception",
-      "isNew": true
-      },
-        {
       "title": "Amherst Symphony Orchestra / Concert",
       "titleExplain": "Annual welcoming concert featuring Antonín Dvořák's Ninth Symphony (\"From the New World\") and other works",
       "date": "2026-09-26",

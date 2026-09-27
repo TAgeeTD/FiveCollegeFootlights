@@ -1,17 +1,6 @@
 {
   "events": [
         {
-      "title": "Amherst Symphony Orchestra / Concert",
-      "titleExplain": "Annual welcoming concert featuring Antonín Dvořák's Ninth Symphony (\"From the New World\") and other works",
-      "date": "2026-09-26",
-      "startTime": "7 p.m.",
-      "endTime": "8 p.m.",
-      "location": "Buckley Recital Hall",
-      "college": "Amherst",
-      "tickets": "Free",
-      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/943998"
-    },
-        {
       "title": "CANCELED DUE TO RAIN: Bandtoberfest: A Fall Celebration / Concert",
       "titleExplain": "Family-friendly performance by the UMass Wind Ensemble and Symphony Band",
       "date": "2026-09-27",

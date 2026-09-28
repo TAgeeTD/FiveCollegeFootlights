@@ -1,17 +1,6 @@
 {
   "events": [
         {
-      "title": "CANCELED DUE TO RAIN: Bandtoberfest: A Fall Celebration / Concert",
-      "titleExplain": "Family-friendly performance by the UMass Wind Ensemble and Symphony Band",
-      "date": "2026-09-27",
-      "startTime": "2 p.m.",
-      "endTime": "5 p.m.",
-      "location": "Amherst Common",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/bandtoberfest-2026-fall-celebration"
-    },
-        {
       "title": "Sharmini Aphrodite: A Reading and Conversation",
       "titleExplain": "Sharmini Aphrodite has written on art, literature, and history. Her short story collection \"The Unrepentant\" was published in 2025.",
       "date": "2026-09-28",
@@ -21,7 +10,7 @@
       "college": "Amherst",
       "tickets": null,
       "url": "https://www.amherst.edu/news/events/calendar/node/946641",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "The Cost of Scale: The Challenges Facing Artificial Intelligence / Lecture",
@@ -33,7 +22,7 @@
       "college": "Amherst",
       "tickets": null,
       "url": "https://www.amherst.edu/news/events/calendar/node/946531",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "How You Can Be Responsible for Things You Didn't Cause or Intend / Lecture",
@@ -68,7 +57,7 @@
       "college": "UMass",
       "tickets": "$35 general public; $20 Five College students, youths 17 and under",
       "url": "https://events.umass.edu/event/insun-park-generals",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Art Exhibition Reception: Desmond Beach, The Souls of Black Folk",
@@ -80,7 +69,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://events.umass.edu/event/receptionaugusta-savage-gallery-fall-2026-desmond-beach",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Jhumpa Lahiri / Lecture",
@@ -92,7 +81,7 @@
       "college": "Amherst",
       "tickets": "Free but registraton required",
       "url": "https://www.amherst.edu/news/events/calendar/node/946861",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Book Reading With Andrea Hairston '74",
@@ -104,7 +93,7 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://libraries.smith.edu/news/jostenlive-book-reading-andrea-hairston-74-october-2",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "\"Chalk\" / Theater",
@@ -158,7 +147,7 @@
       "endTime": null,
       "location": "Bowker Auditorium",
       "college": "UMass",
-      "tickets": null,
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; free for UMass students (ticket required)",
       "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-chapel-jazz-ensemble-oct-26"
     },
         {
@@ -314,7 +303,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://websites.umass.edu/feinberg/satia/",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "UMass Symphony Orchestra / Concert",
@@ -645,7 +634,7 @@
       "college": "UMass / Amherst",
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Dance Concert",
@@ -657,7 +646,7 @@
       "college": "UMass / Amherst",
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "\"The Moors\" / Theater",
@@ -746,7 +735,7 @@
       "college": "UMass / Amherst",
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

@@ -1,18 +1,6 @@
 {
   "events": [
         {
-      "title": "Sharmini Aphrodite: A Reading and Conversation",
-      "titleExplain": "Sharmini Aphrodite has written on art, literature, and history. Her short story collection \"The Unrepentant\" was published in 2025.",
-      "date": "2026-09-28",
-      "startTime": "7 p.m.",
-      "endTime": "8 p.m.",
-      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/946641",
-      "isNew": false
-    },
-        {
       "title": "The Cost of Scale: The Challenges Facing Artificial Intelligence / Lecture",
       "titleExplain": "Kate Crawford, a research professor at the University of Southern California, is a leading scholar of artificial intelligence.",
       "date": "2026-09-29",
@@ -23,6 +11,18 @@
       "tickets": null,
       "url": "https://www.amherst.edu/news/events/calendar/node/946531",
       "isNew": false
+    },
+        {
+      "title": "U.S.-Iran War and the Changing Security Order in the Middle East / Panel Discussion",
+      "titleExplain": "Discussion by a faculty panel comprising three Mount Holyoke professors - Omar Dahi, international relations; Sohail Hashmi, international relations and politics; Sidita Kushi, politics - and Niki Akhavan, professor of media and communication studies at Catholic University.",
+      "date": "2026-09-29",
+      "startTime": "5 p.m.",
+      "endTime": "7 p.m.",
+      "location": "Clapp Laboratory, Hooker Auditorium (016)",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/us-iran-war-and-the-changing-security-order-in-the-middle-east",
+      "isNew": true
     },
         {
       "title": "How You Can Be Responsible for Things You Didn't Cause or Intend / Lecture",
@@ -58,6 +58,18 @@
       "tickets": "$35 general public; $20 Five College students, youths 17 and under",
       "url": "https://events.umass.edu/event/insun-park-generals",
       "isNew": false
+    },
+        {
+      "title": "Greenfield Urban Planning in Africa / Lecture",
+      "titleExplain": "Talk by Vernon Henderson, a Canadian-American economist and professor of economic geography at the London School of Economics.",
+      "date": "2026-10-01",
+      "startTime": "4 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Olver Design Building, 150",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://events.umass.edu/event/greenfield-urban-planning-in-africa-zube-lecture-presented-by-vernon-henderson",
+      "isNew": true
     },
     {
       "title": "Art Exhibition Reception: Desmond Beach, The Souls of Black Folk",

@@ -1,28 +1,6 @@
 {
   "events": [
-    {
-      "title": "\"Chalk\" / Theater",
-      "titleExplain": "By Film Media Theater. Website description: \"Maggie survived the end of the world, but it hasn't really ended, has it?\"",
-      "date": "2026-10-03",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rooke Theatre",
-      "college": "Mount Holyoke",
-      "tickets": "$10 general admission; $5 students, seniors",
-      "url": "https://events.mtholyoke.edu/event/chalk"
-    },
-        {
-      "title": "\"Chalk\" / Theater",
-      "titleExplain": "By Film Media Theater. Website description: \"Maggie survived the end of the world, but it hasn't really ended, has it?\"",
-      "date": "2026-10-04",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rooke Theatre",
-      "college": "Mount Holyoke",
-      "tickets": "$10 general admission; $5 students, seniors",
-      "url": "https://events.mtholyoke.edu/event/chalk"
-    },
-        {
+            {
       "title": "\"The Golden Harvest\" / Film ",
       "titleExplain": "Film screening followed by conversation with the filmmaker, Alia Yunis.",
       "date": "2026-10-05",

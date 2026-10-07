@@ -190,7 +190,7 @@
   "isNew": true
 },
 {
-  "title": "150th Anniversary Celebration, Mount Holy0ke College Art Museum",
+  "title": "150th Anniversary Celebration, Mount Holyoke College Art Museum",
   "titleExplain": "Music, art talks, food to celebrate the newly renovated museum's 150th.",
   "date": "2026-11-13",
   "startTime": "4:30 p.m.",
@@ -199,6 +199,8 @@
   "college": "Mount Holyoke",
   "tickets": "Free",
   "url": "https://artmuseum.mtholyoke.edu/mhcam-event/mhcam-150th-anniversary-celebration/",
+  "imageAlt": "Mount Holyoke College Art Museum gallery", 
+  "imageURL": "images/MtHolyokeArtMuseum1126c1.jpg",
   "isNew": true
 },
 {

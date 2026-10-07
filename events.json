@@ -1,6 +1,18 @@
 {
   "events": [
-        {
+             {
+      "title": "Craig Taborn Trio / Concert",
+      "titleExplain": "Craig Taborn is a jazz pianist, band leader and composer, appearing here in a Fine Arts Center performance.",
+      "date": "2026-10-07",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bowker Auditorium",
+      "college": "UMass",
+      "tickets": "Tickets: Geneal admission prices start at $37; at $12.50 for Five Ciollege students; and at $20 for youths 17 and under.",
+      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/craig-taborn-trio",
+      "isNew": false
+    },
+   {
       "title": "Poking the Squid: What We Can Learn from Animal Sex / Lecture",
       "titleExplain": "Perrin Roosevelt Ireland, environmentalist and artist, \"takes us on a wild biodiversity ride through queerness, infidelity, consent, divorce, sex change, and even sexual cannibalism in the animal world.\"",
       "date": "2026-10-08",
@@ -10,6 +22,18 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/biological-sciences-seminar-series-5506"
+    },
+    {
+      "title": "Ballot Initiative Event: A Dialogue About Proposition 9",
+      "titleExplain": "\"Proposition 9 would keep in place the law, which increasees the regulationn of firearms, including ghost guns, machine guns, and assault-style weapons,\" according to the Commonwealth. This session is sponsored by the UMass College of Social Behjaioral Sciences' Democracy Project in partnership with Worcester State University and Salem State University.",
+      "date": "2026-10-08",
+      "startTime": "Noon",
+      "endTime": "2 p.m.",
+      "location": "Old Chapel",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/sbs-democracy-project/events/ballot-initiative-event-dialogue-about-proposition-9",
+      "isNew": true
     },
         {
       "title": "Ghost Stories / Storyteller",
@@ -73,12 +97,15 @@
 {
   "title": "\"America/Beautiful\" with Pianists Min Kwon and Jiayan Sun / Concert",
   "titleExplain": "Selections from a special project celebrating America's 250th.",
+  "date": "2026-10-16",
   "startTime": "7:30 p.m.",
   "endTime": "9 p.m.",
   "location": "Sweeney Concert Hall",
   "college": "Smith",
   "tickets": "Free",
   "url": "https://www.smith.edu/news-events/events/americabeautiful-pianists-min-kwon-and-jiayan-sun",
+  "imageAlt": "Piano keyboard", 
+  "imageURL": "images/fabian-duck-piano1.jpg",
   "isNew": true
 },
 {

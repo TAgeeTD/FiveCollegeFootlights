@@ -1,28 +1,6 @@
 {
   "events": [
         {
-      "title": "Jazz Ensemble I and Chapel Jazz Ensemble / Concert",
-      "titleExplain": "Repertoire to be announced.",
-      "date": "2026-10-06",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Bowker Auditorium",
-      "college": "UMass",
-      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; free for UMass students (ticket required)",
-      "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-chapel-jazz-ensemble-oct-26"
-    },
-        {
-      "title": "Keetje Kuipers Poetry Reading",
-      "titleExplain": "Keetje Kuipers is the author of \"Lonely Women Make Good Lovers\".",
-      "date": "2026-10-06",
-      "startTime": "7 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Weinstein Auditorium",
-      "college": "Smith",
-      "tickets": "Free",
-      "url": "https://www.smith.edu/news-events/events/screening-golden-harvest-and-conversation-filmmaker-alia-yunis"
-    },
-        {
       "title": "Poking the Squid: What We Can Learn from Animal Sex / Lecture",
       "titleExplain": "Perrin Roosevelt Ireland, environmentalist and artist, \"takes us on a wild biodiversity ride through queerness, infidelity, consent, divorce, sex change, and even sexual cannibalism in the animal world.\"",
       "date": "2026-10-08",

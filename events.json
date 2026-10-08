@@ -1,17 +1,5 @@
 {
   "events": [
-             {
-      "title": "Craig Taborn Trio / Concert",
-      "titleExplain": "Craig Taborn is a jazz pianist, band leader and composer, appearing here in a Fine Arts Center performance.",
-      "date": "2026-10-07",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Bowker Auditorium",
-      "college": "UMass",
-      "tickets": "Tickets: Geneal admission prices start at $37; at $12.50 for Five Ciollege students; and at $20 for youths 17 and under.",
-      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/craig-taborn-trio",
-      "isNew": false
-    },
    {
       "title": "Poking the Squid: What We Can Learn from Animal Sex / Lecture",
       "titleExplain": "Perrin Roosevelt Ireland, environmentalist and artist, \"takes us on a wild biodiversity ride through queerness, infidelity, consent, divorce, sex change, and even sexual cannibalism in the animal world.\"",
@@ -35,6 +23,42 @@
       "url": "https://www.umass.edu/sbs-democracy-project/events/ballot-initiative-event-dialogue-about-proposition-9",
       "isNew": true
     },
+      {
+      "title": "Peregrine Falcons 101: Learn About the Libraries' Rooftop Residents",
+      "titleExplain": "An introduction to peregrine falcons, which have been nesting atop the W.E.B. Du Bois Library for decades.",
+      "date": "2026-10-09",
+      "startTime": "2 p.m.",
+      "endTime": "3 p.m.",
+      "location": "W.E.B. Du Bois Library, lower level",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umasshomecoming.com/website/78645/homecoming-schedule/",
+      "isNew": true
+    },
+      {
+      "title": "UMass Community Spirit Downtown / Festival",
+      "titleExplain": "Games, food, music, part of UMass Homecoming weekend.",
+      "date": "2026-10-09",
+      "startTime": "5 p.m.",
+      "endTime": "8 p.m.",
+      "location": "Kendrick Park, Amherst",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umasshomecoming.com/website/78645/homecoming-schedule/",
+      "isNew": true
+    },
+      {
+      "title": "Stargazing by the Campus Pond",
+      "titleExplain": "The UMass Department of Astronomy will provide state-of-the-art telescopes and expert guides.",
+      "date": "2026-10-10",
+      "startTime": "9 p.m.",
+      "endTime": "10:30 p.m.",
+      "location": "Campus Pond South Lawn",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umasshomecoming.com/website/78645/homecoming-schedule/",
+      "isNew": true
+    },
         {
       "title": "Ghost Stories / Storyteller",
       "titleExplain": "An evening of Southern African American folktales with storyteller Muriel Monik Johnson.",
@@ -46,17 +70,6 @@
       "tickets": "Free",
       "url": "https://scma.smith.edu/octobersecondfriday",
       "isNew": true
-    },
-        {
-      "title": "Faculty Chamber Concert",
-      "titleExplain": "\"First in a series of Faculty Chamber Music concerts celebrating the music of American composers.\"",
-      "date": "2026-10-13",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/faculty-chamber-series-concert-1-american-music"
     },
       {
   "title": "Gilles Vonsattel & Hammerklavier / Lecture & Performance",
@@ -80,7 +93,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-chamber-series-concert-1-american-music",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "\"Lines\" by Saie Shapiro '29 / Theater",

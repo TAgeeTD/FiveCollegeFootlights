@@ -158,6 +158,18 @@
   "isNew": true
 },
 {
+  "title": "Christian McBride and Ursa Major / Concert",
+  "titleExplain": "Grammy-award-winninng jazz bassist Cheistian McBride performs with his band Ursa Major.",
+  "date": "2026-10-22",
+  "startTime": "7:30 p.m.",
+  "endTime": null,
+  "location": "Bowker Auditorium",
+  "college": "UMass",
+  "tickets": "Tickets: Start at $40 for general public, $20 for Five College students and youths 17 and under.",
+  "url": "https://arts.umass.edu/performing-arts/events/2026-2027/christian-mcbride-ursa-major",
+  "isNew": true
+},
+{
   "title": "The Listening Room: Halloween! / Concert",
   "titleExplain": "Faculty performances of Halloween-theme music.",
   "date": "2026-10-27",
@@ -215,6 +227,18 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/opus-one-chamber-orchestra-fall-2026",
+  "isNew": true
+},
+{
+  "title": "Ruby Ibarra / Concert",
+  "titleExplain": "Filipino American rapper Ruby Ibarra performs with a band that includes June Millington, co-founder of the all-women rock band Fanny in the 1970s.",
+  "date": "2026-11-05",
+  "startTime": "7:30 p.m.",
+  "endTime": null,
+  "location": "Bowker Auditorium",
+  "college": "UMass",
+  "tickets": "Tickets start at $35 for the general public, $20 for Five College students and youths under 17.",
+  "url": "https://arts.umass.edu/performing-arts/events/2026-2027/ruby-ibarra",
   "isNew": true
 },
 {
@@ -313,6 +337,18 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/percussion-ensemble-fall-2026",
+  "isNew": true
+},
+{
+  "title": "¡Guitarra! João Luiz Rezende Lopes / Concert",
+  "titleExplain": "João Luiz Rezende Lopes is a Latinn Grammy-nominated guitarist and composer.",
+  "date": "2026-11-21",
+  "startTime": "7:30 p.m.",
+  "endTime": null,
+  "location": "Bezanson Recital Hall",
+  "college": "UMass",
+  "tickets": "Tickets are $35 for the general public, $25 for Five College students and youths 17 and under.",
+  "url": "https://arts.umass.edu/performing-arts/events/2026-2027/guitarra-joao-luiz-rezende-lopes",
   "isNew": true
 },
 {

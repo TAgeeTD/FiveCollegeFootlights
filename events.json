@@ -1,28 +1,5 @@
 {
   "events": [
-   {
-      "title": "Poking the Squid: What We Can Learn from Animal Sex / Lecture",
-      "titleExplain": "Perrin Roosevelt Ireland, environmentalist and artist, \"takes us on a wild biodiversity ride through queerness, infidelity, consent, divorce, sex change, and even sexual cannibalism in the animal world.\"",
-      "date": "2026-10-08",
-      "startTime": "12:15 p.m.",
-      "endTime": "1:15 p.m.",
-      "location": "Cleveland Hall, L-2",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/biological-sciences-seminar-series-5506"
-    },
-    {
-      "title": "Ballot Initiative Event: A Dialogue About Proposition 9",
-      "titleExplain": "\"Proposition 9 would keep in place the law, which increasees the regulationn of firearms, including ghost guns, machine guns, and assault-style weapons,\" according to the Commonwealth. This session is sponsored by the UMass College of Social Behjaioral Sciences' Democracy Project in partnership with Worcester State University and Salem State University.",
-      "date": "2026-10-08",
-      "startTime": "Noon",
-      "endTime": "2 p.m.",
-      "location": "Old Chapel",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/sbs-democracy-project/events/ballot-initiative-event-dialogue-about-proposition-9",
-      "isNew": true
-    },
       {
       "title": "Peregrine Falcons 101: Learn About the Libraries' Rooftop Residents",
       "titleExplain": "An introduction to peregrine falcons, which have been nesting atop the W.E.B. Du Bois Library for decades.",

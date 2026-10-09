@@ -424,7 +424,7 @@
       "url": "https://events.mtholyoke.edu/event/mount-holyoke-jazz-ensembles-family-friends-concert"
     },
         {
-      "title": "Jeremy Denk, Piano / Concert",
+      "title": "SOLD OUT: Jeremy Denk, Piano / Concert",
       "titleExplain": "Part of the Music at Amherst concert series. This program comprises works by Bach, Chin, Beethoven and de Montgeroult.",
       "date": "2026-10-17",
       "startTime": "7:30 p.m.",
@@ -510,7 +510,9 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://websites.umass.edu/feinberg/satia/",
-      "isNew": false
+      "imageAlt": "Poster for Monarchy talk",
+      "imageURL": "images/Oligarchy102226c.jpg",
+      "isNew": true
     },
         {
       "title": "UMass Symphony Orchestra / Concert",

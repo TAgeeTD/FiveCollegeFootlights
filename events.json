@@ -1,18 +1,6 @@
 {
   "events": [
       {
-      "title": "Stargazing by the Campus Pond",
-      "titleExplain": "The UMass Department of Astronomy will provide state-of-the-art telescopes and expert guides.",
-      "date": "2026-10-10",
-      "startTime": "9 p.m.",
-      "endTime": "10:30 p.m.",
-      "location": "Campus Pond South Lawn",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umasshomecoming.com/website/78645/homecoming-schedule/",
-      "isNew": true
-    },
-      {
   "title": "Gilles Vonsattel & Hammerklavier / Lecture & Performance",
   "titleExplain": "Piano professor Gilles Vonsattel discusses and performs the Beethoven Piano Sonata No. 29, Op. 106, \"Hammerklavier\"",
   "date": "2026-10-13",

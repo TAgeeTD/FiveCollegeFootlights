@@ -10,7 +10,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/listening-room-ep-19-gilles-vonsattel-hammerklavier",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Faculty Chamber Series: American Music / Concert",
@@ -34,7 +34,7 @@
   "college": "Smith",
   "tickets": "Free",
   "url": "https://www.smith.edu/news-events/events/new-play-reading-series-lines-sadie-shapiro-29",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "The Wise Guys / Concert",
@@ -48,7 +48,7 @@
   "url": "https://libraries.smith.edu/news/wise-guys-return-jostenlive-october-16",
   "imageAlt": null, 
   "imageURL": null,
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "\"America/Beautiful\" with Pianists Min Kwon and Jiayan Sun / Concert",
@@ -62,7 +62,7 @@
   "url": "https://www.smith.edu/news-events/events/americabeautiful-pianists-min-kwon-and-jiayan-sun",
   "imageAlt": "Piano keyboard", 
   "imageURL": "images/fabian-duck-piano1.jpg",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "New Art Installation / Tour and Reception",
@@ -74,7 +74,7 @@
   "college": "Smith",
   "tickets": "Free",
   "url": "https://www.smith.edu/news-events/events/celebration-new-site-specific-artworks-macleish-field-station-arts-afield",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Beethoven Sonata Series No. 1 / Concert",
@@ -86,7 +86,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-1",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Visiting Artist Studio Talk",
@@ -98,7 +98,7 @@
   "college": "Smith",
   "tickets": "Free",
   "url": "https://www.smith.edu/news-events/events/smith-college-print-workshop-melanie-yazzie",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Christian McBride and Ursa Major / Concert",
@@ -110,7 +110,7 @@
   "college": "UMass",
   "tickets": "Tickets: Start at $40 for general public, $20 for Five College students and youths 17 and under.",
   "url": "https://arts.umass.edu/performing-arts/events/2026-2027/christian-mcbride-ursa-major",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "The Listening Room: Halloween! / Concert",
@@ -122,7 +122,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/listening-room-ep-20-halloween",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Documenting Border Barriers by Pamela Dodds / Lecture, Reception",
@@ -134,7 +134,7 @@
   "college": "Smith",
   "tickets": "Free",
   "url": "https://sites.smith.edu/art-oresman-gallery/portfolio/documenting-border-barriers-pamela-dodds/",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Beethoven Sonata Series No. 2 / Concert",
@@ -146,7 +146,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-2",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Bandwidth Faculty Ensemble / Concert",
@@ -158,7 +158,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-concert-bandwidth-ensemble-fall-2026",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Opus One Chamber Orchestra / Concert",
@@ -170,7 +170,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/opus-one-chamber-orchestra-fall-2026",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Ruby Ibarra / Concert",
@@ -182,7 +182,7 @@
   "college": "UMass",
   "tickets": "Tickets start at $35 for the general public, $20 for Five College students and youths 17 and under.",
   "url": "https://arts.umass.edu/performing-arts/events/2026-2027/ruby-ibarra",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Chamber Jazz Spotlight / Concert",
@@ -194,7 +194,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/chamber-jazz-spotlight-fall-26",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "150th Anniversary Celebration, Mount Holyoke College Art Museum",
@@ -208,7 +208,7 @@
   "url": "https://artmuseum.mtholyoke.edu/mhcam-event/mhcam-150th-anniversary-celebration/",
   "imageAlt": "Mount Holyoke College Art Museum gallery", 
   "imageURL": "images/MtHolyokeArtMuseum1126c1.jpg",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Chamber Choir & University Chorale / Concert",
@@ -220,7 +220,7 @@
   "college": "UMass",
   "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
   "url": "https://www.umass.edu/music-dance/events/chamber-choir-university-chorale-nov-26",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Trumpet Ensemble, Horn & Brass Choirs with Brass Chamber Ensembles",
@@ -232,7 +232,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/trumpet-horn-brass-choirs-brass-chamber-ensembles",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Faculty Chamber Series: American Music / Concert",
@@ -244,7 +244,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-chamber-series-concert-2-american-music",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "All-University Orchestra / Concert",
@@ -256,7 +256,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/all-university-orchestra-fall-2026",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Beethoven Sonata Series No. 3 / Concert",
@@ -268,7 +268,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-3",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Percussion Ensemble / Concert",
@@ -280,7 +280,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/percussion-ensemble-fall-2026",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "¡Guitarra! João Luiz Rezende Lopes / Concert",
@@ -292,7 +292,7 @@
   "college": "UMass",
   "tickets": "Tickets are $35 for the general public, $25 for Five College students and youths 17 and under.",
   "url": "https://arts.umass.edu/performing-arts/events/2026-2027/guitarra-joao-luiz-rezende-lopes",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Woodwind Chamber Ensembles / Concert",
@@ -304,7 +304,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/woodwind-chamber-ensembles-nov-2026",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Wild Klezmer in the Ol' Polish Tavern",
@@ -316,7 +316,7 @@
   "college": "Mount Holyoke",
   "tickets": "Free",
   "url": "https://events.mtholyoke.edu/event/wild-klezmer-in-the-ol-polish-tavern",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "String Chamber Ensembles / Concert",
@@ -328,7 +328,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/string-chamber-ensembles-nov-2026",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Graduate Brass Quintet / Concert",
@@ -340,7 +340,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
-  "isNew": true
+  "isNew": false
 },
   {
       "title": "James Limerick Kerr Faculty Guitar Recital",
@@ -352,6 +352,18 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/james-limerick-kerr-faculty-guitar-recital"
+    },
+  {
+      "title": "Jazz Against Empire: The Radio-Plantation Complex and Caribbean Sonic Commoning in the Age of the Monroe Doctrine / Lecture",
+      "titleExplain": "Ben Barson, assistant professor of music at Bucknell University, delivers the Annual Veena David B. Reck Lecture.",
+      "date": "2026-10-15",
+      "startTime": "5 p.m.",
+      "endTime": null,
+      "location": "Aliki Perroti and Seth Frank Lyceum, CHI Think Tank",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/947023",
+      "isNew": true
     },
         {
       "title": "Multiband Pops Concert",
@@ -442,6 +454,18 @@
       "url": "https://www.umass.edu/music-dance/events/trombone-choirs-brass-chamber-ensembles-oct-26"
     },
         {
+      "title": "AI, Integrity, and the Collective Good / Lecture",
+      "titleExplain": "Amanda Ballantyne, ’02 Smith graduate and an expert in technology policy and economic justice, speaks as part of Presidential Colloquium Series.",
+      "date": "2026-10-20",
+      "startTime": "5 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Campus Center Carroll Room",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/discover-smith/president-sarah-willie-lebreton/presidential-colloquium",
+      "isNew": true
+    },
+        {
       "title": "Faculty Concert: Fumi Tomita, jazz bass",
       "titleExplain": "Performing his jazz project \"Yokai! Songs of the Japanese Supernatural\", a multimedia experience.",
       "date": "2026-10-21",
@@ -464,7 +488,7 @@
       "url": "https://websites.umass.edu/feinberg/satia/",
       "imageAlt": "Poster for Monarchy talk",
       "imageURL": "images/Oligarchy102226c.jpg",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "UMass Symphony Orchestra / Concert",
@@ -522,7 +546,7 @@
       "url": "https://www.eipad.org/2026-events",
       "imageAlt": "Poster promoting Ellsberg lecture",
       "imageURL": "images/Ellsberg102726c.jpg",
-      "isNew":true
+      "isNew": false
     },
     {
       "title": "Echoes of the Peaceful Forest: A Japanese Wadaiko Experience / Performance",

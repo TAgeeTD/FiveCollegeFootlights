@@ -1,29 +1,5 @@
 {
   "events": [
-      {
-  "title": "Gilles Vonsattel & Hammerklavier / Lecture & Performance",
-  "titleExplain": "Piano professor Gilles Vonsattel discusses and performs the Beethoven Piano Sonata No. 29, Op. 106, \"Hammerklavier\"",
-  "date": "2026-10-13",
-  "startTime": "11 a.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/listening-room-ep-19-gilles-vonsattel-hammerklavier",
-  "isNew": false
-},
-{
-  "title": "Faculty Chamber Series: American Music / Concert",
-  "titleExplain": "First in a series of Faculty Chamber Music concerts celebrating the music of American composers.",
-  "date": "2026-10-13",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/faculty-chamber-series-concert-1-american-music",
-  "isNew": false
-},
 {
   "title": "\"Lines\" by Saie Shapiro '29 / Theater",
   "titleExplain": "Part of the Department of Theatre's New Play Reaing Series.",

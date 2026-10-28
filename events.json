@@ -1,18 +1,6 @@
 {
   "events": [
       {
-      "title": "The Listening Room: Halloween! / Concert",
-      "titleExplain": "Faculty performances of Halloween-theme music.",
-      "date": "2026-10-27",
-      "startTime": "11 a.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/listening-room-ep-20-halloween",
-      "isNew": false
-    },
-      {
       "title": "Documenting Border Barriers by Pamela Dodds / Lecture, Reception",
       "titleExplain": "Pamela Dodds speaks at the opening reception for her exhibit at the Oresman Gallery.",
       "date": "2026-10-28",
@@ -230,53 +218,6 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-        {
-      "title": "Hugh Ryan / Lecture",
-      "titleExplain": "\"Queer historian, curator, and writer Hugh Ryan details the ways that queer life transitioned from private to public, reshaping the challenges and possibilities for queer folks in the new millennium.\"",
-      "date": "2026-10-27",
-      "startTime": "4:30 p.m.",
-      "endTime": "6 p.m.",
-      "location": "Campus Center",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/hugh-ryan-talk"
-    },
-        {
-      "title": "Jazz Lab & Graduate Jazz Composers' Ensembles / Concert",
-      "titleExplain": "Repertoire to be announced.",
-      "date": "2026-10-27",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Bezanson Recital Hall",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.umass.edu/music-dance/events/jazz-lab-graduate-jazz-composers-ensembles-oct-26"
-    },
-    {
-      "title": "Jason Schneiderman Poetry Reading",
-      "titleExplain": "Jason Schneiderman is author of \"Self Portrait of Icarus as a Country on Fire\".",
-      "date": "2026-10-27",
-      "startTime": "7 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Weinstein Auditorium",
-      "college": "Smith",
-      "tickets": null,
-      "url": "https://www.smith.edu/news-events/events/jason-schneiderman-poetry-reading"
-    },
-    {
-      "title": "The Patriotism of Peace and Democracy / Lecture",
-      "titleExplain": "Congressman Jim McGovern, D-2nd District, delivers the 5th Annual Ellsberg Lecture, part of the Ellsberg Initiative for Peace and Democracy.",
-      "date": "2026-10-27",
-      "startTime": "7 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Campus Center Auditorium",
-      "college": "UMass",
-      "tickets": "Free",
-      "url": "https://www.eipad.org/2026-events",
-      "imageAlt": "Poster promoting Ellsberg lecture",
-      "imageURL": "images/Ellsberg102726c.jpg",
-      "isNew": false
-    },
     {
       "title": "Echoes of the Peaceful Forest: A Japanese Wadaiko Experience / Performance",
       "titleExplain": "The Kato Taiko Family in a performance of Wadaiko, or Japanese ensemble drumming, as part of a national tour.",

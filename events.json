@@ -1,18 +1,6 @@
 {
   "events": [
       {
-      "title": "Documenting Border Barriers by Pamela Dodds / Lecture, Reception",
-      "titleExplain": "Pamela Dodds speaks at the opening reception for her exhibit at the Oresman Gallery.",
-      "date": "2026-10-28",
-      "startTime": "5 p.m.",
-      "endTime": "7 p.m.",
-      "location": "Oresman Gallery",
-      "college": "Smith",
-      "tickets": "Free",
-      "url": "https://sites.smith.edu/art-oresman-gallery/portfolio/documenting-border-barriers-pamela-dodds/",
-      "isNew": false
-    },
-{
   "title": "Bandwidth Faculty Ensemble / Concert",
   "titleExplain": "Six-member ensemble performs with special guests.",
   "date": "2026-11-02",
@@ -207,28 +195,6 @@
   "isNew": false
 },
     {
-      "title": "Echoes of the Peaceful Forest: A Japanese Wadaiko Experience / Performance",
-      "titleExplain": "The Kato Taiko Family in a performance of Wadaiko, or Japanese ensemble drumming, as part of a national tour.",
-      "date": "2026-10-28",
-      "startTime": "4:30 p.m.",
-      "endTime": "6 p.m.",
-      "location": "Helen Hills Hills Chapel Sanctuary",
-      "college": "Smith",
-      "tickets": "Free",
-      "url": "https://www.smith.edu/news-events/events/echoes-peaceful-forest-japanese-wadaiko-experience"
-    },
-    {
-      "title": "Wind Ensemble and Symphony Band / Concert",
-      "titleExplain": "Performing classics from the wind band repertoire.",
-      "date": "2026-10-28",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Frederick C. Tillis Performance Hall",
-      "college": "UMass",
-      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees",
-      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-oct-26"
-    },
-    {
       "title": "\"The Future of Coffee\" / Film",
       "titleExplain": "After a screening of this short film, the director, Kevin Anderson of the UMass communnications department, with lead a discussion with panelists from local coffee companies.",
       "date": "2026-10-29",
@@ -326,17 +292,6 @@
       "college": "UMass",
       "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
       "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-    {
-      "title": "\"The Secretaries\" by The Five Lesbian Brothers / Theater",
-      "titleExplain": "\"Set in and around the Cooney Lumber Mill in the early 1990s, the story follows a group of secretaries who are caught in a whirlwind of competition, manipulation, and sexual tension. Plus blood and chainsaws.\"",
-      "date": "2026-10-28",
-      "startTime": "7:30 p.m.",
-      "endTime": "9:30 p.m.",
-      "location": "Hallie Flanagan Studio Theatre",
-      "college": "Smith",
-      "tickets": "Ticket information to come",
-      "url": "https://new.smith.edu/news-events/events/secretaries-five-lesbian-brothers"
     },
     {
       "title": "\"The Secretaries\" by The Five Lesbian Brothers / Theater",

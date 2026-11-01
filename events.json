@@ -197,17 +197,6 @@
         {
       "title": "The 25th Annual Putnam County Spelling Bee / Theater",
       "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-10-31",
-      "startTime": "2 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
       "date": "2026-11-05",
       "startTime": "7:30 p.m.",
       "endTime": null,
@@ -248,39 +237,6 @@
       "college": "UMass",
       "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
       "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-    {
-      "title": "\"The Secretaries\" by The Five Lesbian Brothers / Theater",
-      "titleExplain": "\"Set in and around the Cooney Lumber Mill in the early 1990s, the story follows a group of secretaries who are caught in a whirlwind of competition, manipulation, and sexual tension. Plus blood and chainsaws.\"",
-      "date": "2026-10-31",
-      "startTime": "7:30 p.m.",
-      "endTime": "9:30 p.m.",
-      "location": "Hallie Flanagan Studio Theatre",
-      "college": "Smith",
-      "tickets": "Ticket information to come",
-      "url": "https://new.smith.edu/news-events/events/secretaries-five-lesbian-brothers"
-    },
-    {
-      "title": "Kids Monsters Ball",
-      "titleExplain": "The Mount Holyoke Symphony Orchestra invites children to come dressed in their favorite costumes for a fairy-tale-themed performance of music including the Swan Lake Suite, selections from \"Moana 2\" and other works.",
-      "date": "2026-10-31",
-      "startTime": "11 a.m.",
-      "endTime": "Noon",
-      "location": "Mary Woolley Hall, Chapin Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/mount-holyoke-symphony-orchestra-kids-monsters-ball-fairy-tales"
-    },
-    {
-      "title": "Monsters Ball / Concert",
-      "titleExplain": "The Mount Holyoke Symphony Orchestra is back with its Halloween tradition, this time featuring Strauss's Blue Danube, Tchaikovsky's Swan Lake Suite, and music from animated Disney movies.",
-      "date": "2026-10-31",
-      "startTime": "8 p.m.",
-      "endTime": "9:30 p.m.",
-      "location": "Mary Woolley Hall, Chapin Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/monsters-ball-fairy-tales"
     },
     {
       "title": "Percussion Day Concert",

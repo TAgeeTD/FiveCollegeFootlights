@@ -1,17 +1,60 @@
 {
   "events": [
-      {
-  "title": "Bandwidth Faculty Ensemble / Concert",
-  "titleExplain": "Six-member ensemble performs with special guests.",
-  "date": "2026-11-02",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/faculty-concert-bandwidth-ensemble-fall-2026",
-  "isNew": false
-},
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-05",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-06",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-07",
+      "startTime": "2 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+        {
+      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
+      "titleExplain": "Musical presented by the UMass Theater Department",
+      "date": "2026-11-07",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Rand Theater",
+      "college": "UMass",
+      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
+      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
+    },
+    {
+      "title": "Distinguished Artist: Rhiannon Giddens",
+      "titleExplain": "Giddens is a two-time Grammy winner, Pulitzer Prise winner and a founding member of the Carolina Chocolate Drops.",
+      "date": "2026-11-03",
+      "startTime": "5:30 p.m.",
+      "endTime": "7:30 p.m.",
+      "location": "Mary Woolley Hall, Chapin Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/distinguished-artist-rhiannon-giddens"
+    },
 {
   "title": "Opus One Chamber Orchestra / Concert",
   "titleExplain": "Advanced string students and their faculty members perform.",
@@ -194,61 +237,6 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-05",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-06",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-07",
-      "startTime": "2 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-07",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-    {
-      "title": "Distinguished Artist: Rhiannon Giddens",
-      "titleExplain": "Giddens is a two-time Grammy winner, Pulitzer Prise winner and a founding member of the Carolina Chocolate Drops.",
-      "date": "2026-11-03",
-      "startTime": "5:30 p.m.",
-      "endTime": "7:30 p.m.",
-      "location": "Mary Woolley Hall, Chapin Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/distinguished-artist-rhiannon-giddens"
-    },
     {
       "title": "Faculty Dance Concert",
       "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",

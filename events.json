@@ -1,6 +1,18 @@
 {
   "events": [
         {
+      "title": "In Conversation Wtih Rhiannon Giddens",
+      "titleExplain": "Giddens is a multi-instrumentalist, a composer, a two-time Grammy winner, a Pulitzer Prize winner and a founding member of the Carolina Chocolate Drops.",
+      "date": "2026-11-05",
+      "startTime": "5 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Johnson Chapel",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/news/events/calendar/node/949232",
+      "isNew": true
+    },
+        {
       "title": "The 25th Annual Putnam County Spelling Bee / Theater",
       "titleExplain": "Musical presented by the UMass Theater Department",
       "date": "2026-11-05",
@@ -43,17 +55,6 @@
       "college": "UMass",
       "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
       "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-    {
-      "title": "Distinguished Artist: Rhiannon Giddens",
-      "titleExplain": "Giddens is a two-time Grammy winner, Pulitzer Prise winner and a founding member of the Carolina Chocolate Drops.",
-      "date": "2026-11-03",
-      "startTime": "5:30 p.m.",
-      "endTime": "7:30 p.m.",
-      "location": "Mary Woolley Hall, Chapin Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/distinguished-artist-rhiannon-giddens"
     },
 {
   "title": "Opus One Chamber Orchestra / Concert",

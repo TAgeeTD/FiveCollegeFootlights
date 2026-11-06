@@ -1,31 +1,6 @@
 {
   "events": [
         {
-      "title": "In Conversation Wtih Rhiannon Giddens",
-      "titleExplain": "Giddens is a multi-instrumentalist, a composer, a two-time Grammy winner, a Pulitzer Prize winner and a founding member of the Carolina Chocolate Drops.",
-      "date": "2026-11-05",
-      "startTime": "5 p.m.",
-      "endTime": "6:30 p.m.",
-      "location": "Johnson Chapel",
-      "college": "Amherst",
-      "tickets": null,
-      "url": "https://www.amherst.edu/news/events/calendar/node/949232",
-      "imageAlt": "Giddens with accompanimentg", 
-      "imageURL": "images/GiddensPix2026.jpg",
-      "isNew": true
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-05",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
       "title": "The 25th Annual Putnam County Spelling Bee / Theater",
       "titleExplain": "Musical presented by the UMass Theater Department",
       "date": "2026-11-06",
@@ -58,30 +33,6 @@
       "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
       "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
     },
-{
-  "title": "Opus One Chamber Orchestra / Concert",
-  "titleExplain": "Advanced string students and their faculty members perform.",
-  "date": "2026-11-05",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/opus-one-chamber-orchestra-fall-2026",
-  "isNew": false
-},
-{
-  "title": "Ruby Ibarra / Concert",
-  "titleExplain": "Filipino American rapper Ruby Ibarra performs with a band that includes June Millington, co-founder of the all-women rock band Fanny in the 1970s.",
-  "date": "2026-11-05",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bowker Auditorium",
-  "college": "UMass",
-  "tickets": "Tickets start at $35 for the general public, $20 for Five College students and youths 17 and under.",
-  "url": "https://arts.umass.edu/performing-arts/events/2026-2027/ruby-ibarra",
-  "isNew": false
-},
 {
   "title": "Chamber Jazz Spotlight / Concert",
   "titleExplain": "Jazz combos in the Jazz & African American Music Studies program perform new compositions and jazz standards.",

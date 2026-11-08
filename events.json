@@ -1,38 +1,5 @@
 {
   "events": [
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-06",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-07",
-      "startTime": "2 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
-        {
-      "title": "The 25th Annual Putnam County Spelling Bee / Theater",
-      "titleExplain": "Musical presented by the UMass Theater Department",
-      "date": "2026-11-07",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rand Theater",
-      "college": "UMass",
-      "tickets": "Tickets: $19 general admission; $7 students, seniors and youths 17 and under.",
-      "url": "https://www.umass.edu/theater/performances/2026-2027-performances"
-    },
 {
   "title": "Chamber Jazz Spotlight / Concert",
   "titleExplain": "Jazz combos in the Jazz & African American Music Studies program perform new compositions and jazz standards.",

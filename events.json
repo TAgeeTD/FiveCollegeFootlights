@@ -13,6 +13,30 @@
   "isNew": false
 },
 {
+  "title": "An Evening with Mira Nair / Lecture",
+  "titleExplain": "Filmmaker Mira Nair talks about filmmaking and the topics she explores in her own work: \"the tug of competing worlds felt by millions of immigrants, and ways to bridge the gap between cultures, races and genders.\"",
+  "date": "2026-11-12",
+  "startTime": "5 p.m.",
+  "endTime": "6:15 p.m.",
+  "location": "Art Building, Gamble Auditorium",
+  "college": "Mount Holyoke",
+  "tickets": "Free",
+  "url": "https://events.mtholyoke.edu/event/an-evening-with-mira-nair",
+  "isNew": true
+},
+{
+  "title": "Feminist Emergency Response: Electoral Crisis / Panel Discussion",
+  "titleExplain": "Roundtable discussion with leading feminist scholars.",
+  "date": "2026-11-12",
+  "startTime": "5 p.m.",
+  "endTime": "7 p.m.",
+  "location": "Williston Library, Stimson Room",
+  "college": "Mount Holyoke",
+  "tickets": "Free",
+  "url": "https://events.mtholyoke.edu/event/feminist-emergency-response-electoral-crisis",
+  "isNew": true
+},
+{
   "title": "150th Anniversary Celebration, Mount Holyoke College Art Museum",
   "titleExplain": "Music, art talks, food to celebrate the newly renovated museum's 150th.",
   "date": "2026-11-13",
@@ -191,6 +215,18 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
+    },
+    {
+      "title": "Puerto Rican Indigeneity / Lecture",
+      "titleExplain": "Rafael Ocasio, author and professor emeritus, \"traces changing representations of Puerto Rican indigeneity, from the first U.S. scientific investigations of the island following the Spanish-American War (1898) to its literary reinterpretation in Judith Ortiz Cofer’s work.\"",
+      "date": "2026-11-13",
+      "startTime": "2:30 p.m.",
+      "endTime": "4:30 p.m.",
+      "location": "Shattuck Hall, Cassani Room (102)",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/rafael-ocasio-puerto-rican-folktales",
+      "isNew": true
     },
     {
       "title": "Faculty Dance Concert",

@@ -1,42 +1,6 @@
 {
   "events": [
 {
-  "title": "Chamber Jazz Spotlight / Concert",
-  "titleExplain": "Jazz combos in the Jazz & African American Music Studies program perform new compositions and jazz standards.",
-  "date": "2026-11-12",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/chamber-jazz-spotlight-fall-26",
-  "isNew": false
-},
-{
-  "title": "An Evening with Mira Nair / Lecture",
-  "titleExplain": "Filmmaker Mira Nair talks about filmmaking and the topics she explores in her own work: \"the tug of competing worlds felt by millions of immigrants, and ways to bridge the gap between cultures, races and genders.\"",
-  "date": "2026-11-12",
-  "startTime": "5 p.m.",
-  "endTime": "6:15 p.m.",
-  "location": "Art Building, Gamble Auditorium",
-  "college": "Mount Holyoke",
-  "tickets": "Free",
-  "url": "https://events.mtholyoke.edu/event/an-evening-with-mira-nair",
-  "isNew": true
-},
-{
-  "title": "Feminist Emergency Response: Electoral Crisis / Panel Discussion",
-  "titleExplain": "Roundtable discussion with leading feminist scholars.",
-  "date": "2026-11-12",
-  "startTime": "5 p.m.",
-  "endTime": "7 p.m.",
-  "location": "Williston Library, Stimson Room",
-  "college": "Mount Holyoke",
-  "tickets": "Free",
-  "url": "https://events.mtholyoke.edu/event/feminist-emergency-response-electoral-crisis",
-  "isNew": true
-},
-{
   "title": "150th Anniversary Celebration, Mount Holyoke College Art Museum",
   "titleExplain": "Music, art talks, food to celebrate the newly renovated museum's 150th.",
   "date": "2026-11-13",
@@ -109,6 +73,18 @@
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/all-university-orchestra-fall-2026",
   "isNew": false
+},
+{
+  "title": "Queen Esther: A Heretical Play from Early Modern Spain / Lecture",
+  "titleExplain": "\"In this Illuminated Lecture, a form that weaves theater and music into an academic lecture, UMass Professor Harley Erdman, with the support of five student actors, shares his research on a play from 1613 that landed its playwright, Felipe Godínez, in jail for heresy.\"",
+  "date": "2026-11-18",
+  "startTime": "4:30 p.m.",
+  "endTime": null,
+  "location": "The Rand Theater",
+  "college": "UMass",
+  "tickets": "Free",
+  "url": "https://www.umass.edu/theater/performances/2026-2027-performances",
+  "isNew": true
 },
 {
   "title": "From Cuba to Palestine: The Causes and Consequences of U.S. Imperialism / Panel Discussion",
@@ -206,17 +182,6 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-    {
-      "title": "Faculty Dance Concert",
-      "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
-      "date": "2026-11-12",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Kendall Sports & Dance Complex, Studio Theatre",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
-    },
     {
       "title": "Faculty Dance Concert",
       "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
@@ -567,6 +532,66 @@
       "isNew": true
     },
     {
+      "title": "UMass Concert Band",
+      "titleExplain": "Repertoire to be announced.",
+      "date": "2026-12-08",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
+      "url": "https://www.umass.edu/music-dance/events/umass-concert-band-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Wind Ensemble and Symphony Band",
+      "titleExplain": "Repertoire to be announced.",
+      "date": "2026-12-09",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
+      "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Chapel Jazz and Jazz Lab Ensembles",
+      "titleExplain": "Performing works by Sherisse Rogers, Thad Jones, Charles Mingus, Radiohead, Cannonball Adderley and John Coltrane.",
+      "date": "2026-12-10",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bowker Auditorium",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
+      "url": "https://www.umass.edu/music-dance/events/chapel-jazz-jazz-lab-ensembles-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Winter Voices Choral Concert",
+      "titleExplain": null,
+      "date": "2026-12-12",
+      "startTime": "4 p.m.",
+      "endTime": null,
+      "location": "Frederick C. Tillis Performance Hall",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
+      "url": "https://www.umass.edu/music-dance/events/choral-concert-winter-voices",
+      "isNew": true
+    },
+    {
+      "title": "Vocal Jazz Ensemble",
+      "titleExplain": "Repertoire to be announced.",
+      "date": "2026-12-13",
+      "startTime": "4 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/vocal-jazz-ensemble-dec-26",
+      "isNew": true
+    },
+    {
       "title": "\"The Moors\" / Theater",
       "titleExplain": "\"A hapless governess, a mysterious hero, scheming siblings, and the bleak setting of the windswept countryside: Jen Silverman’s The Moors has all the trapping of the best gothic yarns written by folks like the Brontë sisters.\"",
       "date": "2026-12-09",
@@ -633,6 +658,42 @@
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
       "isNew": false
+    },
+    {
+      "title": "The Listening Room: Classic Performances",
+      "titleExplain": "Performances of classic repertoire by faculty and students.",
+      "date": "2026-12-15",
+      "startTime": "11 a.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/listening-room-ep-21-classic-performances",
+      "isNew": true
+    },
+    {
+      "title": "Jazz Ensemble I",
+      "titleExplain": "Performances include student compositions, jazz standards and holiday favorites.",
+      "date": "2026-12-15",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bowker Auditorium",
+      "college": "UMass",
+      "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
+      "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Beethoven Sonata Series No. 4 / Concert",
+      "titleExplain": "Piano professor Gilles Vonsattel presents his fourth in a series of Beethoven piano sonatas.",
+      "date": "2026-12-16",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "Bezanson Recital Hall",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-4",
+      "isNew": true
     }
   ]
 }

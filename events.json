@@ -63,6 +63,30 @@
   "isNew": true
 },
 {
+  "title": "Autumn Serenade / Concert",
+  "titleExplain": "Performances by the Smith College Glee Club and Chamber Singers, the Smith College Campus School Chorus, and the Amherst Regional High School Chorale.",
+  "date": "2026-11-14",
+  "startTime": "4 p.m.",
+  "endTime": "6 p.m.",
+  "location": "Sweeney Concert Hall",
+  "college": "Smith",
+  "tickets": "Free",
+  "url": "https://www.smith.edu/news-events/events/autumn-serenade-0",
+  "isNew": true
+},
+{
+  "title": "Jazz Ensemble Fall Concert: Birds and Flight",
+  "titleExplain": "Music inspired by birds and their flight, including familiar classic jazz standards and contemporary big band arrangements.",
+  "date": "2026-11-18",
+  "startTime": "7:30 p.m.",
+  "endTime": "9 p.m.",
+  "location": "Sweeney Concert Hall",
+  "college": "Smith",
+  "tickets": "Free",
+  "url": "https://www.smith.edu/news-events/events/jazz-ensemble-fall-concert-birds-and-flight",
+  "isNew": true
+},
+{
   "title": "All-University Orchestra / Concert",
   "titleExplain": "Performing Dvořák’s Serenade for Strings, Barber’s Adagio for String, and Christopher Wilson’s Suite for String Orchestra.",
   "date": "2026-11-18",
@@ -111,6 +135,42 @@
   "isNew": false
 },
 {
+  "title": "Fall Faculty Dance Concert",
+  "titleExplain": null,
+  "date": "2026-11-19",
+  "startTime": "8 p.m.",
+  "endTime": "10 p.m.",
+  "location": "Theatre 14",
+  "college": "Smith",
+  "tickets": "Tickets can be purchased at smitharts.ludus.com.",
+  "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
+  "isNew": true
+},
+{
+  "title": "Fall Faculty Dance Concert",
+  "titleExplain": null,
+  "date": "2026-11-20",
+  "startTime": "8 p.m.",
+  "endTime": "10 p.m.",
+  "location": "Theatre 14",
+  "college": "Smith",
+  "tickets": "Tickets can be purchased at smitharts.ludus.com.",
+  "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
+  "isNew": true
+},
+{
+  "title": "Fall Faculty Dance Concert",
+  "titleExplain": null,
+  "date": "2026-11-21",
+  "startTime": "8 p.m.",
+  "endTime": "10 p.m.",
+  "location": "Theatre 14",
+  "college": "Smith",
+  "tickets": "Tickets can be purchased at smitharts.ludus.com.",
+  "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
+  "isNew": true
+},
+{
   "title": "Percussion Ensemble / Concert",
   "titleExplain": "Repertoire to be announced.",
   "date": "2026-11-21",
@@ -145,6 +205,18 @@
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/woodwind-chamber-ensembles-nov-2026",
   "isNew": false
+},
+{
+  "title": "Smith College Orchestra Fall Concert",
+  "titleExplain": "Featuring Robyn Quinnett as violin soloist.",
+  "date": "2026-11-22",
+  "startTime": "3 p.m.",
+  "endTime": "5 p.m.",
+  "location": "Sweeney Concert Hall",
+  "college": "Smith",
+  "tickets": "Free",
+  "url": "https://www.smith.edu/news-events/events/orchestra-fall-2026-concert",
+  "isNew": true
 },
 {
   "title": "Wild Klezmer in the Ol' Polish Tavern",
@@ -343,6 +415,18 @@
       "isNew": true
     },
     {
+      "title": "Central Javanese Gamelan Fall Concert",
+      "titleExplain": "An evening of music from Java, Indonesia.",
+      "date": "2026-12-02",
+      "startTime": "7:30 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Earle Recital Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/central-javanese-gamelan-fall-concert-0",
+      "isNew": true
+    },
+    {
       "title": "Percussion Ensemble Concert",
       "titleExplain": null,
       "date": "2026-12-02",
@@ -365,6 +449,18 @@
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
       "isNew": false
+    },
+    {
+      "title": "Dance at Noon",
+      "titleExplain": "Featuring work created in a student choreography and design course.",
+      "date": "2026-12-03",
+      "startTime": "12:15 p.m.",
+      "endTime": "1:15 p.m.",
+      "location": "Crew House Dance Studio",
+      "college": "Smith",
+      "tickets": "Free but space is limited",
+      "url": "https://www.smith.edu/news-events/events/dance-noon",
+      "isNew": true
     },
     {
       "title": "Mount Holyoke Symphony Orchestra: Mary Lyon Concert",
@@ -391,6 +487,30 @@
       "isNew": true
     },
     {
+      "title": "Chinese Music Ensemble Fall Concert",
+      "titleExplain": "Featuring traditional favorites and contemporary works in Chinese and Taiwanese music.",
+      "date": "2026-12-04",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/chinese-music-ensemble-fall-concert-0",
+      "isNew": true
+    },
+    {
+      "title": "Fall Studio Productions / Theater",
+      "titleExplain": "Student-directed one-act plays.",
+      "date": "2026-12-05",
+      "startTime": "7:30 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Hallie Flanagan Studio Theatre",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/fall-studio-productions",
+      "isNew": true
+    },
+    {
       "title": "Holiday Vespers",
       "titleExplain": "Annual concert with the Mount Holyoke Choral Forces, Jazz Ensembles, Klezmer Ensemble, Flute Choir and Engl;ish Handbell Ensemble.",
       "date": "2026-12-06",
@@ -400,6 +520,18 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/holiday-vespers",
+      "isNew": true
+    },
+    {
+      "title": "Finding Light in the Darkness: A Concert with Interfaith Readinngs",
+      "titleExplain": "Featuring choral singers, orchestra and handbell choir.",
+      "date": "2026-12-06",
+      "startTime": "3 p.m.",
+      "endTime": null,
+      "location": "John Greene Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.cityspark.com/calendar/#!/details/finding-light-in-the-darkness-a-concert-with-interfaith/20089258/2026-12-06T15%3A00%3A00Z",
       "isNew": true
     },
     {
@@ -496,6 +628,18 @@
       "isNew": true
     },
     {
+      "title": "Wind Ensemble Fall Concert: To Trip the Light Fantastic",
+      "titleExplain": "Works include Four Scottish Dances by Malcolm Arnold, Nocturne by Zhou Tian and Libertango by Astor Piazzolla.",
+      "date": "2026-12-07",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/wind-ensemble-fall-concert-trip-light-fantastic",
+      "isNew": true
+    },
+    {
       "title": "Organ Studio Recital",
       "titleExplain": "Five College organ students perform on the E.M. Skinner and Fisk organs.",
       "date": "2026-12-08",
@@ -565,6 +709,18 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/chapel-jazz-jazz-lab-ensembles-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Bare Bones Dance Concert",
+      "titleExplain": "A showcase of dances choreographed, performed and produced by undergraduate students.",
+      "date": "2026-12-11",
+      "startTime": "7:30 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Scott Gym Dance Studio",
+      "college": "Smith",
+      "tickets": "Ticket reservations are required at smitharts.ludus.com",
+      "url": "https://www.smith.edu/news-events/events/bare-bones-dance-concert-0",
       "isNew": true
     },
     {
@@ -681,6 +837,30 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Fall Grad Dance Event",
+      "titleExplain": "New work by Smith MFA first-year candidates.",
+      "date": "2026-12-15",
+      "startTime": "7:30 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Scott Gym Dance Studio",
+      "college": "Smith",
+      "tickets": "Seating is limited. Ticket reservations are required at smitharts.ludus.com.",
+      "url": "https://www.smith.edu/news-events/events/fall-grad-dance-event-1",
+      "isNew": true
+    },
+    {
+      "title": "Wailing Banshees Fall Concert: Celtic Creatures",
+      "titleExplain": "Tunes and songs featuring the fauna of the celtic world.",
+      "date": "2026-12-15",
+      "startTime": "7:30 p.m.",
+      "endTime": "9 p.m.",
+      "location": "Sweeney Concert Hall",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/wailing-banshees-fall-concert-celtic-creatures",
       "isNew": true
     },
     {

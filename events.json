@@ -132,6 +132,8 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-3",
+  "imageAlt": "Drawing of Beethoven",
+  "imageURL": "images/BeethovenImageC.jpg",
   "isNew": false
 },
 {
@@ -322,6 +324,18 @@
       "url": "https://events.mtholyoke.edu/event/fireside-chat-with-darin-johnson",
       "isNew": true
     },
+    {
+      "title": "Encountering Beethoven: Gilles Vonsattel / Lecture & Performance",
+      "titleExplain": "Lecture by pianist Gilles Vonsattel, who will also demonstrate at the piano Beethoven piano sonatas that he will play on Nov. 19 at UMass.",
+      "date": "2026-11-18",
+      "startTime": "7:30 p.m.",
+      "endTime": "8:30 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949195",
+      "isNew": true
+    },
         {
       "title": "\"Clue\" / Theater",
       "titleExplain": "Play based on the popular board game.",
@@ -439,6 +453,18 @@
       "isNew": true
     },
     {
+      "title": "Composers in Conversation",
+      "titleExplain": "Composers from the New England Jazz Collaborative and representatives from Amherst College Press discuss composing, music publishing, access, and audience. Event coincides with the release of the collaborative's debut album, \"Tributaries\".",
+      "date": "2026-12-02",
+      "startTime": "4:30 p.m.",
+      "endTime": "5:30 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949186",
+      "isNew": true
+    },
+    {
       "title": "Faculty Dance Concert",
       "titleExplain": "Collaborative UMass and Amherst College Faculty Dance Concert.",
       "date": "2026-12-03",
@@ -449,6 +475,18 @@
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
       "isNew": false
+    },
+    {
+      "title": "Jazz at Masuda's / Concert",
+      "titleExplain": "Part of monthly jazz series hosted by Amherst College professor Jason Robinson.",
+      "date": "2026-12-03",
+      "startTime": "5 p.m.",
+      "endTime": "7 p.m.",
+      "location": "Masuda's Cafe, 17 Kellogg Ave.",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/947020",
+      "isNew": true
     },
     {
       "title": "Dance at Noon",
@@ -508,6 +546,18 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/fall-studio-productions",
+      "isNew": true
+    },
+    {
+      "title": "Amherst Symphony Orchestra / Concert",
+      "titleExplain": "Performing Brahms' Fourth Symphony and Elgar's Cello Concerto.",
+      "date": "2026-12-05",
+      "startTime": "7 p.m.",
+      "endTime": "8 p.m.",
+      "location": "Buckley Recital Hall",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944408",
       "isNew": true
     },
     {
@@ -642,6 +692,30 @@
       "isNew": true
     },
     {
+      "title": "Soundscapes of the CT River Valley / Film",
+      "titleExplain": "Student projects explore \"the connection between sound and place by documenting the musical communities and acoustic terrain of the Connecticut River Valley\".",
+      "date": "2026-12-07",
+      "startTime": "4 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum",
+      "college": "Amherst",
+      "tickets": null,
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/945786",
+      "isNew": true
+    },
+    {
+      "title": "Jazz Combos / Concert",
+      "titleExplain": null,
+      "date": "2026-12-07",
+      "startTime": "8 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Arms Music Center",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944410",
+      "isNew": true
+    },
+    {
       "title": "Wind Ensemble Fall Concert: To Trip the Light Fantastic",
       "titleExplain": "Works include Four Scottish Dances by Malcolm Arnold, Nocturne by Zhou Tian and Libertango by Astor Piazzolla.",
       "date": "2026-12-07",
@@ -711,6 +785,18 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-dec-26",
+      "isNew": true
+    },
+    {
+      "title": "Jazz Combos / Concert",
+      "titleExplain": "Performing will be Amherst College student jazz musicians.",
+      "date": "2026-12-09",
+      "startTime": "7:30 p.m.",
+      "endTime": "9:30 p.m.",
+      "location": "Arms Music Center",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944407",
       "isNew": true
     },
     {
@@ -841,6 +927,18 @@
       "url": "https://www.umass.edu/music-dance/events/listening-room-ep-21-classic-performances",
       "isNew": true
     },
+        {
+      "title": "Encountering Beethoven: Gilles Vonsattel / Lecture & Performance",
+      "titleExplain": "Lecture by pianist Gilles Vonsattel, who will also demonstrate at the piano Beethoven piano sonatas that he will play on Dec. 16, Beethoven's birthday, at UMass.",
+      "date": "2026-12-15",
+      "startTime": "3 p.m.",
+      "endTime": "4 p.m.",
+      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
+      "college": "Amherst",
+      "tickets": "Free",
+      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949196",
+      "isNew": true
+    },
     {
       "title": "Jazz Ensemble I",
       "titleExplain": "Performances include student compositions, jazz standards and holiday favorites.",
@@ -887,6 +985,8 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-4",
+      "imageAlt": "Drawing of Beethoven",
+      "imageURL": "images/BeethovenImageC.jpg",
       "isNew": true
     }
   ]

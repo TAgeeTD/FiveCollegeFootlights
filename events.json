@@ -36,6 +36,8 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/trumpet-horn-brass-choirs-brass-chamber-ensembles",
+  "imageAlt": "Image of brass instrument",
+  "imageURL": "images/BrassChoirUnsplash1126c.jpg",
   "isNew": false
 },
 {
@@ -345,6 +347,8 @@
       "location": "Rooke Theatre",
       "college": "Mount Holyoke",
       "tickets": "Tickets: $10 general admission, $5 students",
+      "imageAlt": "Photo of magnifying glass",
+      "imageURL": "images/MagnifyingGlassUnsplash1126c.jpg",
       "url": "https://events.mtholyoke.edu/event/clue"
     },
         {
@@ -368,6 +372,8 @@
       "location": "Rooke Theatre",
       "college": "Mount Holyoke",
       "tickets": "Tickets: $10 general admission, $5 students",
+       "imageAlt": "Photo of magnifying glass",
+      "imageURL": "images/MagnifyingGlassUnsplash1126c.jpg",
       "url": "https://events.mtholyoke.edu/event/clue"
     },
         {
@@ -391,6 +397,8 @@
       "location": "Rooke Theatre",
       "college": "Mount Holyoke",
       "tickets": "Tickets: $10 general admission, $5 students",
+      "imageAlt": "Photo of magnifying glass",
+      "imageURL": "images/MagnifyingGlassUnsplash1126c.jpg",
       "url": "https://events.mtholyoke.edu/event/clue"
     },
         {
@@ -414,6 +422,8 @@
       "location": "Rooke Theatre",
       "college": "Mount Holyoke",
       "tickets": "Tickets: $10 general admission, $5 students",
+      "imageAlt": "Photo of magnifying glass",
+      "imageURL": "images/MagnifyingGlassUnsplash1126c.jpg",
       "url": "https://events.mtholyoke.edu/event/clue"
     },
         {

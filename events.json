@@ -125,6 +125,18 @@
   "isNew": false
 },
 {
+  "title": "BalletX",
+  "titleExplain": "\"BalletX unites artistic innovation with technical excellence to forge new works of athleticism, emotion, and grace.\"",
+  "date": "2026-11-19",
+  "startTime": "7:30 p.m.",
+  "endTime": null,
+  "location": "Frederick C. Tillis Performance Hall",
+  "college": "UMass",
+  "tickets": "Ticket prices start at $39, but $20 for youths 17 and under and Five College students.",
+  "url": "https://arts.umass.edu/performing-arts/events/2026-2027/balletx",
+  "isNew": true
+},
+{
   "title": "Fall Faculty Dance Concert",
   "titleExplain": null,
   "date": "2026-11-19",
@@ -448,6 +460,18 @@
       "tickets": "Free; reservations recommended",
       "url": "https://www.umass.edu/music-dance/events/faculty-dance-concert-umass-amherst-college-dec-26",
       "isNew": false
+    },
+    {
+      "title": "Maria Mazzotta / Concert",
+      "titleExplain": "Maria Mazzotta is an Italian singer-songwriter. Her most recent album, \"Onde,\" was released in 2024.",
+      "date": "2026-12-03",
+      "startTime": "7:30 p.m.",
+      "endTime": null,
+      "location": "The Drake, Amherst center.",
+      "college": "UMass",
+      "tickets": "Ticket prices start at $35, but $20 for youths 17 and under and Five College students.",
+      "url": "https://arts.umass.edu/performing-arts/events/2026-2027/maria-mazzotta",
+      "isNew": true
     },
     {
       "title": "Jazz at Masuda's / Concert",

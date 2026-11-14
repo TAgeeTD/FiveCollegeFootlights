@@ -1,20 +1,6 @@
 {
   "events": [
 {
-  "title": "150th Anniversary Celebration, Mount Holyoke College Art Museum",
-  "titleExplain": "Music, art talks, food to celebrate the newly renovated museum's 150th.",
-  "date": "2026-11-13",
-  "startTime": "4:30 p.m.",
-  "endTime": "7:30 p.m.",
-  "location": "Mount Holyoke College Art Museum",
-  "college": "Mount Holyoke",
-  "tickets": "Free",
-  "url": "https://artmuseum.mtholyoke.edu/mhcam-event/mhcam-150th-anniversary-celebration/",
-  "imageAlt": "Mount Holyoke College Art Museum gallery", 
-  "imageURL": "images/MtHolyokeArtMuseum1126c1.jpg",
-  "isNew": false
-},
-{
   "title": "Chamber Choir & University Chorale / Concert",
   "titleExplain": "Repertoire to be announced.",
   "date": "2026-11-14",
@@ -261,29 +247,6 @@
     {
       "title": "Faculty Dance Concert",
       "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
-      "date": "2026-11-13",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Kendall Sports & Dance Complex, Studio Theatre",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
-    },
-    {
-      "title": "Puerto Rican Indigeneity / Lecture",
-      "titleExplain": "Rafael Ocasio, author and professor emeritus, \"traces changing representations of Puerto Rican indigeneity, from the first U.S. scientific investigations of the island following the Spanish-American War (1898) to its literary reinterpretation in Judith Ortiz Cofer’s work.\"",
-      "date": "2026-11-13",
-      "startTime": "2:30 p.m.",
-      "endTime": "4:30 p.m.",
-      "location": "Shattuck Hall, Cassani Room (102)",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/rafael-ocasio-puerto-rican-folktales",
-      "isNew": true
-    },
-    {
-      "title": "Faculty Dance Concert",
-      "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
       "date": "2026-11-14",
       "startTime": "7:30 p.m.",
       "endTime": null,
@@ -488,7 +451,7 @@
     },
     {
       "title": "Jazz at Masuda's / Concert",
-      "titleExplain": "Part of monthly jazz series hosted by Amherst College professor Jason Robinson.",
+      "titleExplain": "Monthly jazz series hosted by Amherst College professor Jason Robinson.",
       "date": "2026-12-03",
       "startTime": "5 p.m.",
       "endTime": "7 p.m.",
@@ -496,6 +459,8 @@
       "college": "Amherst",
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/947020",
+      "imageAlt": "Photo of Masuda's restaurant",
+      "imageURL": "images/Masudas2026c.jpeg",
       "isNew": true
     },
     {
@@ -580,6 +545,8 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/holiday-vespers",
+      "imageAlt": "Photo inside Abbey Memorial Chapel",
+      "imageURL": "images/MtHolyokeVespersC.jpeg",
       "isNew": true
     },
     {
@@ -604,6 +571,8 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/holiday-vespers",
+      "imageAlt": "Photo inside Abbey Memorial Chapel",
+      "imageURL": "images/MtHolyokeVespersC.jpeg",
       "isNew": true
     },
     {

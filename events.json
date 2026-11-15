@@ -1,18 +1,6 @@
 {
   "events": [
 {
-  "title": "Chamber Choir & University Chorale / Concert",
-  "titleExplain": "Repertoire to be announced.",
-  "date": "2026-11-14",
-  "startTime": "3 p.m.",
-  "endTime": null,
-  "location": "First Church, 165 Main St., Amherst",
-  "college": "UMass",
-  "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
-  "url": "https://www.umass.edu/music-dance/events/chamber-choir-university-chorale-nov-26",
-  "isNew": false
-},
-{
   "title": "Trumpet Ensemble, Horn & Brass Choirs with Brass Chamber Ensembles / Concert",
   "titleExplain": "Featuring music by Elizabeth Raum, Gustav Mahler, Eric Whitacre, Annastasia LeLacheur, Oskar Böhme and more.",
   "date": "2026-11-16",
@@ -48,18 +36,6 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/studio-series-brass-chamber-music",
-  "isNew": true
-},
-{
-  "title": "Autumn Serenade / Concert",
-  "titleExplain": "Performances by the Smith College Glee Club and Chamber Singers, the Smith College Campus School Chorus, and the Amherst Regional High School Chorale.",
-  "date": "2026-11-14",
-  "startTime": "4 p.m.",
-  "endTime": "6 p.m.",
-  "location": "Sweeney Concert Hall",
-  "college": "Smith",
-  "tickets": "Free",
-  "url": "https://www.smith.edu/news-events/events/autumn-serenade-0",
   "isNew": true
 },
 {
@@ -256,29 +232,7 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-    {
-      "title": "Faculty Dance Concert",
-      "titleExplain": "Special performance celebrating Peter T. Jones and his 40 years at Mount Holyoke College.",
-      "date": "2026-11-14",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Kendall Sports & Dance Complex, Studio Theatre",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/faculty-dance-concert-2026"
-    },
-    {
-      "title": "Dover Quartet / Concert",
-      "titleExplain": "Part of the Music at Amherst concert series. The quartet will perform works by Johannes Brahms, Jerod Impichchaachaaha’ Tate and Antonín Dvořák.",
-      "date": "2026-11-14",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Buckley Recital Hall",
-      "college": "Amherst",
-      "tickets": "Ticket information available at https://amherst.universitytickets.com/",
-      "url": "https://www.amherst.edu/academiclife/departments/music/events/music-at-amherst"
-    },
-    {
+   {
       "title": "Flute Choir / Concert",
       "titleExplain": null,
       "date": "2026-11-15",

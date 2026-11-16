@@ -36,7 +36,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/studio-series-brass-chamber-music",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Jazz Ensemble Fall Concert: Birds and Flight",
@@ -48,7 +48,7 @@
   "college": "Smith",
   "tickets": "Free",
   "url": "https://www.smith.edu/news-events/events/jazz-ensemble-fall-concert-birds-and-flight",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "All-University Orchestra / Concert",
@@ -72,7 +72,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/theater/performances/2026-2027-performances",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "From Cuba to Palestine: The Causes and Consequences of U.S. Imperialism / Panel Discussion",
@@ -84,7 +84,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://mailchi.mp/8149c0b273c2/second-annual-ellsberg-lecture-14196843?e=4c1293df12",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Beethoven Sonata Series No. 3 / Concert",
@@ -110,7 +110,7 @@
   "college": "UMass",
   "tickets": "Ticket prices start at $39, but $20 for youths 17 and under and Five College students.",
   "url": "https://arts.umass.edu/performing-arts/events/2026-2027/balletx",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Fall Faculty Dance Concert",
@@ -122,7 +122,7 @@
   "college": "Smith",
   "tickets": "Tickets can be purchased at smitharts.ludus.com.",
   "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Fall Faculty Dance Concert",
@@ -134,7 +134,7 @@
   "college": "Smith",
   "tickets": "Tickets can be purchased at smitharts.ludus.com.",
   "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Fall Faculty Dance Concert",
@@ -146,7 +146,7 @@
   "college": "Smith",
   "tickets": "Tickets can be purchased at smitharts.ludus.com.",
   "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Percussion Ensemble / Concert",
@@ -194,7 +194,7 @@
   "college": "Smith",
   "tickets": "Free",
   "url": "https://www.smith.edu/news-events/events/orchestra-fall-2026-concert",
-  "isNew": true
+  "isNew": false
 },
 {
   "title": "Wild Klezmer in the Ol' Polish Tavern",
@@ -242,7 +242,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/fireside-chat-with-darin-johnson",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Encountering Beethoven: Gilles Vonsattel / Lecture & Performance",
@@ -254,7 +254,7 @@
       "college": "Amherst",
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949195",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "\"Clue\" / Theater",
@@ -279,7 +279,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/trans-day-of-remembrance-tdor-memorial-reflection-and-restoration",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "\"Clue\" / Theater",
@@ -304,7 +304,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/mount-holyoke-jazz-ensembles-hot-jazz-on-a-cold-night",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "\"Clue\" / Theater",
@@ -329,7 +329,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/five-college-early-music-program",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "\"Clue\" / Theater",
@@ -354,7 +354,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/brass-bash-fall-2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Central Javanese Gamelan Fall Concert",
@@ -366,7 +366,7 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/central-javanese-gamelan-fall-concert-0",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Percussion Ensemble Concert",
@@ -378,7 +378,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/percussion-ensemble-concert-8465",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Composers in Conversation",
@@ -390,7 +390,7 @@
       "college": "Amherst",
       "tickets": null,
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949186",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Dance Concert",
@@ -414,7 +414,7 @@
       "college": "UMass",
       "tickets": "Ticket prices start at $35, but $20 for youths 17 and under and Five College students.",
       "url": "https://arts.umass.edu/performing-arts/events/2026-2027/maria-mazzotta",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Jazz at Masuda's / Concert",
@@ -428,7 +428,7 @@
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/947020",
       "imageAlt": "Photo of Masuda's restaurant",
       "imageURL": "images/Masudas2026c.jpeg",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Dance at Noon",
@@ -440,7 +440,7 @@
       "college": "Smith",
       "tickets": "Free but space is limited",
       "url": "https://www.smith.edu/news-events/events/dance-noon",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mount Holyoke Symphony Orchestra: Mary Lyon Concert",
@@ -452,7 +452,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/mary-lyon-concert-2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Merry Maple Holiday Celebration Featuring the Minuteman Marching Band",
@@ -464,7 +464,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/merry-maple-holiday-celebration-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chinese Music Ensemble Fall Concert",
@@ -476,7 +476,7 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/chinese-music-ensemble-fall-concert-0",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Fall Studio Productions / Theater",
@@ -488,7 +488,7 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/fall-studio-productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Amherst Symphony Orchestra / Concert",
@@ -500,7 +500,7 @@
       "college": "Amherst",
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944408",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Holiday Vespers",
@@ -514,7 +514,7 @@
       "url": "https://events.mtholyoke.edu/event/holiday-vespers",
       "imageAlt": "Photo inside Abbey Memorial Chapel",
       "imageURL": "images/MtHolyokeVespersC.jpeg",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Finding Light in the Darkness: A Concert with Interfaith Readings",
@@ -528,7 +528,7 @@
       "url": "https://www.cityspark.com/calendar/#!/details/finding-light-in-the-darkness-a-concert-with-interfaith/20089258/2026-12-06T15%3A00%3A00Z",
       "imageAlt": "Holiday photo form inside Greene Hall",
       "imageURL": "images/SmithVespersC.JPG",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Holiday Vespers",
@@ -542,7 +542,7 @@
       "url": "https://events.mtholyoke.edu/event/holiday-vespers",
       "imageAlt": "Photo inside Abbey Memorial Chapel",
       "imageURL": "images/MtHolyokeVespersC.jpeg",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Choral Society Vespers",
@@ -556,7 +556,7 @@
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944409",
       "imageAlt": "Inside Johnson Chapel during 2025 Vespers service", 
       "imageURL": "images/ACVespers2025c.jpg",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Dance Concert",
@@ -613,7 +613,7 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/umass-amherst-symphony-orchestra-dec-26",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "Graduate Wind Quintet / Concert",
@@ -625,7 +625,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/graduate-wind-quintet-fall-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Shared Student Recital, 1 of 4",
@@ -637,7 +637,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/shared-student-recital-1-of-4",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Soundscapes of the CT River Valley / Film",
@@ -649,7 +649,7 @@
       "college": "Amherst",
       "tickets": null,
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/945786",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Jazz Combos / Concert",
@@ -661,7 +661,7 @@
       "college": "Amherst",
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944410",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Wind Ensemble Fall Concert: To Trip the Light Fantastic",
@@ -673,7 +673,7 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/wind-ensemble-fall-concert-trip-light-fantastic",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Organ Studio Recital",
@@ -685,7 +685,7 @@
       "college": "Mount Holyoke",
       "tickets": "Free",
       "url": "https://events.mtholyoke.edu/event/organ-studio-recital-9036",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Graduate String Quartets / Concert",
@@ -697,7 +697,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/studio-series-graduate-string-quartets",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Five College West African Music Ensemble",
@@ -709,7 +709,7 @@
       "college": "Mount Holyoke",
       "tickets": "Free",
       "url": "https://events.mtholyoke.edu/event/five-college-west-african-music-ensemble",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "UMass Concert Band",
@@ -721,7 +721,7 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/umass-concert-band-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Wind Ensemble and Symphony Band",
@@ -733,7 +733,7 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/wind-ensemble-symphony-band-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Jazz Combos / Concert",
@@ -745,7 +745,7 @@
       "college": "Amherst",
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944407",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chapel Jazz and Jazz Lab Ensembles",
@@ -757,7 +757,7 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/chapel-jazz-jazz-lab-ensembles-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Bare Bones Dance Concert",
@@ -769,7 +769,7 @@
       "college": "Smith",
       "tickets": "Ticket reservations are required at smitharts.ludus.com",
       "url": "https://www.smith.edu/news-events/events/bare-bones-dance-concert-0",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Winter Voices Choral Concert",
@@ -781,7 +781,7 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/choral-concert-winter-voices",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Vocal Jazz Ensemble",
@@ -793,7 +793,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/vocal-jazz-ensemble-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "\"The Moors\" / Theater",
@@ -816,7 +816,7 @@
       "college": "Mount Holyoke",
       "tickets": null,
       "url": "https://events.mtholyoke.edu/event/shared-student-recital-2-of-4",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "\"The Moors\" / Theater",
@@ -873,7 +873,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/listening-room-ep-21-classic-performances",
-      "isNew": true
+      "isNew": false
     },
         {
       "title": "Encountering Beethoven: Gilles Vonsattel / Lecture & Performance",
@@ -885,7 +885,7 @@
       "college": "Amherst",
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949196",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Jazz Ensemble I",
@@ -897,7 +897,7 @@
       "college": "UMass",
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/jazz-ensemble-i-dec-26",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Fall Grad Dance Event",
@@ -909,7 +909,7 @@
       "college": "Smith",
       "tickets": "Seating is limited. Ticket reservations are required at smitharts.ludus.com.",
       "url": "https://www.smith.edu/news-events/events/fall-grad-dance-event-1",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Wailing Banshees Fall Concert: Celtic Creatures",
@@ -921,7 +921,7 @@
       "college": "Smith",
       "tickets": "Free",
       "url": "https://www.smith.edu/news-events/events/wailing-banshees-fall-concert-celtic-creatures",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Beethoven Sonata Series No. 4 / Concert",
@@ -935,7 +935,7 @@
       "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-4",
       "imageAlt": "Drawing of Beethoven",
       "imageURL": "images/BeethovenImageC.jpg",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

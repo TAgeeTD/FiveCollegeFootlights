@@ -51,6 +51,20 @@
   "isNew": false
 },
 {
+  "title": "\"Enter This Wild Wood\" / Film, Discussion",
+  "titleExplain": "\"Venture into the woods with naturalist-leaning engineer Bob Leverett, who helped identify long overlooked old-growth forests in Massachusetts.\" Thirty-minute documentary followed by panel discussion.",
+  "date": "2026-11-18",
+  "startTime": "7 p.m.",
+  "endTime": "8 p.m.",
+  "location": "Weinstein Auditorium",
+  "college": "Smith",
+  "tickets": "Free",
+  "url": "https://www.smith.edu/news-events/events/premiere-screening-enter-wild-wood-followed-panel-discussion",
+  "imageAlt": "Photo of big trees",
+  "imageURL": "images/TreePixabayC.jpg",
+  "isNew": true
+},
+{
   "title": "All-University Orchestra / Concert",
   "titleExplain": "Performing Dvořák’s Serenade for Strings, Barber’s Adagio for Strings, and Christopher Wilson’s Suite for String Orchestra.",
   "date": "2026-11-18",

@@ -232,17 +232,6 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-   {
-      "title": "Flute Choir / Concert",
-      "titleExplain": null,
-      "date": "2026-11-15",
-      "startTime": "7:30 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Pratt Music Hall McCulloch Auditorium",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/flute-choir-concert-8143"
-    },
     {
       "title": "Fireside Chat with Darin Johnson",
       "titleExplain": "Darin Johnson, law professor at Howard University, disucsses his 2026 book, \"Digital Coup: The Conspiracy to Thwart Global Democracy,\" with Mount Holyoke College President Danielle R. Holley.",
@@ -357,7 +346,6 @@
     },
         {
       "title": "Brass Bash / Concert",
-
       "titleExplain": "Faculty Brass Quintet plus the Trombone, Jazz Trombone, Horn, Trumpet & Brass Choirs, including a performance by a massed choir of all brass students.",
       "date": "2026-12-01",
       "startTime": "7:30 p.m.",
@@ -516,7 +504,7 @@
     },
     {
       "title": "Holiday Vespers",
-      "titleExplain": "Annual concert with the Mount Holyoke Choral Forces, Jazz Ensembles, Klezmer Ensemble, Flute Choir and Engl;ish Handbell Ensemble.",
+      "titleExplain": "Annual concert with the Mount Holyoke Choral Forces, Jazz Ensembles, Klezmer Ensemble, Flute Choir and English Handbell Ensemble.",
       "date": "2026-12-06",
       "startTime": "4 p.m.",
       "endTime": "5:30 p.m.",

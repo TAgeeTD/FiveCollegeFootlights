@@ -1,32 +1,6 @@
 {
   "events": [
 {
-  "title": "Trumpet Ensemble, Horn & Brass Choirs with Brass Chamber Ensembles / Concert",
-  "titleExplain": "Featuring music by Elizabeth Raum, Gustav Mahler, Eric Whitacre, Annastasia LeLacheur, Oskar Böhme and more.",
-  "date": "2026-11-16",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/trumpet-horn-brass-choirs-brass-chamber-ensembles",
-  "imageAlt": "Image of brass instrument",
-  "imageURL": "images/BrassChoirUnsplash1126c.jpg",
-  "isNew": false
-},
-{
-  "title": "Ruptures in the Reproductive Rights Movement / Lecture",
-  "titleExplain": "Michal Raucher, associate professor of Jewish Studies at Rutgers University, discusses \"How the Politics of Race, Religion and Israel/Palestine Fractured Feminism in the United States.\"",
-  "date": "2026-11-16",
-  "startTime": "4:45 p.m.",
-  "endTime": "6 p.m.",
-  "location": "Cleveland Hall, L-1",
-  "college": "Mount Holyoke",
-  "tickets": null,
-  "url": "https://events.mtholyoke.edu/event/the-jane-freeman-crosthwaite-lecture-on-religion-in-american-public-life-dr-michal-raucher",
-  "isNew": true
-},
-{
   "title": "Faculty Chamber Series: American Music / Concert",
   "titleExplain": "Second in a series of Faculty Chamber Music concerts celebrating the music of American composers.",
   "date": "2026-11-17",
@@ -380,6 +354,8 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://www.umass.edu/music-dance/events/brass-bash-fall-2026",
+      "imageAlt": "Image of brass instrument",
+      "imageURL": "images/BrassChoirUnsplash1126c.jpg",
       "isNew": false
     },
     {

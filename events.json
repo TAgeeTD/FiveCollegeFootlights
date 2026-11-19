@@ -1,68 +1,6 @@
 {
   "events": [
 {
-  "title": "Jazz Ensemble Fall Concert: Birds and Flight",
-  "titleExplain": "Music inspired by birds and their flight, including familiar classic jazz standards and contemporary big band arrangements.",
-  "date": "2026-11-18",
-  "startTime": "7:30 p.m.",
-  "endTime": "9 p.m.",
-  "location": "Sweeney Concert Hall",
-  "college": "Smith",
-  "tickets": "Free",
-  "url": "https://www.smith.edu/news-events/events/jazz-ensemble-fall-concert-birds-and-flight",
-  "isNew": false
-},
-{
-  "title": "\"Enter This Wild Wood\" / Film, Discussion",
-  "titleExplain": "\"Venture into the woods with naturalist-leaning engineer Bob Leverett, who helped identify long overlooked old-growth forests in Massachusetts.\" Thirty-minute documentary followed by panel discussion.",
-  "date": "2026-11-18",
-  "startTime": "7 p.m.",
-  "endTime": "8 p.m.",
-  "location": "Weinstein Auditorium",
-  "college": "Smith",
-  "tickets": "Free",
-  "url": "https://www.smith.edu/news-events/events/premiere-screening-enter-wild-wood-followed-panel-discussion",
-  "imageAlt": "Photo of big trees",
-  "imageURL": "images/TreePixabayC.jpg",
-  "isNew": true
-},
-{
-  "title": "All-University Orchestra / Concert",
-  "titleExplain": "Performing Dvořák’s Serenade for Strings, Barber’s Adagio for Strings, and Christopher Wilson’s Suite for String Orchestra.",
-  "date": "2026-11-18",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/all-university-orchestra-fall-2026",
-  "isNew": false
-},
-{
-  "title": "Queen Esther: A Heretical Play from Early Modern Spain / Lecture",
-  "titleExplain": "\"In this Illuminated Lecture, a form that weaves theater and music into an academic lecture, UMass Professor Harley Erdman, with the support of five student actors, shares his research on a play from 1613 that landed its playwright, Felipe Godínez, in jail for heresy.\"",
-  "date": "2026-11-18",
-  "startTime": "4:30 p.m.",
-  "endTime": null,
-  "location": "The Rand Theater",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/theater/performances/2026-2027-performances",
-  "isNew": false
-},
-{
-  "title": "From Cuba to Palestine: The Causes and Consequences of U.S. Imperialism / Panel Discussion",
-  "titleExplain": "Featuring Gloria Caballero Roca, activist and scholar; Aviva Chomsky, historian, author and professor of history; and Greg Grandin, Pulitzer Prize-winning historian. Part of the Ellsberg Initiative for Peace and Democracy.",
-  "date": "2026-11-18",
-  "startTime": "7 p.m.",
-  "endTime": "8:30 p.m.",
-  "location": "Commonwealth Honors College Events Hall, 157 Commonwealth Ave.",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://mailchi.mp/8149c0b273c2/second-annual-ellsberg-lecture-14196843?e=4c1293df12",
-  "isNew": false
-},
-{
   "title": "Beethoven Sonata Series No. 3 / Concert",
   "titleExplain": "Piano professor Gilles Vonsattel presents his third in a series of Beethoven piano sonatas.",
   "date": "2026-11-19",
@@ -208,18 +146,6 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-    {
-      "title": "Encountering Beethoven: Gilles Vonsattel / Lecture & Performance",
-      "titleExplain": "Lecture by pianist Gilles Vonsattel, who will also demonstrate at the piano Beethoven piano sonatas that he will play on Nov. 19 at UMass.",
-      "date": "2026-11-18",
-      "startTime": "7:30 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Aliki Perroti & Seth Frank Lyceum, CHI Think Tank",
-      "college": "Amherst",
-      "tickets": "Free",
-      "url": "https://www.amherst.edu/academiclife/departments/music/events/node/949195",
-      "isNew": false
-    },
         {
       "title": "\"Clue\" / Theater",
       "titleExplain": "Play based on the popular board game.",

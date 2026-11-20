@@ -51,6 +51,18 @@
   "isNew": false
 },
 {
+  "title": "Performing Arts Concert: A Night of A Cappella",
+  "titleExplain": "Participating student groups include The Vocal Suspects and the Dynamics.",
+  "date": "2026-11-20",
+  "startTime": "7 p.m.",
+  "endTime": "8:30 p.m.",
+  "location": "Marcus Hall 131",
+  "college": "UMass",
+  "tickets": "Free",
+  "url": "https://events.umass.edu/event/performing-arts-concert",
+  "isNew": true
+},
+{
   "title": "Fall Faculty Dance Concert",
   "titleExplain": null,
   "date": "2026-11-21",

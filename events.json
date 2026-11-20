@@ -1,44 +1,6 @@
 {
   "events": [
 {
-  "title": "Beethoven Sonata Series No. 3 / Concert",
-  "titleExplain": "Piano professor Gilles Vonsattel presents his third in a series of Beethoven piano sonatas.",
-  "date": "2026-11-19",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/faculty-concert-gilles-vonsattel-piano-beethoven-sonata-series-3",
-  "imageAlt": "Drawing of Beethoven",
-  "imageURL": "images/BeethovenImageC.jpg",
-  "isNew": false
-},
-{
-  "title": "BalletX",
-  "titleExplain": "\"BalletX unites artistic innovation with technical excellence to forge new works of athleticism, emotion, and grace.\"",
-  "date": "2026-11-19",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Frederick C. Tillis Performance Hall",
-  "college": "UMass",
-  "tickets": "Ticket prices start at $39, but $20 for youths 17 and under and Five College students.",
-  "url": "https://arts.umass.edu/performing-arts/events/2026-2027/balletx",
-  "isNew": false
-},
-{
-  "title": "Fall Faculty Dance Concert",
-  "titleExplain": null,
-  "date": "2026-11-19",
-  "startTime": "8 p.m.",
-  "endTime": "10 p.m.",
-  "location": "Theatre 14",
-  "college": "Smith",
-  "tickets": "Tickets can be purchased at smitharts.ludus.com.",
-  "url": "https://www.smith.edu/news-events/events/fall-faculty-dance-concert-0",
-  "isNew": false
-},
-{
   "title": "Fall Faculty Dance Concert",
   "titleExplain": null,
   "date": "2026-11-20",
@@ -159,33 +121,6 @@
   "isNew": false
 },
         {
-      "title": "\"Clue\" / Theater",
-      "titleExplain": "Play based on the popular board game.",
-      "date": "2026-11-19",
-      "startTime": "7:30 p.m.",
-      "endTime": null,
-      "location": "Rooke Theatre",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets: $10 general admission, $5 students",
-      "imageAlt": "Photo of magnifying glass",
-      "imageURL": "images/MagnifyingGlassUnsplash1126c.jpg",
-      "url": "https://events.mtholyoke.edu/event/clue"
-    },
-        {
-      "title": "\"The Lightning Thief: A Percy Jackson Musical\" / Theater",
-      "titleExplain": "This presentation by the UMass Theatre Guild, a student-run organization, is based on the Rick Riordan book of the same name.",
-      "date": "2026-11-19",
-      "startTime": "7 p.m.",
-      "endTime": null,
-      "location": "Student Union Black Box",
-      "college": "UMass",
-      "tickets": "Tickets: $14 general admission, $10 students and UMass faculty and staff. Note: Organizers says the shows are sold out for pre-order but a limited number of tickets will be available at the door.",
-      "url": "https://umasstheatreguild.weebly.com/the-lightning-thief.html",
-      "imageAlt": "Photo of lightning bolt amid clouds",
-      "imageURL": "images/LightningSmall2026C.jpg",
-      "isNew": true
-    },
-        {
       "title": "\"The Lightning Thief: A Percy Jackson Musical\" / Theater",
       "titleExplain": "This presentation by the UMass Theatre Guild, a student-run organization, is based on the Rick Riordan book of the same name.",
       "date": "2026-11-20",
@@ -226,18 +161,6 @@
       "imageAlt": "Photo of lightning bolt amid clouds",
       "imageURL": "images/LightningSmall2026C.jpg",
       "isNew": true
-    },
-        {
-      "title": "Trans Day of Remembrance: Memorial, Reflection, and Restoration",
-      "titleExplain": "Featuring keynote speaker Nala Simone Tousaaint.",
-      "date": "2026-11-19",
-      "startTime": "5 p.m.",
-      "endTime": "8:30 p.m.",
-      "location": "Community Center, Great Roiom",
-      "college": "Mount Holyoke",
-      "tickets": null,
-      "url": "https://events.mtholyoke.edu/event/trans-day-of-remembrance-tdor-memorial-reflection-and-restoration",
-      "isNew": false
     },
         {
       "title": "\"Clue\" / Theater",

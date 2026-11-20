@@ -213,6 +213,18 @@
       "isNew": false
     },
         {
+      "title": "Pioneer Valley Symphony / Concert",
+      "titleExplain": "Performing Mozart's Requiem, a world premiere by Kiegan Ryan, and Beethoven's 5th Symphony.",
+      "date": "2026-11-21",
+      "startTime": "2 p.m.",
+      "endTime": "4 p.m.",
+      "location": "Abbey Memorial Chapel",
+      "college": "Mount Holyoke",
+      "tickets": "Tickets: $20 to $40",
+      "url": "https://www.pvsoc.org/event-details/mozart-requiem-a-world-premiere-by-kiegan-ryan-and-beethovens-5th-symphony",
+      "isNew": true
+    },
+        {
       "title": "\"Clue\" / Theater",
       "titleExplain": "Play based on the popular board game.",
       "date": "2026-11-22",

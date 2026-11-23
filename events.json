@@ -1,42 +1,6 @@
 {
   "events": [
 {
-  "title": "Woodwind Chamber Ensembles / Concert",
-  "titleExplain": "Repertoire to be announced.",
-  "date": "2026-11-22",
-  "startTime": "1:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/woodwind-chamber-ensembles-nov-2026",
-  "isNew": false
-},
-{
-  "title": "Smith College Orchestra Fall Concert",
-  "titleExplain": "Featuring Robyn Quinnett as violin soloist.",
-  "date": "2026-11-22",
-  "startTime": "3 p.m.",
-  "endTime": "5 p.m.",
-  "location": "Sweeney Concert Hall",
-  "college": "Smith",
-  "tickets": "Free",
-  "url": "https://www.smith.edu/news-events/events/orchestra-fall-2026-concert",
-  "isNew": false
-},
-{
-  "title": "Wild Klezmer in the Ol' Polish Tavern",
-  "titleExplain": "Presented by the MHC Klezmer Band and the Early Music Program.",
-  "date": "2026-11-22",
-  "startTime": "3:30 p.m.",
-  "endTime": null,
-  "location": "Pratt Music Hall McCulloch Auditorium",
-  "college": "Mount Holyoke",
-  "tickets": "Free",
-  "url": "https://events.mtholyoke.edu/event/wild-klezmer-in-the-ol-polish-tavern",
-  "isNew": false
-},
-{
   "title": "String Chamber Ensembles / Concert",
   "titleExplain": "Performances of classic string chamber music, including works by Brahms, Beethoven, Dvořák, Mendelssohn, Mozart, Haydn and Moszkowski.",
   "date": "2026-11-23",
@@ -60,19 +24,6 @@
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
   "isNew": false
 },
-        {
-      "title": "\"Clue\" / Theater",
-      "titleExplain": "Play based on the popular board game.",
-      "date": "2026-11-22",
-      "startTime": "2:30 p.m.",
-      "endTime": null,
-      "location": "Rooke Theatre",
-      "college": "Mount Holyoke",
-      "tickets": "Tickets: $10 general admission, $5 students",
-      "imageAlt": "Photo of magnifying glass",
-      "imageURL": "images/MagnifyingGlassUnsplash1126c.jpg",
-      "url": "https://events.mtholyoke.edu/event/clue"
-    },
         {
       "title": "Brass Bash / Concert",
       "titleExplain": "Faculty Brass Quintet plus the Trombone, Jazz Trombone, Horn, Trumpet & Brass Choirs, including a performance by a massed choir of all brass students.",

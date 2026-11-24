@@ -1,18 +1,6 @@
 {
   "events": [
 {
-  "title": "String Chamber Ensembles / Concert",
-  "titleExplain": "Performances of classic string chamber music, including works by Brahms, Beethoven, Dvořák, Mendelssohn, Mozart, Haydn and Moszkowski.",
-  "date": "2026-11-23",
-  "startTime": "7:30 p.m.",
-  "endTime": null,
-  "location": "Bezanson Recital Hall",
-  "college": "UMass",
-  "tickets": "Free",
-  "url": "https://www.umass.edu/music-dance/events/string-chamber-ensembles-nov-2026",
-  "isNew": false
-},
-{
   "title": "Graduate Brass Quintet / Concert",
   "titleExplain": "Performing classics as well as new and arranged works.",
   "date": "2026-11-30",
@@ -239,6 +227,30 @@
       "tickets": "Free",
       "url": "https://www.amherst.edu/academiclife/departments/music/events/node/944408",
       "isNew": false
+    },
+    {
+      "title": "Fun Saturday Morning: Holiday Edition",
+      "titleExplain": "UMass Downtown offers free crafting program for all ages",
+      "date": "2026-12-05",
+      "startTime": "10 a.m.",
+      "endTime": "12 p.m.",
+      "location": "108 North Pleasant St., Amherst",
+      "college": "UMass",
+      "tickets": null,
+      "url": "https://events.umass.edu/event/fun-saturday-morning-holiday-edition-6520",
+      "isNew": true
+    },
+    {
+      "title": "UMass Dynamics Holiday Concert",
+      "titleExplain": "Student-run a capella group mixes holiday favorites with other songs in their repertoire.",
+      "date": "2026-12-05",
+      "startTime": "6:30 p.m.",
+      "endTime": null,
+      "location": "Herter Hall Room 227",
+      "college": "UMass",
+      "tickets": null,
+      "url": null,
+      "isNew": true
     },
     {
       "title": "Holiday Vespers",
@@ -496,6 +508,18 @@
       "tickets": "Tickets: $17 general; $7 students, seniors, UMass employees; UMass students free with ID",
       "url": "https://www.umass.edu/music-dance/events/chapel-jazz-jazz-lab-ensembles-dec-26",
       "isNew": false
+    },
+    {
+      "title": "MASSive Desk Concert Series",
+      "titleExplain": "\"Get to know some MASSively talented up-and-coming UMass musicians in this chill monthly concert series.\"",
+      "date": "2026-12-10",
+      "startTime": "7 p.m.",
+      "endTime": "8 p.m.",
+      "location": "108 North Pleasant St., Amherst",
+      "college": "UMass",
+      "tickets": "Free",
+      "url": "https://events.umass.edu/event/massive-desk-concert-series-767",
+      "isNew": true
     },
     {
       "title": "Bare Bones Dance Concert",

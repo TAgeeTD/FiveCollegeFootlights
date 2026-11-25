@@ -206,15 +206,39 @@
       "isNew": false
     },
     {
-      "title": "Fall Studio Productions / Theater",
-      "titleExplain": "Student-directed one-act plays.",
+      "title": "Smith Student Art Sale",
+      "titleExplain": "Featuring jewelry, artwork, ceramics, accessories and more.",
+      "date": "2026-12-04",
+      "startTime": "1 p.m.",
+      "endTime": "5 p.m.",
+      "location": "Campus Center: 208 Carroll Room, Wilson Atrium",
+      "college": "Smith",
+      "tickets": "Free admission",
+      "url": "https://www.smith.edu/news-events/events/smith-student-art-sale-0",
+      "dateAdded": "2026-11-24"
+    },
+    {
+      "title": "Two One-Act Plays / Theater",
+      "titleExplain": "Student-directed one-act plays: \"Matt and Ben\" by Mindy Kaling and Brenda Withers, and \"Overtones\" by Alice Gerstenberg.",
+      "date": "2026-12-04",
+      "startTime": "7:30 p.m.",
+      "endTime": "10 p.m.",
+      "location": "Hallie Flanagan Studio Theatre",
+      "college": "Smith",
+      "tickets": "Tickets are free but reservations are encouraged at smitharts.ludus.com.",
+      "url": "https://myemail.constantcontact.com/SmithArts-Release--2026-Fall-Studio-Productions---One-Acts-directed-by-students.html?soid=1135033339154&aid=WdY5oFAJUv0",
+      "isNew": false
+    },
+    {
+      "title": "Two One-Act Plays / Theater",
+      "titleExplain": "Student-directed one-act plays: \"Matt and Ben\" by Mindy Kaling and Brenda Withers, and \"Overtones\" by Alice Gerstenberg.",
       "date": "2026-12-05",
       "startTime": "7:30 p.m.",
       "endTime": "10 p.m.",
       "location": "Hallie Flanagan Studio Theatre",
       "college": "Smith",
-      "tickets": "Free",
-      "url": "https://www.smith.edu/news-events/events/fall-studio-productions",
+      "tickets": "Tickets are free but reservations are encouraged at smitharts.ludus.com.",
+      "url": "https://myemail.constantcontact.com/SmithArts-Release--2026-Fall-Studio-Productions---One-Acts-directed-by-students.html?soid=1135033339154&aid=WdY5oFAJUv0",
       "isNew": false
     },
     {
@@ -638,6 +662,18 @@
       "url": "https://www.umass.edu/music-dance/events/listening-room-ep-21-classic-performances",
       "isNew": false
     },
+            {
+      "title": "Shared Student Recital, 3 of 4",
+      "titleExplain": "Students from the Individual Study program perform.",
+      "date": "2026-12-14",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Pratt Music Hall, Warbeke Room",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/shared-student-recital-3-of-4",
+      "dateAdded": "2026-11-25"
+    },
         {
       "title": "Encountering Beethoven: Gilles Vonsattel / Lecture & Performance",
       "titleExplain": "Lecture by pianist Gilles Vonsattel, who will also demonstrate at the piano Beethoven piano sonatas that he will play on Dec. 16, Beethoven's birthday, at UMass.",
@@ -673,6 +709,30 @@
       "tickets": "Seating is limited. Ticket reservations are required at smitharts.ludus.com.",
       "url": "https://www.smith.edu/news-events/events/fall-grad-dance-event-1",
       "isNew": false
+    },
+        {
+      "title": "Film/Media Studies Student Film Screenings",
+      "titleExplain": null,
+      "date": "2026-12-15",
+      "startTime": "4:30 p.m.",
+      "endTime": "6:30 p.m.",
+      "location": "Graham Hall-Hiller",
+      "college": "Smith",
+      "tickets": "Free",
+      "url": "https://www.smith.edu/news-events/events/filmmedia-studies-student-film-screenings",
+      "dateAdded": "2026-11-24"
+    },
+      {
+      "title": "Shared Student Recital, 4 of 4",
+      "titleExplain": "Students from the Individual Study program perform.",
+      "date": "2026-12-15",
+      "startTime": "4:30 p.m.",
+      "endTime": "6 p.m.",
+      "location": "Pratt Music Hall, McCulloch Auditorium",
+      "college": "Mount Holyoke",
+      "tickets": null,
+      "url": "https://events.mtholyoke.edu/event/shared-student-recital-4-of-4",
+      "dateAdded": "2026-11-25"
     },
     {
       "title": "Wailing Banshees Fall Concert: Celtic Creatures",

@@ -10,6 +10,7 @@
   "college": "UMass",
   "tickets": "Free",
   "url": "https://www.umass.edu/music-dance/events/graduate-brass-quintet-fall-26",
+  "dateAdded": "2026-11-17",
   "isNew": false
 },
         {
@@ -136,7 +137,7 @@
       "imageAlt": "Drawing of a scene from \"A Midsummer Night's Dream\".",
       "imageURL": "images/MidsummerTheMetC.jpeg",
       "url": "https://umasstheatreguild.weebly.com/a-midsummer-nights-dream.html",
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "\"A Midsummer Night's Dream\" / Theater",
@@ -150,7 +151,7 @@
       "imageAlt": "Drawing of a scene from \"A Midsummer Night's Dream\".",
       "imageURL": "images/MidsummerTheMetC.jpeg",
       "url": "https://umasstheatreguild.weebly.com/a-midsummer-nights-dream.html",
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "\"A Midsummer Night's Dream\" / Theater",
@@ -164,7 +165,7 @@
       "imageAlt": "Drawing of a scene from \"A Midsummer Night's Dream\".",
       "imageURL": "images/MidsummerTheMetC.jpeg",
       "url": "https://umasstheatreguild.weebly.com/a-midsummer-nights-dream.html",
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "\"A Midsummer Night's Dream\" / Theater",
@@ -178,7 +179,7 @@
       "imageAlt": "Drawing of a scene from \"A Midsummer Night's Dream\".",
       "imageURL": "images/MidsummerTheMetC.jpeg",
       "url": "https://umasstheatreguild.weebly.com/a-midsummer-nights-dream.html",
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "Merry Maple Holiday Celebration Featuring the Minuteman Marching Band",
@@ -238,7 +239,7 @@
       "college": "UMass",
       "tickets": null,
       "url": "https://events.umass.edu/event/fun-saturday-morning-holiday-edition-6520",
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "UMass Dynamics Holiday Concert",
@@ -250,7 +251,7 @@
       "college": "UMass",
       "tickets": null,
       "url": null,
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "Holiday Vespers",
@@ -519,7 +520,7 @@
       "college": "UMass",
       "tickets": "Free",
       "url": "https://events.umass.edu/event/massive-desk-concert-series-767",
-      "isNew": true
+      "dateAdded": "2026-11-22"
     },
     {
       "title": "Bare Bones Dance Concert",

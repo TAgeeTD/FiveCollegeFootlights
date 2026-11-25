@@ -129,12 +129,28 @@ fetch("events.json")
     /* ---------------------------------------------
          Group events by date
       --------------------------------------------- */
-    const groupedEvents = data.events.reduce((acc, event) => {
+   /* const groupedEvents = data.events.reduce((acc, event) => {
       if (!event.date) return acc;
       acc[event.date] = acc[event.date] || [];
       acc[event.date].push(event);
       return acc;
-    }, {});
+    }, {}); */
+
+
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+
+const groupedEvents = data.events.reduce((acc, event) => {
+  if (!event.date) return acc;
+
+  // Hide expired events
+  if (parseLocalDate(event.date) < today) return acc;
+
+  acc[event.date] = acc[event.date] || [];
+  acc[event.date].push(event);
+  return acc;
+}, {});
+
 
     const sortedDates = Object.keys(groupedEvents).sort(
       (a, b) => parseLocalDate(a) - parseLocalDate(b)
@@ -230,12 +246,25 @@ fetch("events.json")
       groupedEvents[date].forEach((event) => {
         const card = document.createElement("article");
         card.className = "event-card";
-
+/*
         // Border for newly added events
         if (event.isNew === true) {
           card.classList.add("new-event");
 }
+*/
 
+
+// Highlight events added within the past seven days
+if (event.dateAdded) {
+  const addedDate = parseLocalDate(event.dateAdded);
+
+  const expirationDate = new Date(addedDate);
+  expirationDate.setDate(expirationDate.getDate() + 7);
+
+  if (today >= addedDate && today < expirationDate) {
+    card.classList.add("new-event");
+  }
+}
         // Format times
         let timeText = "";
         const start = militaryTo12Hour(event.startTime);
